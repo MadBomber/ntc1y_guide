@@ -2,6 +2,8 @@
 layout: default
 ---
 
-<h1><%= data.title %></h1>
+<article<% if data.phase_number %> data-phase="<%= data.phase_number %>"<% end %><% if data.week %> data-week="<%= data.week %>"<% end %><% if data.day %> data-day="<%= data.day %>"<% end %><% if data.type %> data-type="<%= data.type %>"<% end %>>
+  <h1><%= data.title %></h1>
 
-<%= yield %>
+  <%= yield %>
+</article>

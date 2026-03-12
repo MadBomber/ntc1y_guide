@@ -284,34 +284,6 @@ tr:hover td {
   transform: translateY(-1px);
 }
 
-/* --- Stats Bar --- */
-
-.stats-bar {
-  display: flex;
-  justify-content: center;
-  gap: 1.5rem;
-  flex-wrap: wrap;
-  margin: 2rem 0;
-  padding: 1.25rem;
-  background: var(--bg-surface-alt);
-  border-radius: var(--radius);
-  border: 1px solid var(--border-color);
-}
-
-.stat {
-  text-align: center;
-  font-family: var(--font-sans);
-  font-size: 0.9rem;
-  color: var(--text-secondary);
-}
-
-.stat strong {
-  display: block;
-  font-size: 1.8rem;
-  color: var(--purple-deep);
-  line-height: 1.2;
-}
-
 /* --- Phase Cards (Landing Page) --- */
 
 .phases h2 {
@@ -446,6 +418,123 @@ tr:hover td {
 
 .site-footer a {
   color: var(--text-secondary);
+}
+
+/* --- Today's Bible Study Card --- */
+
+.todays-study-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 1.5rem 0;
+  padding: 1.25rem 2rem;
+  background: linear-gradient(135deg, var(--purple-deep) 0%, var(--purple-mid) 100%);
+  color: #fff;
+  text-decoration: none;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.todays-study-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  color: #fff;
+}
+
+.todays-study-label {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--gold-light);
+}
+
+.todays-study-detail {
+  font-family: var(--font-serif);
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.todays-study-progress {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.7);
+  margin-top: 0.25rem;
+}
+
+/* --- Progress Tracking --- */
+
+.progress-cell {
+  width: 2rem;
+  text-align: center;
+}
+
+.progress-checkbox {
+  width: 1.1rem;
+  height: 1.1rem;
+  accent-color: var(--purple-mid);
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.progress-checkbox:disabled {
+  cursor: default;
+}
+
+.progress-date-cell {
+  white-space: nowrap;
+}
+
+.progress-date {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.phase-overview-row td {
+  background: var(--purple-faint);
+  font-weight: 600;
+}
+
+.day-complete-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 2rem 0;
+  padding: 1.25rem;
+  background: var(--bg-surface-alt);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+}
+
+.day-complete-btn {
+  display: inline-block;
+  background: var(--purple-mid);
+  color: #fff;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.95rem;
+  border: none;
+  padding: 0.6rem 1.5rem;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+}
+
+.day-complete-btn:hover {
+  background: var(--purple-deep);
+  transform: translateY(-1px);
+}
+
+.day-complete-btn.completed {
+  background: var(--gold);
+  color: var(--purple-deep);
+}
+
+.day-complete-btn.completed:hover {
+  background: var(--gold-light);
 }
 
 /* --- Utility --- */
