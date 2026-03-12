@@ -10,6 +10,7 @@ tags:
 - suffering
 - holiness
 - royal-priesthood
+memory_verse: "1 Peter 1:3-4"
 layout: page
 ---
 

@@ -10,6 +10,7 @@ tags:
 - philippi
 - athens
 - areopagus
+memory_verse: "Acts 17:28"
 layout: page
 ---
 

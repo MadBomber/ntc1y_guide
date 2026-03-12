@@ -9,6 +9,7 @@ tags:
 - paul
 - second-coming
 - hope
+memory_verse: "1 Thessalonians 4:16-17"
 layout: page
 ---
 

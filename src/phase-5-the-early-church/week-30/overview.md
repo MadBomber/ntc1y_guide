@@ -9,6 +9,7 @@ tags:
 - marriage
 - body-as-temple
 - christian-freedom
+memory_verse: "1 Corinthians 6:19-20"
 layout: page
 ---
 

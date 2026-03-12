@@ -8,6 +8,7 @@ tags:
 - transfiguration
 - passion-prediction
 - discipleship
+memory_verse: "Mark 8:29"
 layout: page
 ---
 

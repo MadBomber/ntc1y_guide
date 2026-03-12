@@ -16,6 +16,7 @@ tags:
 - conversion-of-paul
 - cornelius
 - gentile-inclusion
+memory_verse: "James 4:8"
 layout: page
 ---
 

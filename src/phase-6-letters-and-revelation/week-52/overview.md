@@ -12,6 +12,7 @@ tags:
 - second-coming
 - new-creation
 - finale
+memory_verse: "Revelation 21:4-5"
 layout: page
 ---
 

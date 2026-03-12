@@ -9,6 +9,7 @@ tags:
 - high-priestly-prayer
 - betrayal
 - denial
+memory_verse: "John 17:3"
 layout: page
 ---
 

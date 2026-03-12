@@ -10,6 +10,7 @@ tags:
 - worship
 - lords-supper
 - body-of-christ
+memory_verse: "1 Corinthians 13:4-7"
 layout: page
 ---
 

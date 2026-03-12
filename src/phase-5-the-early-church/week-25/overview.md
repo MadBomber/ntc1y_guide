@@ -9,6 +9,7 @@ tags:
 - freedom
 - fruit-of-spirit
 - law-vs-grace
+memory_verse: "Galatians 5:22-23"
 layout: page
 ---
 

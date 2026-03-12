@@ -19,6 +19,7 @@ tags:
 - appearances
 - restoration
 - ascension
+memory_verse: "Matthew 28:18-20"
 layout: page
 ---
 

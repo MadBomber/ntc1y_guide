@@ -10,6 +10,7 @@ tags:
 - weakness
 - false-teachers
 - generosity
+memory_verse: "2 Corinthians 12:9"
 layout: page
 ---
 

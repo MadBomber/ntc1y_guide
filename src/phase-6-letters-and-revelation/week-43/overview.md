@@ -8,6 +8,7 @@ tags:
 - 1-timothy
 - church-leadership
 - false-teaching
+memory_verse: "1 Timothy 4:12"
 layout: page
 ---
 

@@ -14,6 +14,7 @@ tags:
 - birth-narratives
 - john-the-baptist
 - baptism
+memory_verse: "Luke 2:30-32"
 layout: page
 ---
 

@@ -10,6 +10,7 @@ tags:
 - joy
 - supremacy-of-christ
 - contentment
+memory_verse: "Philippians 4:6-7"
 layout: page
 ---
 

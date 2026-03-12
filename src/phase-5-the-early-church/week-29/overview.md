@@ -10,6 +10,7 @@ tags:
 - wisdom
 - cross
 - spiritual-maturity
+memory_verse: "1 Corinthians 1:18"
 layout: page
 ---
 

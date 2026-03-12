@@ -13,6 +13,7 @@ tags:
 - phase-1
 - birth-narratives
 - incarnation
+memory_verse: "John 1:14"
 layout: page
 ---
 

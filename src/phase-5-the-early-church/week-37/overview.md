@@ -11,6 +11,7 @@ tags:
 - ethics
 - love
 - christian-liberty
+memory_verse: "Romans 12:1-2"
 layout: page
 ---
 

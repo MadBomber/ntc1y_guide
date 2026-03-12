@@ -10,6 +10,7 @@ tags:
 - paul
 - barnabas
 - gentile-mission
+memory_verse: "Acts 13:47"
 layout: page
 ---
 

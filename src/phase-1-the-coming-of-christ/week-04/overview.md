@@ -15,6 +15,7 @@ tags:
 - calling-disciples
 - miracles
 - authority
+memory_verse: "Mark 1:15"
 layout: page
 ---
 

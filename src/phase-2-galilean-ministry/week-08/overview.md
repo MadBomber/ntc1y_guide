@@ -9,6 +9,7 @@ tags:
 - walking-on-water
 - bread-of-life
 - john-the-baptist
+memory_verse: "John 6:35"
 layout: page
 ---
 

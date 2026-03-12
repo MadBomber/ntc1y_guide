@@ -15,6 +15,7 @@ tags:
 - twelve-apostles
 - authority
 - teaching
+memory_verse: "Matthew 6:33"
 layout: page
 ---
 

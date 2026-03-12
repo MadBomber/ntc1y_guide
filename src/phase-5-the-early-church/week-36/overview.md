@@ -10,6 +10,7 @@ tags:
 - spirit
 - sovereignty
 - adam-christ
+memory_verse: "Romans 8:28"
 layout: page
 ---
 

@@ -11,6 +11,7 @@ tags:
 - grace
 - unity
 - mystery
+memory_verse: "Ephesians 2:8-9"
 layout: page
 ---
 

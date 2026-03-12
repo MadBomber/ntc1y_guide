@@ -17,6 +17,7 @@ tags:
 - armor-of-god
 - kenosis
 - joy
+memory_verse: "Philippians 2:5-8"
 layout: page
 ---
 

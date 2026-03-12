@@ -15,6 +15,7 @@ tags:
 - early-ministry
 - gospel-of-john
 - signs
+memory_verse: "John 3:16-17"
 layout: page
 ---
 

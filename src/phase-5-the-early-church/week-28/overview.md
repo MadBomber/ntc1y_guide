@@ -9,6 +9,7 @@ tags:
 - thessalonians
 - idleness
 - apollos
+memory_verse: "2 Thessalonians 3:3"
 layout: page
 ---
 

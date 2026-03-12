@@ -10,6 +10,7 @@ tags:
 - sacrifice
 - faith-heroes
 - perseverance
+memory_verse: "Hebrews 11:1"
 layout: page
 ---
 

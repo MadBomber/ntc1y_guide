@@ -10,6 +10,7 @@ tags:
 - arrest
 - testimony
 - ephesian-elders
+memory_verse: "Acts 20:24"
 layout: page
 ---
 

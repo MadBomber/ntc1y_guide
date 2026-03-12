@@ -11,6 +11,7 @@ tags:
 - contentment
 - grace
 - courage
+memory_verse: "Titus 2:11-12"
 layout: page
 ---
 

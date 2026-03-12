@@ -11,6 +11,7 @@ tags:
 - second-coming
 - new-creation
 - humility
+memory_verse: "1 Peter 5:7"
 layout: page
 ---
 

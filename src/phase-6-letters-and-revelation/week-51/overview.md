@@ -10,6 +10,7 @@ tags:
 - lamb
 - vision
 - apocalyptic
+memory_verse: "Revelation 1:8"
 layout: page
 ---
 

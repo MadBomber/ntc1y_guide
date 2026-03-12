@@ -8,6 +8,7 @@ tags:
 - feeding-miracles
 - clean-unclean
 - faith
+memory_verse: "John 6:68"
 layout: page
 ---
 

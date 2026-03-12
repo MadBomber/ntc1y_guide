@@ -9,6 +9,7 @@ tags:
 - good-samaritan
 - prayer
 - discipleship
+memory_verse: "Luke 10:27"
 layout: page
 ---
 

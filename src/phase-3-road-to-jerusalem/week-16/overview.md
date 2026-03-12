@@ -9,6 +9,7 @@ tags:
 - parables
 - judgment
 - woes
+memory_verse: "Matthew 25:40"
 layout: page
 ---
 

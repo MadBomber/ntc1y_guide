@@ -15,6 +15,7 @@ tags:
 - rich-young-man
 - plot-against-jesus
 - zacchaeus
+memory_verse: "John 11:25-26"
 layout: page
 ---
 

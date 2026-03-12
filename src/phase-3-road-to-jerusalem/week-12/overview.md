@@ -15,6 +15,7 @@ tags:
 - i-am-sayings
 - parables-of-grace
 - prodigal-son
+memory_verse: "John 8:12"
 layout: page
 ---
 

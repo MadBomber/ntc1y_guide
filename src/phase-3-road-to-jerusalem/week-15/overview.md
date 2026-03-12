@@ -8,6 +8,7 @@ tags:
 - temple-cleansing
 - authority
 - passion-week
+memory_verse: "Mark 12:30-31"
 layout: page
 ---
 

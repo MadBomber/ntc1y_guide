@@ -10,6 +10,7 @@ tags:
 - scattering
 - james
 - faith-and-works
+memory_verse: "James 1:22"
 layout: page
 ---
 

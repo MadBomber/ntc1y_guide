@@ -11,6 +11,7 @@ tags:
 - righteousness
 - abraham
 - gospel
+memory_verse: "Romans 1:16-17"
 layout: page
 ---
 

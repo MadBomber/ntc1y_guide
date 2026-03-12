@@ -9,6 +9,7 @@ tags:
 - reconciliation
 - generosity
 - ministry
+memory_verse: "2 Corinthians 4:7"
 layout: page
 ---
 

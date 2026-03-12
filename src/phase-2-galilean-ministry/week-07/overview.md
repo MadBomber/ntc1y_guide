@@ -8,6 +8,7 @@ tags:
 - kingdom-of-god
 - sabbath-controversy
 - rejection
+memory_verse: "Matthew 11:28-30"
 layout: page
 ---
 

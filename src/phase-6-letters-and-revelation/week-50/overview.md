@@ -12,6 +12,7 @@ tags:
 - confession
 - antichrist
 - fellowship
+memory_verse: "1 John 1:9"
 layout: page
 ---
 

@@ -16,6 +16,7 @@ tags:
 - i-am-sayings
 - faith
 - gratitude
+memory_verse: "John 10:10"
 layout: page
 ---
 

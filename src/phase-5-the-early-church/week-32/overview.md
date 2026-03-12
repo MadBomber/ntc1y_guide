@@ -10,6 +10,7 @@ tags:
 - new-covenant
 - comfort
 - glory
+memory_verse: "1 Corinthians 15:55-57"
 layout: page
 ---
 

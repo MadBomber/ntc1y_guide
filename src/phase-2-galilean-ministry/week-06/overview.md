@@ -15,6 +15,7 @@ tags:
 - parables
 - mission
 - faith
+memory_verse: "Matthew 9:37-38"
 layout: page
 ---
 

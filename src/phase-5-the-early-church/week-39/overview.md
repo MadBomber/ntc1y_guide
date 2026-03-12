@@ -11,6 +11,7 @@ tags:
 - agrippa
 - shipwreck
 - roman-law
+memory_verse: "Acts 26:28-29"
 layout: page
 ---
 

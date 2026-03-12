@@ -16,6 +16,7 @@ tags:
 - burial
 - atonement
 - seven-last-words
+memory_verse: "Luke 23:34"
 layout: page
 ---
 

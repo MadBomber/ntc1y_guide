@@ -10,6 +10,7 @@ tags:
 - peter
 - holy-spirit
 - community
+memory_verse: "Acts 1:8"
 layout: page
 ---
 

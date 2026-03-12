@@ -9,6 +9,7 @@ tags:
 - farewell-discourse
 - holy-spirit
 - vine
+memory_verse: "John 15:5"
 layout: page
 ---
 
