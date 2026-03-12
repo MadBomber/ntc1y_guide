@@ -1,0 +1,455 @@
+/* ============================================
+   NT in One Year — Bible Study Theme
+   ============================================ */
+
+:root {
+  --purple-deep: #311b92;
+  --purple-mid: #4527a0;
+  --purple-light: #7c4dff;
+  --purple-faint: #ede7f6;
+  --gold: #c9a84c;
+  --gold-light: #f5e6b8;
+  --text-primary: #2c2c2c;
+  --text-secondary: #555;
+  --text-muted: #888;
+  --bg-body: #faf9f7;
+  --bg-surface: #ffffff;
+  --bg-surface-alt: #f5f3f0;
+  --border-color: #e0dcd5;
+  --font-serif: "Merriweather", Georgia, "Times New Roman", serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --max-width: 56rem;
+  --radius: 6px;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* --- Reset & Base --- */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg-body);
+  color: var(--text-primary);
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  line-height: 1.75;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: var(--purple-mid);
+  text-decoration-color: var(--purple-light);
+  transition: color 0.15s;
+}
+
+a:hover {
+  color: var(--purple-deep);
+}
+
+/* --- Site Header & Nav --- */
+
+.site-header {
+  background: var(--purple-deep);
+  padding: 0.75rem 1.5rem;
+  text-align: center;
+}
+
+.site-brand {
+  color: var(--gold);
+  font-family: var(--font-serif);
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-decoration: none;
+  letter-spacing: 0.03em;
+}
+
+.site-brand:hover {
+  color: var(--gold-light);
+}
+
+.site-nav {
+  background: var(--purple-mid);
+  padding: 0.4rem 1rem;
+}
+
+.site-nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.site-nav a {
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  padding: 0.3rem 0;
+  border-bottom: 2px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.site-nav a:hover {
+  color: #fff;
+  border-bottom-color: var(--gold);
+}
+
+/* --- Main Content --- */
+
+main {
+  max-width: var(--max-width);
+  margin: 2rem auto 4rem;
+  padding: 2rem 2.5rem 3rem;
+  background: var(--bg-surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+}
+
+@media (max-width: 600px) {
+  main {
+    margin: 1rem 0.5rem 3rem;
+    padding: 1.25rem 1rem 2rem;
+  }
+}
+
+/* --- Typography --- */
+
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+  color: var(--purple-deep);
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 0.5rem 0 1.5rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--purple-faint);
+}
+
+h3 {
+  font-size: 1.15rem;
+  margin: 1.5rem 0 0.5rem;
+}
+
+blockquote {
+  border-left: 4px solid var(--gold);
+  margin: 1.5rem 0;
+  padding: 0.75rem 1.25rem;
+  background: var(--purple-faint);
+  color: var(--text-secondary);
+  font-style: italic;
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+
+blockquote strong {
+  color: var(--text-primary);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border-color);
+  margin: 2.5rem 0;
+}
+
+/* --- Tables --- */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0 1.5rem;
+  font-size: 0.95rem;
+}
+
+th {
+  background: var(--purple-deep);
+  color: #fff;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.6rem 0.75rem;
+  text-align: left;
+}
+
+td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+tr:hover td {
+  background: var(--purple-faint);
+}
+
+/* --- Hero Section (Landing Page) --- */
+
+.hero {
+  text-align: center;
+  padding: 2rem 1rem 2.5rem;
+  margin: -2rem -2.5rem 0;
+  background: linear-gradient(135deg, var(--purple-deep) 0%, var(--purple-mid) 100%);
+  border-radius: var(--radius) var(--radius) 0 0;
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  .hero {
+    margin: -1.25rem -1rem 0;
+    padding: 1.5rem 1rem 2rem;
+  }
+}
+
+.hero-title {
+  color: #fff;
+  font-size: 2.8rem;
+  font-weight: 900;
+  margin: 0 0 0.5rem;
+  line-height: 1.15;
+  text-align: center;
+}
+
+.hero-title span {
+  color: var(--gold);
+  display: block;
+  font-size: 1.8rem;
+  font-weight: 400;
+  font-style: italic;
+  margin-top: 0.25rem;
+}
+
+@media (max-width: 600px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+  .hero-title span {
+    font-size: 1.3rem;
+  }
+}
+
+.hero-tagline {
+  font-family: var(--font-sans);
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.8);
+  margin: 0 0 1.5rem;
+  font-weight: 300;
+}
+
+.hero-verse {
+  font-size: 0.95rem;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.75);
+  max-width: 32rem;
+  margin: 0 auto 2rem;
+  line-height: 1.6;
+}
+
+.verse-ref {
+  font-style: normal;
+  color: var(--gold-light);
+  font-size: 0.85rem;
+}
+
+.hero-cta {
+  display: inline-block;
+  background: var(--gold);
+  color: var(--purple-deep);
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-size: 1.05rem;
+  text-decoration: none;
+  padding: 0.75rem 2rem;
+  border-radius: var(--radius);
+  transition: background 0.2s, transform 0.1s;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.hero-cta:hover {
+  background: var(--gold-light);
+  color: var(--purple-deep);
+  transform: translateY(-1px);
+}
+
+/* --- Stats Bar --- */
+
+.stats-bar {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+  padding: 1.25rem;
+  background: var(--bg-surface-alt);
+  border-radius: var(--radius);
+  border: 1px solid var(--border-color);
+}
+
+.stat {
+  text-align: center;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.stat strong {
+  display: block;
+  font-size: 1.8rem;
+  color: var(--purple-deep);
+  line-height: 1.2;
+}
+
+/* --- Phase Cards (Landing Page) --- */
+
+.phases h2 {
+  text-align: center;
+  border-bottom: none;
+}
+
+.phase-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+@media (max-width: 700px) {
+  .phase-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 450px) {
+  .phase-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.phase-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.25rem 1rem;
+  border-radius: var(--radius);
+  text-decoration: none;
+  color: #fff;
+  transition: transform 0.15s, box-shadow 0.15s;
+  box-shadow: var(--shadow-sm);
+}
+
+.phase-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  color: #fff;
+}
+
+.phase-number {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.8;
+}
+
+.phase-name {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0.25rem 0;
+  line-height: 1.3;
+}
+
+.phase-weeks {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  opacity: 0.7;
+  margin-top: auto;
+}
+
+.phase-1 { background: linear-gradient(135deg, #4a148c, #6a1b9a); }
+.phase-2 { background: linear-gradient(135deg, #1a237e, #283593); }
+.phase-3 { background: linear-gradient(135deg, #004d40, #00695c); }
+.phase-4 { background: linear-gradient(135deg, #b71c1c, #c62828); }
+.phase-5 { background: linear-gradient(135deg, #e65100, #ef6c00); }
+.phase-6 { background: linear-gradient(135deg, #1b5e20, #2e7d32); }
+
+/* --- Guide Cards --- */
+
+.guides h2 {
+  text-align: center;
+  border-bottom: none;
+}
+
+.guide-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+@media (max-width: 550px) {
+  .guide-cards {
+    grid-template-columns: 1fr;
+  }
+}
+
+.guide-card {
+  display: block;
+  padding: 1.25rem 1.5rem;
+  background: var(--bg-surface-alt);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  text-decoration: none;
+  color: var(--text-primary);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.guide-card:hover {
+  border-color: var(--purple-light);
+  box-shadow: var(--shadow-md);
+  color: var(--text-primary);
+}
+
+.guide-card h3 {
+  margin: 0 0 0.3rem;
+  font-size: 1.05rem;
+  color: var(--purple-deep);
+}
+
+.guide-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+/* --- Footer --- */
+
+.site-footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.site-footer a {
+  color: var(--text-secondary);
+}
+
+/* --- Utility --- */
+
+.page h1 {
+  text-align: center;
+}
