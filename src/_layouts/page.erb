@@ -7,6 +7,19 @@ layout: default
 
   <%= yield %>
 
+  <% if data.prev_page || data.next_page %>
+  <nav class="page-nav">
+    <% if data.prev_page %>
+      <a href="<%= relative_url data.prev_page.url %>" class="page-nav-link page-nav-prev">&larr; <%= data.prev_page.title %></a>
+    <% else %>
+      <span></span>
+    <% end %>
+    <% if data.next_page %>
+      <a href="<%= relative_url data.next_page.url %>" class="page-nav-link page-nav-next"><%= data.next_page.title %> &rarr;</a>
+    <% end %>
+  </nav>
+  <% end %>
+
   <section class="page-discussions" data-feature="discussions">
     <h2>Discussion</h2>
     <p class="discussions-note">Comments are powered by GitHub Discussions. To post, sign in with your GitHub account using the link below the reaction icons.</p>

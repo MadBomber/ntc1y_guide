@@ -682,6 +682,12 @@ tr:hover td {
 .phase-4 { background: linear-gradient(135deg, #b71c1c, #c62828); }
 .phase-5 { background: linear-gradient(135deg, #e65100, #ef6c00); }
 .phase-6 { background: linear-gradient(135deg, #1b5e20, #2e7d32); }
+.phase-7 {
+  background: linear-gradient(135deg, #3e2723, #5d4037);
+  grid-column: 1 / -1;
+  text-align: center;
+  border: 1px solid rgba(212, 166, 67, 0.4);
+}
 
 /* --- Guide Cards --- */
 
@@ -1048,6 +1054,34 @@ tr:hover td {
 
 .mv-nav-link:hover {
   color: var(--purple-deep);
+}
+
+/* --- Page Prev/Next Navigation --- */
+
+.page-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2.5rem 0 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.page-nav-link {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--purple-mid);
+  transition: color 0.15s;
+}
+
+.page-nav-link:hover {
+  color: var(--purple-deep);
+}
+
+.page-nav-next {
+  margin-left: auto;
 }
 
 @media (max-width: 600px) {
