@@ -10,10 +10,14 @@
 
 <link rel="stylesheet" href="<%= asset_path :css %>" />
 <script>
-// Apply feature visibility before first paint to prevent FOUC
+// Apply theme and feature visibility before first paint to prevent FOUC
 (function() {
   try {
     var s = JSON.parse(localStorage.getItem("ntc1y_settings") || "{}");
+    // Apply site theme
+    var theme = s.siteTheme || "light";
+    document.documentElement.setAttribute("data-theme", theme);
+    // Apply feature visibility
     var f = s.features || {};
     var css = "";
     if (f.journal === false) css += '[data-feature="journal"]{display:none!important}';

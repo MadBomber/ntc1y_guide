@@ -11,6 +11,7 @@ const DEFAULT_SETTINGS = {
     discussions: false,
   },
   discussionTheme: "light",
+  siteTheme: "light",
 }
 
 // --- Settings storage ---
@@ -21,6 +22,7 @@ function getSettings() {
     return {
       features: { ...DEFAULT_SETTINGS.features, ...(stored.features || {}) },
       discussionTheme: stored.discussionTheme || DEFAULT_SETTINGS.discussionTheme,
+      siteTheme: stored.siteTheme || DEFAULT_SETTINGS.siteTheme,
     }
   } catch {
     return { ...DEFAULT_SETTINGS }
@@ -30,6 +32,13 @@ function getSettings() {
 function saveSettings(settings) {
   localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings))
   applyFeatureVisibility()
+}
+
+// --- Site theme ---
+
+function applySiteTheme() {
+  const settings = getSettings()
+  document.documentElement.setAttribute("data-theme", settings.siteTheme)
 }
 
 // --- Feature visibility ---
@@ -571,6 +580,19 @@ function initSettingsPage() {
     })
   }
 
+  // Site theme selector
+  const siteThemeSelect = document.getElementById("setting-site-theme")
+  if (siteThemeSelect) {
+    siteThemeSelect.value = settings.siteTheme || "light"
+    siteThemeSelect.addEventListener("change", () => {
+      const s = getSettings()
+      s.siteTheme = siteThemeSelect.value
+      saveSettings(s)
+      applySiteTheme()
+      showStatus(`Site theme set to "${siteThemeSelect.options[siteThemeSelect.selectedIndex].text}".`)
+    })
+  }
+
   // Info displays
   updateJournalInfo()
   updateProgressInfo()
@@ -581,6 +603,7 @@ function initSettingsPage() {
 // --- Init ---
 
 document.addEventListener("DOMContentLoaded", () => {
+  applySiteTheme()
   applyFeatureVisibility()
   initSettingsPage()
 })
