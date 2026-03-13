@@ -1,5 +1,32 @@
 <header class="site-header">
   <a href="<%= relative_url '/' %>" class="site-brand">NT in One Year</a>
+  <div class="page-toolbar">
+    <% if @resource.data[:week] %>
+      <a href="memory-verse" class="toolbar-icon" data-tooltip="This week's memory verse">
+        <svg viewBox="0 0 24 24" width="60" height="60" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+          <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+          <line x1="12" y1="7" x2="12" y2="13"></line>
+          <line x1="9" y1="10" x2="15" y2="10"></line>
+        </svg>
+      </a>
+    <% end %>
+    <button class="toolbar-icon toolbar-speak-btn" data-tooltip="Read page aloud">
+      <svg viewBox="0 0 24 24" width="60" height="60" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path>
+        <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
+        <line x1="12" y1="19" x2="12" y2="23"></line>
+        <line x1="8" y1="23" x2="16" y2="23"></line>
+      </svg>
+    </button>
+    <a href="javascript:window.print()" class="toolbar-icon" data-tooltip="Print this page">
+      <svg viewBox="0 0 24 24" width="60" height="60" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="6 9 6 2 18 2 18 9"></polyline>
+        <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
+        <rect x="6" y="14" width="12" height="8"></rect>
+      </svg>
+    </a>
+  </div>
 </header>
 
 <nav class="site-nav">

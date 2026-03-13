@@ -6,3 +6,4 @@ import components from "$components/**/*.{js,jsx,js.rb,css}"
 
 import "./progress.js"
 import "./memory-verse-audio.js"
+import "./page-speak.js"

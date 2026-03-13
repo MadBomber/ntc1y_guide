@@ -55,7 +55,10 @@ a:hover {
 .site-header {
   background: var(--purple-deep);
   padding: 0.75rem 1.5rem;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
 }
 
 .site-brand {
@@ -773,6 +776,69 @@ tr:hover td {
   background: linear-gradient(90deg, var(--purple-mid), var(--gold));
   border-radius: 0.375rem;
   transition: width 0.3s ease;
+}
+
+/* --- Page Toolbar (in site header) --- */
+
+.page-toolbar {
+  position: absolute;
+  right: 1.5rem;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.toolbar-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 4.5rem;
+  height: 4.5rem;
+  border-radius: var(--radius);
+  color: var(--gold-light);
+  text-decoration: none;
+  transition: color 0.15s, background 0.15s;
+}
+
+.toolbar-icon:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.15);
+}
+
+button.toolbar-icon {
+  border: none;
+  cursor: pointer;
+  background: none;
+}
+
+.toolbar-icon.speaking {
+  color: var(--gold);
+}
+
+.toolbar-icon[data-tooltip] {
+  position: relative;
+}
+
+.toolbar-icon[data-tooltip]::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin-top: 0.4rem;
+  padding: 0.35rem 0.65rem;
+  background: var(--text-primary);
+  color: #fff;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 500;
+  white-space: nowrap;
+  border-radius: var(--radius);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s;
+}
+
+.toolbar-icon[data-tooltip]:hover::after {
+  opacity: 1;
 }
 
 /* --- Utility --- */
