@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: The Two Witnesses and the Kingdom Trumpet
 
 ## Reading: Revelation 10-11
 

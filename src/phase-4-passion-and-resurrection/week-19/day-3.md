@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Road to Calvary, Crucifixion, Death, Burial
 
 ## Reading: Luke 23:26-56
 

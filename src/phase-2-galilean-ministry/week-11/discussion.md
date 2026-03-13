@@ -1,6 +1,6 @@
 ---
 week: 11
-title: Life in the Kingdom — Discussion Guide
+title: Life in the Kingdom
 type: discussion
 phase: The Galilean Ministry
 tags:
@@ -10,7 +10,6 @@ tags:
 layout: page
 ---
 
-# Week 11 Discussion Guide: Life in the Kingdom
 
 ## Opening Question
 

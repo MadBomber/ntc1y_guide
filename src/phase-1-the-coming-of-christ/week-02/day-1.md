@@ -19,7 +19,6 @@ phase: The Coming of Christ
 layout: page
 ---
 
-# Day 1: Presentation at Temple & Boy Jesus
 
 ## Reading: Luke 2:21-52
 

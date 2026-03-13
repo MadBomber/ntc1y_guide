@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Plot Against Paul
 
 ## Reading: Acts 23
 

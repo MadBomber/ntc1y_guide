@@ -17,7 +17,6 @@ memory_verse: "John 1:14"
 layout: page
 ---
 
-# Week 1: The Word Became Flesh
 
 ## The Big Picture
 

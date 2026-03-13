@@ -1,6 +1,6 @@
 ---
 week: 42
-title: Week 42 Discussion — Joy and Faithfulness
+title: Joy and Faithfulness
 phase: Letters to the Churches & Revelation
 tags:
 - phase-6
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 42 Discussion: Joy and Faithfulness
 
 ## Opening Question
 

@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 3: The God of All Comfort
 
 ## Reading: 2 Corinthians 1
 

@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Centurion's Servant, Widow's Son Raised, John's Question from Prison
 
 ## Reading: Luke 7
 

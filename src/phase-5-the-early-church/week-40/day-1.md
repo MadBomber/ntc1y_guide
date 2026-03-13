@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Malta, Rome, and the Open Ending
 
 ## Reading: Acts 28
 

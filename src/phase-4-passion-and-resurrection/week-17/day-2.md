@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: The Foot Washing and New Commandment
 
 ## Reading: John 13
 

@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Foolish Galatians — Faith vs. Law, Abraham's Blessing
 
 ## Reading: Galatians 3
 

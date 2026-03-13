@@ -21,7 +21,6 @@ memory_verse: "Philippians 2:5-8"
 layout: page
 ---
 
-# Week 41: Prison Letters
 
 ## The Big Picture
 

@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Called by God, Not Self-Appointed
 
 ## Reading: Hebrews 5
 

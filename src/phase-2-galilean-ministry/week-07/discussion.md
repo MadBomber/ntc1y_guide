@@ -1,7 +1,7 @@
 ---
 week: 7
 phase: The Galilean Ministry
-title: Discussion Guide - Parables of the Kingdom
+title: Parables of the Kingdom
 tags:
 - phase-2
 - parables
@@ -12,7 +12,6 @@ tags:
 layout: page
 ---
 
-# Week 7 Discussion Guide: Parables of the Kingdom
 
 ## Opening Question
 

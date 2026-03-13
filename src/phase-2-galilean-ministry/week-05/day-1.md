@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Twelve Appointed, Beelzebul Controversy
 
 ## Reading: Mark 3
 

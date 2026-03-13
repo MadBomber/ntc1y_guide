@@ -1,7 +1,7 @@
 ---
 week: 28
 phase: The Early Church
-title: Discussion Guide -- The Day of the Lord
+title: The Day of the Lord
 tags:
 - phase-5
 - day-of-the-lord
@@ -12,7 +12,6 @@ tags:
 layout: page
 ---
 
-# Week 28 Discussion Guide: The Day of the Lord
 
 ## Opening
 Begin by reading 2 Thessalonians 3:3 together: "But the Lord is faithful. He will establish you and guard you against the evil one." In a week filled with difficult eschatological teaching, how does this simple affirmation anchor us?

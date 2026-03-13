@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Trial Before Pilate
 
 ## Reading: Mark 15:1-20
 

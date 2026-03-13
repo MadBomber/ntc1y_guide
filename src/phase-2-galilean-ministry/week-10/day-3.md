@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Transfiguration, Boy with Unclean Spirit
 
 ## Reading: Mark 9:1-29
 

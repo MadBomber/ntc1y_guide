@@ -20,7 +20,6 @@ parallel_passages:
 layout: page
 ---
 
-# Day 2: Magi Visit, Flight to Egypt, Return to Nazareth
 
 ## Reading: Matthew 2
 

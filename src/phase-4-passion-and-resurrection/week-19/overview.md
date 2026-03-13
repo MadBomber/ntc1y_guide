@@ -20,7 +20,6 @@ memory_verse: "Luke 23:34"
 layout: page
 ---
 
-# Week 19: The Cross
 
 ## The Big Picture
 

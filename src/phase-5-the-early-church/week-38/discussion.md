@@ -1,6 +1,6 @@
 ---
 week: 38
-title: Week 38 Discussion Guide
+title: To Jerusalem
 type: discussion
 tags:
 - discussion
@@ -9,7 +9,6 @@ tags:
 layout: page
 ---
 
-# Week 38 Discussion Guide: To Jerusalem
 
 ## Opening Question
 

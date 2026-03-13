@@ -14,7 +14,6 @@ memory_verse: "Hebrews 11:1"
 layout: page
 ---
 
-# Week 47: The New and Living Way
 
 ## Big Picture
 

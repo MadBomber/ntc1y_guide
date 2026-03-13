@@ -15,7 +15,6 @@ memory_verse: "1 Peter 5:7"
 layout: page
 ---
 
-# Week 49: Stand Firm
 
 ## Big Picture
 

@@ -1,7 +1,7 @@
 ---
 week: 9
 phase: The Galilean Ministry
-title: Discussion Guide — Bread of Life
+title: Bread of Life
 tags:
 - phase-2
 - bread-of-life
@@ -12,7 +12,6 @@ tags:
 layout: page
 ---
 
-# Week 9 Discussion Guide: Bread of Life
 
 ## Opening Question
 

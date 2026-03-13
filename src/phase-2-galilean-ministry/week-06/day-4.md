@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Parables: Sower, Lamp, Growing Seed, Mustard Seed, Stilling the Storm
 
 ## Reading: Mark 4
 

@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Paul in Corinth -- Aquila & Priscilla, Gallio's Judgment Seat
 
 ## Reading: Acts 18:1-17
 

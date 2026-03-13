@@ -15,7 +15,6 @@ memory_verse: "Romans 1:16-17"
 layout: page
 ---
 
-# Week 35: The Letter to Rome (Part 1)
 
 ## The Big Picture
 

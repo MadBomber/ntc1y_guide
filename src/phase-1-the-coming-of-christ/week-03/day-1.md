@@ -17,7 +17,6 @@ phase: The Coming of Christ
 layout: page
 ---
 
-# Day 1: Temptation in the Wilderness — Luke 4:1-13
 
 ## Reading: Luke 4:1-13
 

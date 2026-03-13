@@ -1,7 +1,7 @@
 ---
 week: 3
 phase: The Coming of Christ
-title: Tested and Called — Weekly Discussion Guide
+title: Tested and Called
 tags:
 - phase-1
 - discussion
@@ -12,7 +12,6 @@ tags:
 layout: page
 ---
 
-# Week 3 Discussion Guide: Tested and Called
 
 ## Opening
 

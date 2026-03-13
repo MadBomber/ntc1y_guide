@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Paul's Defense
 
 ## Reading: Acts 22
 

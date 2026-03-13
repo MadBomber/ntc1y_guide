@@ -21,7 +21,6 @@ parallel_passages:
 layout: page
 ---
 
-# Day 5: Matthew's Baptism Account
 
 ## Reading: Matthew 3
 

@@ -8,7 +8,6 @@ tags:
 layout: page
 ---
 
-# Why Chronological Order?
 
 ## The New Testament Is Not Arranged Chronologically
 

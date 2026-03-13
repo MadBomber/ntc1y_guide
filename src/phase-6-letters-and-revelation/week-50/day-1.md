@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: God Is Light
 
 ## Reading: 1 John 1
 

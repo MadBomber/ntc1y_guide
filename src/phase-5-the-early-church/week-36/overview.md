@@ -14,7 +14,6 @@ memory_verse: "Romans 8:28"
 layout: page
 ---
 
-# Week 36: The Letter to Rome (Part 2)
 
 ## The Big Picture
 

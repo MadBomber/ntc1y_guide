@@ -1,7 +1,7 @@
 ---
 week: 31
 phase: The Early Church
-title: Worship and Gifts -- Discussion Guide
+title: Worship and Gifts
 tags:
 - phase-5
 - corinthians
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 31 Discussion Guide: Worship and Gifts
 
 ## Opening Question
 

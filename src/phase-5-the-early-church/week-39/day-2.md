@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Trial Before Felix
 
 ## Reading: Acts 24
 

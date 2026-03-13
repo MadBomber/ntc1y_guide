@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Encouragement in Persecution, God's Righteous Judgment
 
 ## Reading: 2 Thessalonians 1
 

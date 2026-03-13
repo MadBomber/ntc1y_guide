@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Treasure in Jars of Clay
 
 ## Reading: 2 Corinthians 4
 

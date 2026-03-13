@@ -1,6 +1,6 @@
 ---
 week: 21
-title: Discussion Guide — Birth of the Church
+title: Birth of the Church
 phase: The Early Church
 tags:
 - phase-5
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 21 Discussion Guide: Birth of the Church
 
 ## Opening Question
 

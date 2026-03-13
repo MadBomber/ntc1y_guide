@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Storm and Shipwreck
 
 ## Reading: Acts 27
 

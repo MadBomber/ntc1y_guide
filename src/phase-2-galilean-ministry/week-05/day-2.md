@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Beatitudes, Salt and Light, Law Fulfilled
 
 ## Reading: Matthew 5
 

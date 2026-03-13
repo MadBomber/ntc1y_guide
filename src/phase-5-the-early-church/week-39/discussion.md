@@ -1,7 +1,7 @@
 ---
 week: 39
 phase: The Early Church
-title: Discussion Guide -- Trials and Imprisonment
+title: Trials and Imprisonment
 tags:
 - phase-5
 - acts
@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Week 39 Discussion Guide: Trials and Imprisonment
 
 ## Opening Question
 

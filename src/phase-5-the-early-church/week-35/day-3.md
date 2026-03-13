@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 3: God's Righteous Judgment
 
 ## Reading: Romans 2
 

@@ -14,7 +14,6 @@ memory_verse: "Acts 20:24"
 layout: page
 ---
 
-# Week 38: To Jerusalem
 
 ## The Big Picture
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: All Things to All People
 
 ## Reading: 1 Corinthians 9
 

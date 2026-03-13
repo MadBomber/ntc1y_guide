@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Israel's Wilderness Warnings
 
 ## Reading: 1 Corinthians 10
 

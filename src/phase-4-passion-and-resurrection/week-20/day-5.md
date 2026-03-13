@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Seeing and Believing
 
 ## Reading: John 20-21
 

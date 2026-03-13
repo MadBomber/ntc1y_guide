@@ -1,6 +1,6 @@
 ---
 week: 12
-title: Conflict and Compassion — Discussion Guide
+title: Conflict and Compassion
 phase: The Road to Jerusalem
 tags:
 - phase-3
@@ -12,7 +12,6 @@ tags:
 layout: page
 ---
 
-# Week 12 Discussion Guide: Conflict and Compassion
 
 ## Opening Question
 

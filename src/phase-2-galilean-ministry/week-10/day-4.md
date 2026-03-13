@@ -13,7 +13,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Transfiguration, Epileptic Boy, Temple Tax
 
 ## Reading: Matthew 17
 

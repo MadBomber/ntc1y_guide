@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Final Exhortations and Benediction
 
 ## Reading: Hebrews 13
 

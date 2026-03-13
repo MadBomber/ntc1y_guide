@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Stephen's Speech and Martyrdom
 
 ## Reading: Acts 7
 

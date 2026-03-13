@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 4: The Man Born Blind
 
 ## Reading: John 9
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Paul & Silas Imprisoned — Earthquake — Philippian Jailer Saved
 
 ## Reading: Acts 16:16-40
 

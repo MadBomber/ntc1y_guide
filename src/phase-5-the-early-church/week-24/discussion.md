@@ -1,6 +1,6 @@
 ---
 week: 24
-title: Discussion Guide — The Gospel to the Gentiles
+title: The Gospel to the Gentiles
 phase: The Early Church
 tags:
 - phase-5
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 24 Discussion Guide: The Gospel to the Gentiles
 
 ## Opening Question
 

@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Paul's Ministry Among Them -- Not Flattery but Faithful
 
 ## Reading: 1 Thessalonians 2
 

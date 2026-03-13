@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Knowing Christ, Pressing On, Citizenship in Heaven
 
 ## Reading: Philippians 3
 

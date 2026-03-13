@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 1: The Crucifixion According to Matthew
 
 ## Reading: Matthew 27
 

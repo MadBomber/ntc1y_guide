@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Sending Out the Twelve - Mission Instructions
 
 ## Reading: Matthew 10
 

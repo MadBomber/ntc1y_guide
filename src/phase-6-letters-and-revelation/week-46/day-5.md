@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Melchizedek and the Permanent Priesthood
 
 ## Reading: Hebrews 7
 

@@ -1,7 +1,7 @@
 ---
 week: 6
 phase: The Galilean Ministry
-title: Words of Power - Discussion Guide
+title: Words of Power
 tags:
 - phase-2
 - miracles
@@ -12,7 +12,6 @@ tags:
 layout: page
 ---
 
-# Week 6 Discussion Guide: Words of Power
 
 ## Opening Question
 

@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Secrets of the Kingdom
 
 ## Reading: Matthew 13:1-30
 

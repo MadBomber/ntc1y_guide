@@ -14,7 +14,6 @@ memory_verse: "Acts 13:47"
 layout: page
 ---
 
-# Week 24: The Gospel to the Gentiles
 
 ## The Big Picture
 

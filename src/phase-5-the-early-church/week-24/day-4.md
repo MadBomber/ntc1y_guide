@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Iconium, Lystra, Derbe, and the Return Journey
 
 ## Reading: Acts 14
 

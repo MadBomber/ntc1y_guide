@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Lord's Prayer, Persistent Friend, Beelzebul Controversy, Sign of Jonah, Six Woes
 
 ## Reading: Luke 11
 

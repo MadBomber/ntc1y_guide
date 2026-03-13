@@ -13,7 +13,6 @@ memory_verse: "Galatians 5:22-23"
 layout: page
 ---
 
-# Week 25: Gospel of Freedom
 
 ## The Big Picture
 

@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 3: God's Wisdom Revealed by the Spirit, Mind of Christ
 
 ## Reading: 1 Corinthians 2
 

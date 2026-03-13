@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Cheerful Giving
 
 ## Reading: 2 Corinthians 9
 

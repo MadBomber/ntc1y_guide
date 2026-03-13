@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Walk in Love, Be Filled with the Spirit
 
 ## Reading: Ephesians 5
 

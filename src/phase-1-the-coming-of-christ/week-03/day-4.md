@@ -18,7 +18,6 @@ phase: The Coming of Christ
 layout: page
 ---
 
-# Day 4: Nicodemus, "You Must Be Born Again", John's Final Witness — John 3
 
 ## Reading: John 3
 

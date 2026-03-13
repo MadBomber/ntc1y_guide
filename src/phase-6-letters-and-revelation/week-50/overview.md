@@ -16,7 +16,6 @@ memory_verse: "1 John 1:9"
 layout: page
 ---
 
-# Week 50: Walking in the Light
 
 ## Big Picture
 

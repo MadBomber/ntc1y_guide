@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Wisdom, Prayer, and a Brother Restored
 
 ## Reading: Colossians 4 and Philemon
 

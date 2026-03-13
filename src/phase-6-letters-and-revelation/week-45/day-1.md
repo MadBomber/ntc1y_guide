@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Soldier, Athlete, Farmer
 
 ## Reading: 2 Timothy 2
 

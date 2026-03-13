@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Setting Things in Order on Crete
 
 ## Reading: Titus 1
 

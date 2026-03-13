@@ -1,6 +1,6 @@
 ---
 week: 33
-title: Week 33 Discussion Guide
+title: Treasure in Jars of Clay
 type: discussion
 tags:
 - discussion
@@ -9,7 +9,6 @@ tags:
 layout: page
 ---
 
-# Week 33 Discussion Guide: Treasure in Jars of Clay
 
 ## Opening Question
 

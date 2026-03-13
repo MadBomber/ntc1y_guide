@@ -13,7 +13,6 @@ memory_verse: "1 Thessalonians 4:16-17"
 layout: page
 ---
 
-# Week 27: Paul in Corinth
 
 ## The Big Picture
 

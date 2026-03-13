@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Unity, Gifts, New Self
 
 ## Reading: Ephesians 4
 

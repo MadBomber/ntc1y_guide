@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Paul's Authority and Divine Weapons
 
 ## Reading: 2 Corinthians 10
 

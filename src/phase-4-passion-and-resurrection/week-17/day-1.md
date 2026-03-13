@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: The Last Supper
 
 ## Reading: Luke 22:1-38
 

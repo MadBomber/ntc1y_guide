@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Boldness Before the Sanhedrin
 
 ## Reading: Acts 4
 

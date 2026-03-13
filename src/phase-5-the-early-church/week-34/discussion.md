@@ -1,7 +1,7 @@
 ---
 week: 34
 phase: The Early Church
-title: Paul's Defense -- Discussion Guide
+title: Paul's Defense
 tags:
 - phase-5
 - 2-corinthians
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 34 Discussion Guide: Paul's Defense
 
 ## Opening Question
 

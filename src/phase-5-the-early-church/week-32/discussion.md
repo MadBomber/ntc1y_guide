@@ -1,7 +1,7 @@
 ---
 week: 32
 phase: The Early Church
-title: Resurrection Hope -- Discussion Guide
+title: Resurrection Hope
 tags:
 - phase-5
 - resurrection
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 32 Discussion Guide: Resurrection Hope
 
 ## Opening Question
 

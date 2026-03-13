@@ -19,7 +19,6 @@ memory_verse: "John 3:16-17"
 layout: page
 ---
 
-# Week 3: Tested and Called
 
 ## The Big Picture
 

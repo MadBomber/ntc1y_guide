@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Living Sacrifice, Renewed Mind
 
 ## Reading: Romans 12
 

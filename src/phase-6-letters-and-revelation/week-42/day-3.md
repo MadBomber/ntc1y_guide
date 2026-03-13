@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Fullness in Christ Alone
 
 ## Reading: Colossians 2
 

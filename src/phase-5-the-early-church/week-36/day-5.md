@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: God's Sovereign Choice, Potter and Clay, Israel's Rejection
 
 ## Reading: Romans 9
 

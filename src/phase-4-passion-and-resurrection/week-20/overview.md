@@ -23,7 +23,6 @@ memory_verse: "Matthew 28:18-20"
 layout: page
 ---
 
-# Week 20: He Is Risen
 
 ## The Big Picture
 

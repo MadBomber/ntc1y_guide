@@ -19,7 +19,6 @@ memory_verse: "John 11:25-26"
 layout: page
 ---
 
-# Week 14: Signs and Confrontations
 
 ## The Big Picture
 

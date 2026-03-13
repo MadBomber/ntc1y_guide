@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Disputable Matters
 
 ## Reading: Romans 14
 

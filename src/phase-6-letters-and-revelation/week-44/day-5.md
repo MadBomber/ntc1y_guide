@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Fan Into Flame
 
 ## Reading: 2 Timothy 1
 

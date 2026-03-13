@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Final Warnings and the Trinitarian Benediction
 
 ## Reading: 2 Corinthians 13
 

@@ -12,7 +12,6 @@ memory_verse: "Matthew 11:28-30"
 layout: page
 ---
 
-# Week 7: Parables of the Kingdom
 
 ## The Big Picture
 

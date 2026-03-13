@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Press On to Maturity
 
 ## Reading: Hebrews 6
 

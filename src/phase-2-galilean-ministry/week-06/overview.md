@@ -19,7 +19,6 @@ memory_verse: "Matthew 9:37-38"
 layout: page
 ---
 
-# Week 6: Words of Power
 
 ## The Big Picture
 

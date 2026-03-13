@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Timothy's Encouraging Report, Prayer for Their Growth
 
 ## Reading: 1 Thessalonians 3
 

@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Parables of the Lost
 
 ## Reading: Luke 15
 

@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Letters to Ephesus, Smyrna, Pergamum, Thyatira
 
 ## Reading: Revelation 2
 

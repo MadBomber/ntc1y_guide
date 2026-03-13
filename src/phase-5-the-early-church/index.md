@@ -5,7 +5,6 @@ weeks: "21–41"
 layout: page
 ---
 
-# Phase 5: The Early Church
 
 *Weeks 21–41*
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: "But God"
 
 ## Reading: Ephesians 2
 

@@ -15,7 +15,6 @@ memory_verse: "Titus 2:11-12"
 layout: page
 ---
 
-# Week 44: Guarding the Faith
 
 ## Big Picture
 

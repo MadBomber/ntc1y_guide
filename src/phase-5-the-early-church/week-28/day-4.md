@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Warning Against Idle Living, Work or Don't Eat
 
 ## Reading: 2 Thessalonians 3
 

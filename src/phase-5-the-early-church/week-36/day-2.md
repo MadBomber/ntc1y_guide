@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Dead to Sin Alive in Christ, Baptism Into His Death, Slaves of Righteousness
 
 ## Reading: Romans 6
 

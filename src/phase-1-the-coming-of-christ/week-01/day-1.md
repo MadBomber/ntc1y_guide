@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: The Word Became Flesh
 
 ## Reading: John 1:1-18
 

@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Feeding the Multitude, Walking on the Sea
 
 ## Reading: Mark 6:30-56
 

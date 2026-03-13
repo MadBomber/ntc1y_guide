@@ -13,7 +13,6 @@ memory_verse: "Matthew 25:40"
 layout: page
 ---
 
-# Week 16: Olivet Discourse
 
 ## The Big Picture
 

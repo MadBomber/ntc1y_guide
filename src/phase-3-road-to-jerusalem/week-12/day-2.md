@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Light of the World
 
 ## Reading: John 8
 

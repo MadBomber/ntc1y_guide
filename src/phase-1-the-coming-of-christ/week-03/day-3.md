@@ -19,7 +19,6 @@ phase: The Coming of Christ
 layout: page
 ---
 
-# Day 3: Wedding at Cana, First Temple Cleansing — John 2
 
 ## Reading: John 2
 

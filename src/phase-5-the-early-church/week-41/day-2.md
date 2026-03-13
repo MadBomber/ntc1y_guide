@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Children and Parents, The Full Armor of God
 
 ## Reading: Ephesians 6
 

@@ -13,7 +13,6 @@ memory_verse: "1 Corinthians 6:19-20"
 layout: page
 ---
 
-# Week 30: Church Problems
 
 ## The Big Picture
 

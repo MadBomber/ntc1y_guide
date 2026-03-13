@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Persistent Widow and Humble Prayer
 
 ## Reading: Luke 18
 

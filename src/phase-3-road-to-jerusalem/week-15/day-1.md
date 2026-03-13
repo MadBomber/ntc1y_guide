@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Triumphal Entry, Temple Cleansing, Fig Tree Cursed
 
 ## Reading: Matthew 21:1-22
 

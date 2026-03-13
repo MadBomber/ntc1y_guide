@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Every Spiritual Blessing
 
 ## Reading: Ephesians 1
 

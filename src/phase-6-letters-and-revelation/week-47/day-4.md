@@ -20,7 +20,6 @@ tags:
 layout: page
 ---
 
-# Day 4: The Hall of Faith Heroes
 
 ## Reading: Hebrews 11
 

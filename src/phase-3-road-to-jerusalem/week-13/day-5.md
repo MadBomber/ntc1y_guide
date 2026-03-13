@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 5: The Good Shepherd
 
 ## Reading: John 10
 

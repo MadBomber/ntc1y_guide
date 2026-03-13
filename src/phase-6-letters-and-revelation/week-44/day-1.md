@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Godliness with Contentment
 
 ## Reading: 1 Timothy 6
 

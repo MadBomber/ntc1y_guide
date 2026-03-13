@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Sending Twelve, Feeding 5000, Peter's Confession, Transfiguration, Cost of Following
 
 ## Reading: Luke 9
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Spiritual Immaturity, God's Temple, Building on the Foundation
 
 ## Reading: 1 Corinthians 3
 

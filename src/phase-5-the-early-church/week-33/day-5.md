@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: The Grace of Giving
 
 ## Reading: 2 Corinthians 8
 

@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Shrewd Manager and Rich Man
 
 ## Reading: Luke 16
 

@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 2: The Gospel and God's Wrath
 
 ## Reading: Romans 1
 

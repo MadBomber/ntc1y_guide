@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Paralytic Healed, Matthew Called, Jairus' Daughter, Harvest Prayer
 
 ## Reading: Matthew 9
 

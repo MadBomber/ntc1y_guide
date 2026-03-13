@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Judging Others, Golden Rule, Two Gates, Wise Builder
 
 ## Reading: Matthew 7
 

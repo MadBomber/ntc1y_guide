@@ -1,6 +1,6 @@
 ---
 week: 46
-title: Week 46 Discussion — A Better Covenant
+title: A Better Covenant
 phase: Letters to the Churches & Revelation
 tags:
 - phase-6
@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Week 46 Discussion: A Better Covenant
 
 ## Opening Question
 

@@ -1,7 +1,7 @@
 ---
 week: 29
 phase: The Early Church
-title: Discussion Guide -- Paul in Ephesus
+title: Paul in Ephesus
 tags:
 - phase-5
 - ephesus
@@ -13,7 +13,6 @@ tags:
 layout: page
 ---
 
-# Week 29 Discussion Guide: Paul in Ephesus
 
 ## Opening
 Begin by reading 1 Corinthians 1:18 together: "For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God." What does this verse mean to you personally? Has there been a time when the cross felt like "foolishness" to you, or when you experienced it as "the power of God"?

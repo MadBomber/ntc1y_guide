@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Feeding 4000, Pharisees Demand Sign, Blind Man at Bethsaida
 
 ## Reading: Mark 8:1-26
 

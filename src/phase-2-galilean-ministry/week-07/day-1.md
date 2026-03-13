@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: John's Question, Jesus' Answer
 
 ## Reading: Matthew 11
 

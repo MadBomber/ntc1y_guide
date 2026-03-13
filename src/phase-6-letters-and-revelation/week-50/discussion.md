@@ -1,6 +1,6 @@
 ---
 week: 50
-title: Week 50 Discussion — Walking in the Light
+title: Walking in the Light
 phase: Letters to the Churches & Revelation
 tags:
 - phase-6
@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Week 50 Discussion: Walking in the Light
 
 ## Opening Question
 

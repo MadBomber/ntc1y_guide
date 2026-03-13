@@ -1,7 +1,7 @@
 ---
 week: 18
 phase: Passion and Resurrection
-title: Discussion Guide — Gethsemane and Trial
+title: Gethsemane and Trial
 tags:
 - phase-4
 - gethsemane
@@ -13,7 +13,6 @@ tags:
 layout: page
 ---
 
-# Week 18 Discussion Guide: Gethsemane and Trial
 
 ## Opening Question
 

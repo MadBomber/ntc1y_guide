@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 2: James Killed, Peter Freed, Herod's Death
 
 ## Reading: Acts 12
 

@@ -1,6 +1,6 @@
 ---
 week: 23
-title: Discussion Guide — Faith That Works
+title: Faith That Works
 phase: The Early Church
 tags:
 - phase-5
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 23 Discussion Guide: Faith That Works
 
 ## Opening Question
 

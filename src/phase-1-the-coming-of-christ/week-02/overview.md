@@ -18,7 +18,6 @@ memory_verse: "Luke 2:30-32"
 layout: page
 ---
 
-# Week 2: A Child Is Born
 
 ## The Big Picture
 

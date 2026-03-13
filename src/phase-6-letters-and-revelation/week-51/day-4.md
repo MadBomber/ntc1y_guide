@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Throne Room of God — Holy, Holy, Holy
 
 ## Reading: Revelation 4
 

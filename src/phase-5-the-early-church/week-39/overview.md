@@ -15,7 +15,6 @@ memory_verse: "Acts 26:28-29"
 layout: page
 ---
 
-# Week 39: Trials and Imprisonment
 
 ## The Big Picture
 

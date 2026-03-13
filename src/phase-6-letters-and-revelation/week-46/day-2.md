@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 2: The Sabbath Rest and the Living Word
 
 ## Reading: Hebrews 4
 

@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Thessalonica and Berea — Turning the World Upside Down
 
 ## Reading: Acts 17:1-15
 

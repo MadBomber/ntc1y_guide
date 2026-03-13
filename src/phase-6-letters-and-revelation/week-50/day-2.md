@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Our Advocate, Our Test
 
 ## Reading: 1 John 2
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Raising of Lazarus — I Am the Resurrection and the Life
 
 ## Reading: John 11:1-44
 

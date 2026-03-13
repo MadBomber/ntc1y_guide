@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 3: I Have Fought the Good Fight
 
 ## Reading: 2 Timothy 4
 

@@ -15,7 +15,6 @@ memory_verse: "Ephesians 2:8-9"
 layout: page
 ---
 
-# Week 40: Paul in Rome
 
 ## The Big Picture
 

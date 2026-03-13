@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Rejection, Mission, and Martyrdom
 
 ## Reading: Mark 6:1-29
 

@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 3: The Way, the Truth, and the Life
 
 ## Reading: John 14
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: No Longer Slaves but Sons — Allegory of Hagar and Sarah
 
 ## Reading: Galatians 4
 

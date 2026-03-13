@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Calling Disciples by the Sea, Ministry Begins in Galilee
 
 ## Reading: Matthew 4
 

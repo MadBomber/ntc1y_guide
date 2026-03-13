@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Divorce Teaching, Let the Children Come, Rich Young Man
 
 ## Reading: Matthew 19
 

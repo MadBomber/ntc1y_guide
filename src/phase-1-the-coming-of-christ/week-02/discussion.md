@@ -1,7 +1,7 @@
 ---
 week: 2
 phase: The Coming of Christ
-title: Weekly Discussion Guide — A Child Is Born
+title: A Child Is Born
 tags:
 - phase-1
 - discussion
@@ -11,7 +11,6 @@ tags:
 layout: page
 ---
 
-# Week 2 Discussion Guide: A Child Is Born
 
 ## Opening Reflection
 

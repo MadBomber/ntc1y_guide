@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Flogging, "Behold the Man", Crucifixion, "It Is Finished", Burial
 
 ## Reading: John 19
 

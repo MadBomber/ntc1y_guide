@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 3: The Fool's Speech and the Catalog of Sufferings
 
 ## Reading: 2 Corinthians 11
 

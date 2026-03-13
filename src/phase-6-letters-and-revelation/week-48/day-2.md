@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Living Hope Through Resurrection
 
 ## Reading: 1 Peter 1
 

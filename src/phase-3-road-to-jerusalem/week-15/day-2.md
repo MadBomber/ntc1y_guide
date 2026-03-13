@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Authority Questioned, Parables of Judgment
 
 ## Reading: Matthew 21:23-46
 

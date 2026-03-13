@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Peter's Confession, Keys of the Kingdom, Take Up Your Cross
 
 ## Reading: Matthew 16
 

@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Remnant, Olive Tree, All Israel Saved
 
 ## Reading: Romans 11
 

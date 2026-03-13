@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: The Ascension and the Wait
 
 ## Reading: Acts 1
 

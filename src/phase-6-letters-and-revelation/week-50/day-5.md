@@ -20,7 +20,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Overcoming Faith, Walking in Truth
 
 ## Reading: 1 John 5 + 2 John + 3 John
 

@@ -1,6 +1,6 @@
 ---
 week: 14
-title: Signs and Confrontations — Discussion Guide
+title: Signs and Confrontations
 type: discussion
 phase: The Road to Jerusalem
 tags:
@@ -10,7 +10,6 @@ tags:
 layout: page
 ---
 
-# Week 14 Discussion Guide: Signs and Confrontations
 
 ## Opening Question
 

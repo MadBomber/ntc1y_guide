@@ -12,7 +12,6 @@ memory_verse: "John 6:68"
 layout: page
 ---
 
-# Week 9: Bread of Life
 
 ## The Big Picture
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Trials, Wisdom, and the Living Word
 
 ## Reading: James 1
 

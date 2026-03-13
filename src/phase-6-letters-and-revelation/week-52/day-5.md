@@ -21,7 +21,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Behold, I Am Making All Things New
 
 ## Reading: Revelation 15-22
 

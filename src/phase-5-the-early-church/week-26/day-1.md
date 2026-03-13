@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Jerusalem Council — Must Gentiles Be Circumcised?
 
 ## Reading: Acts 15
 

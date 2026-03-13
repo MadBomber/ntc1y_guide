@@ -1,6 +1,6 @@
 ---
 week: 43
-title: Week 43 Discussion — Pastoral Guidance
+title: Pastoral Guidance
 phase: Letters to the Churches & Revelation
 tags:
 - phase-6
@@ -12,7 +12,6 @@ tags:
 layout: page
 ---
 
-# Week 43 Discussion: Pastoral Guidance
 
 ## Opening Question
 

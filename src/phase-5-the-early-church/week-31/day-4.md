@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: The Greatest Is Love
 
 ## Reading: 1 Corinthians 13
 

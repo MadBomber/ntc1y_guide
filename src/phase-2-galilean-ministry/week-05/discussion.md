@@ -1,7 +1,7 @@
 ---
 week: 5
 phase: The Galilean Ministry
-title: Authority Revealed - Discussion Guide
+title: Authority Revealed
 tags:
 - phase-2
 - sermon-on-mount
@@ -12,7 +12,6 @@ tags:
 layout: page
 ---
 
-# Week 5 Discussion Guide: Authority Revealed
 
 ## Opening Question
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Holiness and Opposition
 
 ## Reading: Acts 5
 

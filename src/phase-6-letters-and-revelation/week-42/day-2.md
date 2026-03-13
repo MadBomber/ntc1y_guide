@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 2: The Supremacy of Christ
 
 ## Reading: Colossians 1
 

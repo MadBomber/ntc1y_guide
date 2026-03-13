@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Peter's Confession and the First Passion Prediction
 
 ## Reading: Mark 8:27-38
 

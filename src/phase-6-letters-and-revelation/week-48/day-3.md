@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Living Stones — Royal Priesthood, Christ's Example
 
 ## Reading: 1 Peter 2
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Silence, Prayers, and Trumpets of Judgment
 
 ## Reading: Revelation 8-9
 

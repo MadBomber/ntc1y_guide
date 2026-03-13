@@ -1,6 +1,6 @@
 ---
 week: 44
-title: Week 44 Discussion — Guarding the Faith
+title: Guarding the Faith
 phase: Letters to the Churches & Revelation
 tags:
 - phase-6
@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Week 44 Discussion: Guarding the Faith
 
 ## Opening Question
 

@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Feeding the 5000, Walking on Water, Bread of Life Discourse Begins
 
 ## Reading: John 6:1-40
 

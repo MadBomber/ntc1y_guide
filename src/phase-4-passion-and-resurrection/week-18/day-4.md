@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Mark's Passion -- From Anointing to Denial
 
 ## Reading: Mark 14
 

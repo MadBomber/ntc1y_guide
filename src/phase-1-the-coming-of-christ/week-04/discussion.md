@@ -1,7 +1,7 @@
 ---
 week: 4
 phase: The Coming of Christ
-title: Ministry Begins - Weekly Discussion Guide
+title: Ministry Begins
 tags:
 - phase-1
 - discussion
@@ -12,7 +12,6 @@ tags:
 layout: page
 ---
 
-# Week 4 Discussion Guide: Ministry Begins
 
 ## Opening Question
 

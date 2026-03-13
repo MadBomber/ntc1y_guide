@@ -1,7 +1,7 @@
 ---
 week: 17
 phase: Passion and Resurrection
-title: Discussion Guide — The Upper Room
+title: The Upper Room
 tags:
 - phase-4
 - last-supper
@@ -13,7 +13,6 @@ tags:
 layout: page
 ---
 
-# Week 17 Discussion Guide: The Upper Room
 
 ## Opening Question
 

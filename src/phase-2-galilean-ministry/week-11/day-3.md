@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Sending the 72, Good Samaritan, Mary and Martha
 
 ## Reading: Luke 10
 

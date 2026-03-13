@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Arrested in Jerusalem
 
 ## Reading: Acts 21
 

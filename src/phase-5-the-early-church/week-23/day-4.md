@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Saul's Conversion on the Damascus Road
 
 ## Reading: Acts 9
 

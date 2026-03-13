@@ -13,7 +13,6 @@ memory_verse: "John 15:5"
 layout: page
 ---
 
-# Week 17: The Upper Room
 
 ## The Big Picture
 

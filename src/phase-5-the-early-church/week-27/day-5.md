@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Live to Please God, Sexual Purity, Those Who Have Fallen Asleep
 
 ## Reading: 1 Thessalonians 4
 

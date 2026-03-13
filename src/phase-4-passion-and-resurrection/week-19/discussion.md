@@ -1,7 +1,7 @@
 ---
 week: 19
 phase: Passion and Resurrection
-title: The Cross -- Weekly Discussion Guide
+title: The Cross
 tags:
 - phase-4
 - crucifixion
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 19 Discussion Guide: The Cross
 
 ## Opening Question
 

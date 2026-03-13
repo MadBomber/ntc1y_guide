@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Treasure, Pearl, Net, and Rejection
 
 ## Reading: Matthew 13:31-58
 

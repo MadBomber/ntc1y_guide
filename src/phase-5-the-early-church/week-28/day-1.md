@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Day of the Lord, Be Ready, Rejoice Always, Pray Continually
 
 ## Reading: 1 Thessalonians 5
 

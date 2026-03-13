@@ -19,7 +19,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Contend for the Faith, Kept by God
 
 ## Reading: Jude
 

@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Greatest Commandment, David's Son, Widow's Offering
 
 ## Reading: Mark 12:28-44
 

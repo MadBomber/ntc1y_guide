@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Forgiveness and Triumph
 
 ## Reading: 2 Corinthians 2
 

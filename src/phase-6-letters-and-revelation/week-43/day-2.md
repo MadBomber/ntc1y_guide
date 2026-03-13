@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 2: One God, One Mediator
 
 ## Reading: 1 Timothy 2
 

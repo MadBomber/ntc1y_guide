@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Children of God, Love One Another
 
 ## Reading: 1 John 3
 

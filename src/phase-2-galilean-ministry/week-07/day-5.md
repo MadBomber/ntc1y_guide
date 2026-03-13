@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: The Kingdom in Action
 
 ## Reading: Luke 8
 

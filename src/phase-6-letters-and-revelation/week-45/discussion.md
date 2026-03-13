@@ -1,6 +1,6 @@
 ---
 week: 45
-title: Week 45 Discussion — Paul's Final Words
+title: Paul's Final Words
 phase: Letters to the Churches & Revelation
 tags:
 - phase-6
@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Week 45 Discussion: Paul's Final Words
 
 ## Opening Question
 

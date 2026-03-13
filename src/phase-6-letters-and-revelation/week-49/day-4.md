@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 4: The Day of the Lord and the New Heavens and Earth
 
 ## Reading: 2 Peter 3
 

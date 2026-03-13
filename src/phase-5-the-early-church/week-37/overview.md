@@ -15,7 +15,6 @@ memory_verse: "Romans 12:1-2"
 layout: page
 ---
 
-# Week 37: The Letter to Rome (Part 3)
 
 ## The Big Picture
 

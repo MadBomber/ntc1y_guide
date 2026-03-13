@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Sheep and Goats, Luke's Olivet Parallel
 
 ## Reading: Matthew 25:31-46, Luke 21
 

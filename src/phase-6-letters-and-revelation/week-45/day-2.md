@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: All Scripture Is God-Breathed
 
 ## Reading: 2 Timothy 3
 

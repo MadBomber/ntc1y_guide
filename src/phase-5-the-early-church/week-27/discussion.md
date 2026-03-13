@@ -1,7 +1,7 @@
 ---
 week: 27
 phase: The Early Church
-title: Discussion Guide -- Paul in Corinth
+title: Paul in Corinth
 tags:
 - phase-5
 - corinth
@@ -12,7 +12,6 @@ tags:
 layout: page
 ---
 
-# Week 27 Discussion Guide: Paul in Corinth
 
 ## Opening
 Begin by reading 1 Thessalonians 4:16-17 together. What strikes you most about Paul's description of Christ's return? How does this passage function as comfort rather than speculation?

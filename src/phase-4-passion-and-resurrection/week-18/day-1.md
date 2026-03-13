@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 1: The High Priestly Prayer
 
 ## Reading: John 17
 

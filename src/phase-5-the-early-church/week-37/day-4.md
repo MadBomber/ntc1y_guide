@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Love Fulfills the Law
 
 ## Reading: Romans 13
 

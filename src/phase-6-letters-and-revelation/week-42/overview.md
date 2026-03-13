@@ -14,7 +14,6 @@ memory_verse: "Philippians 4:6-7"
 layout: page
 ---
 
-# Week 42: Joy and Faithfulness
 
 ## Big Picture
 

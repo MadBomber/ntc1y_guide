@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Betrayal, Trial, and Denial
 
 ## Reading: Matthew 26:47-75
 

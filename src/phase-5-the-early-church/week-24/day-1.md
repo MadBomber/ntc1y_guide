@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Peter Defends Gentile Inclusion, Antioch Church Founded
 
 ## Reading: Acts 11
 

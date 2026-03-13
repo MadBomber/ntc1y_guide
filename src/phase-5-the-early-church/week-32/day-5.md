@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Ministers of the New Covenant
 
 ## Reading: 2 Corinthians 3
 

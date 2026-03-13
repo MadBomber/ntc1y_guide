@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Lord's Prayer, Fasting, Treasures, Do Not Worry
 
 ## Reading: Matthew 6
 

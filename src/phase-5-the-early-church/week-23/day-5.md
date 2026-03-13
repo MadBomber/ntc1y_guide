@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Cornelius' Vision — The Gospel to the Gentiles
 
 ## Reading: Acts 10
 

@@ -18,7 +18,6 @@ phase: The Coming of Christ
 layout: page
 ---
 
-# Day 5: Samaritan Woman at the Well, Official's Son Healed — John 4
 
 ## Reading: John 4
 

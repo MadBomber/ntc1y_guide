@@ -1,7 +1,7 @@
 ---
 week: 51
 phase: Letters to the Churches & Revelation
-title: 'Discussion Guide — Revelation: Visions of Glory'
+title: 'Revelation: Visions of Glory'
 tags:
 - phase-6
 - revelation
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 51 Discussion Guide: Revelation: Visions of Glory
 
 ## Opening Question
 

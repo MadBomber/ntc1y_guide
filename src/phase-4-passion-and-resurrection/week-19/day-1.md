@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Gethsemane, Arrest, Peter's Denial, Sanhedrin Hearing
 
 ## Reading: Luke 22:39-71
 

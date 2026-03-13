@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Signs of the End
 
 ## Reading: Matthew 24
 

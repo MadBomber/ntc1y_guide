@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Faith, Gratitude, and the Kingdom
 
 ## Reading: Luke 17
 

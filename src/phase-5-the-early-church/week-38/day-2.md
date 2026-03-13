@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 2: The Network of Faith
 
 ## Reading: Romans 16
 

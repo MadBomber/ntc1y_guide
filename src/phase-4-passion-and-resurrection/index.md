@@ -5,7 +5,6 @@ weeks: "17–20"
 layout: page
 ---
 
-# Phase 4: Passion & Resurrection
 
 *Weeks 17–20*
 

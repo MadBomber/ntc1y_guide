@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Justified Freely by Grace
 
 ## Reading: Romans 3
 

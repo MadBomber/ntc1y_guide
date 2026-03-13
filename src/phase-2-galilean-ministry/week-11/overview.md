@@ -13,7 +13,6 @@ memory_verse: "Luke 10:27"
 layout: page
 ---
 
-# Week 11: Life in the Kingdom
 
 ## The Big Picture
 

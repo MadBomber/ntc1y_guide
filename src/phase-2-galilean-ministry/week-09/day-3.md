@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Traditions, Canaanite Woman, Feeding 4000
 
 ## Reading: Matthew 15
 

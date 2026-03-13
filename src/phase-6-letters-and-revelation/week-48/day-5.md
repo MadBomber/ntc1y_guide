@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Living for God — Suffering as Christians, the Fiery Ordeal
 
 ## Reading: 1 Peter 4
 

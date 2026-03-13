@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Lord of the Sabbath
 
 ## Reading: Matthew 12
 

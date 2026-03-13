@@ -1,6 +1,6 @@
 ---
 week: 22
-title: Week 22 Discussion Guide
+title: Stephen and Scattering
 type: discussion
 tags:
 - discussion
@@ -9,7 +9,6 @@ tags:
 layout: page
 ---
 
-# Week 22 Discussion Guide: Stephen and Scattering
 
 ## Opening Question
 

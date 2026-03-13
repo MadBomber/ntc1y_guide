@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Clean and Unclean, Syrophoenician Woman, Deaf Man Healed
 
 ## Reading: Mark 7
 

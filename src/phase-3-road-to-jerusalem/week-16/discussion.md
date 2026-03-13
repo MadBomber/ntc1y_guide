@@ -1,7 +1,7 @@
 ---
 week: 16
 phase: The Road to Jerusalem
-title: Discussion Guide — Olivet Discourse
+title: Olivet Discourse
 tags:
 - phase-3
 - olivet-discourse
@@ -13,7 +13,6 @@ tags:
 layout: page
 ---
 
-# Week 16 Discussion Guide: Olivet Discourse
 
 ## Opening Question
 

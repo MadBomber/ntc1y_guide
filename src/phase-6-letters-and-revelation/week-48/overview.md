@@ -14,7 +14,6 @@ memory_verse: "1 Peter 1:3-4"
 layout: page
 ---
 
-# Week 48: Living Faith
 
 ## Big Picture
 

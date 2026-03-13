@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Resurrection and Commission
 
 ## Reading: Matthew 28
 

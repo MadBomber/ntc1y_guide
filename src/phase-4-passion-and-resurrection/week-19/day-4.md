@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Arrest in Garden, Trial Before Annas and Caiaphas, Peter's Denial, Before Pilate
 
 ## Reading: John 18
 

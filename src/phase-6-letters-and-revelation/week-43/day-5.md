@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Caring for God's Family
 
 ## Reading: 1 Timothy 5
 

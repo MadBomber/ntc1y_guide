@@ -5,7 +5,6 @@ weeks: "12–16"
 layout: page
 ---
 
-# Phase 3: Road to Jerusalem
 
 *Weeks 12–16*
 

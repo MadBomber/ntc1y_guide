@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Workers in the Vineyard, Third Passion Prediction, Servanthood
 
 ## Reading: Matthew 20
 

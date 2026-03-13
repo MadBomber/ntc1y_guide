@@ -14,7 +14,6 @@ memory_verse: "Acts 1:8"
 layout: page
 ---
 
-# Week 21: Birth of the Church
 
 ## The Big Picture
 

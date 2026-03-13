@@ -8,7 +8,6 @@ tags:
 layout: page
 ---
 
-# How to Use This Study
 
 ## Overview
 

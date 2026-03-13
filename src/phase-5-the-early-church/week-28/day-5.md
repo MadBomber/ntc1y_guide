@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Paul Returns to Antioch via Ephesus, Third Journey Begins, Apollos
 
 ## Reading: Acts 18:18-28
 

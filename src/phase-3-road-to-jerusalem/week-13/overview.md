@@ -20,7 +20,6 @@ memory_verse: "John 10:10"
 layout: page
 ---
 
-# Week 13: Parables of Grace
 
 ## The Big Picture
 

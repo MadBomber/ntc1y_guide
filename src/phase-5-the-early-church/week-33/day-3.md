@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Temple of the Living God
 
 ## Reading: 2 Corinthians 6
 

@@ -20,7 +20,6 @@ memory_verse: Hebrews 4:12; Hebrews 4:15-16
 layout: page
 ---
 
-# Week 46: A Better Covenant
 
 ## Big Picture
 

@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Salvation for All Who Call
 
 ## Reading: Romans 10
 

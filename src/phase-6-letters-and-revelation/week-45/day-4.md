@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: The Son Superior to Angels
 
 ## Reading: Hebrews 1
 

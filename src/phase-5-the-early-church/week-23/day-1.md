@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Taming the Tongue — Two Kinds of Wisdom
 
 ## Reading: James 3
 

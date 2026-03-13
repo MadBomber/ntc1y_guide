@@ -14,7 +14,6 @@ memory_verse: "Acts 17:28"
 layout: page
 ---
 
-# Week 26: The Jerusalem Council
 
 ## The Big Picture
 

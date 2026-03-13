@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Wedding Banquet, Trap Questions, Greatest Commandment
 
 ## Reading: Matthew 22
 

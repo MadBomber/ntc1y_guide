@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Accepted by Jerusalem Apostles — Confronting Peter at Antioch
 
 ## Reading: Galatians 2
 

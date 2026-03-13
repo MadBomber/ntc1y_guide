@@ -14,7 +14,6 @@ memory_verse: "1 Corinthians 1:18"
 layout: page
 ---
 
-# Week 29: Paul in Ephesus
 
 ## The Big Picture
 

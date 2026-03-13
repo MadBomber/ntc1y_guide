@@ -1,6 +1,6 @@
 ---
 week: 49
-title: Week 49 Discussion — Stand Firm
+title: Stand Firm
 phase: Letters to the Churches & Revelation
 tags:
 - phase-6
@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Week 49 Discussion: Stand Firm
 
 ## Opening Question
 

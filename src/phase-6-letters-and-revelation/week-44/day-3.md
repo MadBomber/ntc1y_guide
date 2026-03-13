@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Grace Has Appeared
 
 ## Reading: Titus 2
 

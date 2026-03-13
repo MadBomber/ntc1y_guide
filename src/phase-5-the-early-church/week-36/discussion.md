@@ -1,7 +1,7 @@
 ---
 week: 36
 phase: The Early Church
-title: Discussion Guide -- The Letter to Rome (Part 2)
+title: The Letter to Rome (Part 2)
 tags:
 - phase-5
 - romans
@@ -13,7 +13,6 @@ tags:
 layout: page
 ---
 
-# Week 36 Discussion Guide: The Letter to Rome (Part 2)
 
 ## Opening
 Read Romans 8:31-39 aloud together. Allow a moment of silence before beginning discussion.

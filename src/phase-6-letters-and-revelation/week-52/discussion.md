@@ -1,6 +1,6 @@
 ---
 week: 52
-title: 'Week 52 Discussion — Revelation: All Things New'
+title: 'Revelation: All Things New'
 phase: Letters to the Churches & Revelation
 tags:
 - phase-6
@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Week 52 Discussion: Revelation: All Things New
 
 ## Opening Question
 

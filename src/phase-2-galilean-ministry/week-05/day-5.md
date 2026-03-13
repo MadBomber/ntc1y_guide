@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Sermon on the Plain, Love Your Enemies, Build on Rock
 
 ## Reading: Luke 6
 

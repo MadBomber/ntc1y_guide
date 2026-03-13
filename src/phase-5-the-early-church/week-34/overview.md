@@ -14,7 +14,6 @@ memory_verse: "2 Corinthians 12:9"
 layout: page
 ---
 
-# Week 34: Paul's Defense
 
 ## The Big Picture
 

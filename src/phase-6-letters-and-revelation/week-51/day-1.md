@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: John's Vision of the Risen Christ on Patmos
 
 ## Reading: Revelation 1
 

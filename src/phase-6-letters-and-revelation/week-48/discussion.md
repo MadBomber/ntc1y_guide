@@ -1,7 +1,7 @@
 ---
 week: 48
 phase: Letters to the Churches & Revelation
-title: Discussion Guide — Living Faith
+title: Living Faith
 tags:
 - phase-6
 - hebrews
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 48 Discussion Guide: Living Faith
 
 ## Opening Question
 

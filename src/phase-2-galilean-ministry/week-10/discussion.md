@@ -1,7 +1,7 @@
 ---
 week: 10
 phase: The Galilean Ministry
-title: Discussion Guide - Who Do You Say I Am?
+title: Who Do You Say I Am?
 tags:
 - phase-2
 - peter-confession
@@ -12,7 +12,6 @@ tags:
 layout: page
 ---
 
-# Week 10 Discussion Guide: Who Do You Say I Am?
 
 ## Opening Question
 

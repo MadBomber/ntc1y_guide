@@ -1,6 +1,6 @@
 ---
 week: 25
-title: Discussion Guide — Gospel of Freedom
+title: Gospel of Freedom
 phase: The Early Church
 tags:
 - phase-5
@@ -13,7 +13,6 @@ tags:
 layout: page
 ---
 
-# Week 25 Discussion Guide: Gospel of Freedom
 
 ## Opening Question
 

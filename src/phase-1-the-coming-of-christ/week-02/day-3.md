@@ -21,7 +21,6 @@ parallel_passages:
 layout: page
 ---
 
-# Day 3: John the Baptist's Ministry
 
 ## Reading: Mark 1:1-8
 

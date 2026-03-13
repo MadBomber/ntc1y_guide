@@ -14,7 +14,6 @@ memory_verse: "James 1:22"
 layout: page
 ---
 
-# Week 22: Stephen and Scattering
 
 ## The Big Picture
 

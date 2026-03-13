@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: The Thorn and the Triumph of Grace
 
 ## Reading: 2 Corinthians 12
 

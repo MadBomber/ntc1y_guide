@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Called to Freedom — Walk by the Spirit, Fruit of the Spirit
 
 ## Reading: Galatians 5
 

@@ -19,7 +19,6 @@ tags:
 layout: page
 ---
 
-# Day 3: False Teachers and the Certainty of Judgment
 
 ## Reading: 2 Peter 2
 

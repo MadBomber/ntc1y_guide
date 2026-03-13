@@ -1,7 +1,7 @@
 ---
 week: 35
 phase: The Early Church
-title: The Letter to Rome (Part 1) -- Discussion Guide
+title: The Letter to Rome (Part 1)
 tags:
 - phase-5
 - romans
@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Week 35 Discussion Guide: The Letter to Rome (Part 1)
 
 ## Opening Question
 

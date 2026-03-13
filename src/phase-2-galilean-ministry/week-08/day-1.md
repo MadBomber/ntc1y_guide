@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Power Over Demons, Disease, and Death
 
 ## Reading: Mark 5
 

@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 5: The Spirit's Work and Christ's Victory
 
 ## Reading: John 16
 

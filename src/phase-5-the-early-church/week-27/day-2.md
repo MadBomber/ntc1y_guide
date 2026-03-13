@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Thanksgiving for Thessalonians' Faith, Model to All Believers
 
 ## Reading: 1 Thessalonians 1
 

@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: The Scroll and the Lamb — Who Is Worthy?
 
 ## Reading: Revelation 5
 

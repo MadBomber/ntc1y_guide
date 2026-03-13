@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Bear One Another's Burdens — New Creation
 
 ## Reading: Galatians 6
 

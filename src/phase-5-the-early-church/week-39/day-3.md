@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Appeal to Caesar
 
 ## Reading: Acts 25
 

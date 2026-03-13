@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Hard Teaching — Many Disciples Desert
 
 ## Reading: John 6:41-71
 

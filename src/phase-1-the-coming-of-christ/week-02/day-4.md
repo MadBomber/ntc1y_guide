@@ -20,7 +20,6 @@ phase: The Coming of Christ
 layout: page
 ---
 
-# Day 4: John's Preaching & Jesus' Baptism
 
 ## Reading: Luke 3:1-22
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Rejoice in the Lord Always
 
 ## Reading: Philippians 4
 

@@ -14,7 +14,6 @@ memory_verse: "1 Corinthians 15:55-57"
 layout: page
 ---
 
-# Week 32: Resurrection Hope
 
 ## The Big Picture
 

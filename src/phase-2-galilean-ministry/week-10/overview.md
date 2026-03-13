@@ -12,7 +12,6 @@ memory_verse: "Mark 8:29"
 layout: page
 ---
 
-# Week 10: Who Do You Say I Am?
 
 ## The Big Picture
 

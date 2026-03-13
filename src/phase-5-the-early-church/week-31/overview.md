@@ -14,7 +14,6 @@ memory_verse: "1 Corinthians 13:4-7"
 layout: page
 ---
 
-# Week 31: Worship and Gifts
 
 ## The Big Picture
 

@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Trial Before Pilate, Sent to Herod, Barabbas Released
 
 ## Reading: Luke 23:1-25
 

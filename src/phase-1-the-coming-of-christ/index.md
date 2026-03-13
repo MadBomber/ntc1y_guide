@@ -5,7 +5,6 @@ weeks: "1–4"
 layout: page
 ---
 
-# Phase 1: The Coming of Christ
 
 *Weeks 1–4*
 

@@ -1,7 +1,7 @@
 ---
 week: 30
 phase: The Early Church
-title: Church Problems -- Discussion Guide
+title: Church Problems
 tags:
 - phase-5
 - corinthians
@@ -13,7 +13,6 @@ tags:
 layout: page
 ---
 
-# Week 30 Discussion Guide: Church Problems
 
 ## Opening Question
 

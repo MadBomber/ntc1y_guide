@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 4: The True Vine
 
 ## Reading: John 15
 

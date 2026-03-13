@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Sanhedrin Plots, Caiaphas' Unconscious Prophecy
 
 ## Reading: John 11:45-57
 

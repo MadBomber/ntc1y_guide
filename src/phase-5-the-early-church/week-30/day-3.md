@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Marriage, Singleness, and Undivided Devotion
 
 ## Reading: 1 Corinthians 7
 

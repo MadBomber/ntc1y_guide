@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Defense Before King Agrippa
 
 ## Reading: Acts 26
 

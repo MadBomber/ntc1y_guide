@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: The Seven and Stephen's Rise
 
 ## Reading: Acts 6
 

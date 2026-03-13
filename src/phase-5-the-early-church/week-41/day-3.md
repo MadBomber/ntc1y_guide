@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Joy in Chains, To Live Is Christ
 
 ## Reading: Philippians 1
 

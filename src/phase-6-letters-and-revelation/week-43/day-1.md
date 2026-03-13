@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Charge Against False Teachers
 
 ## Reading: 1 Timothy 1
 

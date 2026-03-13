@@ -1,7 +1,7 @@
 ---
 week: 37
 phase: The Early Church
-title: The Letter to Rome (Part 3) -- Discussion Guide
+title: The Letter to Rome (Part 3)
 tags:
 - phase-5
 - romans
@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Week 37 Discussion Guide: The Letter to Rome (Part 3)
 
 ## Opening Question
 

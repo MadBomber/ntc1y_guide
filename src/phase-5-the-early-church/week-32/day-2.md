@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Closing Instructions
 
 ## Reading: 1 Corinthians 16
 

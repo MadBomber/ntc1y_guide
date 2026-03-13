@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Orderly Worship
 
 ## Reading: 1 Corinthians 14
 

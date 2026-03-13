@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Parables, Taxes, and Resurrection
 
 ## Reading: Mark 12:1-27
 

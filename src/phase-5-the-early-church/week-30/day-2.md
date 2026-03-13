@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Lawsuits and the Body as Temple
 
 ## Reading: 1 Corinthians 6
 

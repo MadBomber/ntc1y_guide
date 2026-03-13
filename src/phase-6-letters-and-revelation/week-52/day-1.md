@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 1: The Seals Opened, the Multitude Assembled
 
 ## Reading: Revelation 6-7
 

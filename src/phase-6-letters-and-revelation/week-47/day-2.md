@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Christ Entered the Greater Tabernacle with His Own Blood
 
 ## Reading: Hebrews 9
 

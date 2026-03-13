@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: The Single Offering That Perfects Forever
 
 ## Reading: Hebrews 10
 

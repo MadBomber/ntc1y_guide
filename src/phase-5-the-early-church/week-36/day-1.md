@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Peace with God Through Faith, Adam vs Christ, Grace Abounds
 
 ## Reading: Romans 5
 

@@ -18,7 +18,6 @@ phase: The Coming of Christ
 layout: page
 ---
 
-# Day 2: John the Baptist's Witness, First Disciples Called — John 1:19-51
 
 ## Reading: John 1:19-51
 

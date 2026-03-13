@@ -5,7 +5,6 @@ weeks: "42–52"
 layout: page
 ---
 
-# Phase 6: Letters & Revelation
 
 *Weeks 42–52*
 

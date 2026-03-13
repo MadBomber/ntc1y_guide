@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Abraham Justified by Faith
 
 ## Reading: Romans 4
 

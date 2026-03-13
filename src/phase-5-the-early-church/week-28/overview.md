@@ -13,7 +13,6 @@ memory_verse: "2 Thessalonians 3:3"
 layout: page
 ---
 
-# Week 28: The Day of the Lord
 
 ## The Big Picture
 

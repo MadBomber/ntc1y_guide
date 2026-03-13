@@ -20,7 +20,6 @@ memory_verse: "James 4:8"
 layout: page
 ---
 
-# Week 23: Faith That Works
 
 ## The Big Picture
 

@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Accept One Another as Christ Accepted You
 
 ## Reading: Romans 15
 

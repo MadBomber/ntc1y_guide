@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Death of John, Feeding 5000, Walking on Water
 
 ## Reading: Matthew 14
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Qualifications for Church Leaders
 
 ## Reading: 1 Timothy 3
 

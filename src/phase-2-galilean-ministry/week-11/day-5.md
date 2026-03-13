@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Fearless Confession, Rich Fool, Do Not Worry, Watchful Servants, Jesus Brings Division
 
 ## Reading: Luke 12
 

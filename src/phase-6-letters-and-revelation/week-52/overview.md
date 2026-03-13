@@ -16,7 +16,6 @@ memory_verse: "Revelation 21:4-5"
 layout: page
 ---
 
-# Week 52: Revelation: All Things New
 
 ## Big Picture
 

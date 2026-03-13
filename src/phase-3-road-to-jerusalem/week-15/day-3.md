@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Mark's Account: Entry, Fig Tree, Temple, Authority
 
 ## Reading: Mark 11
 

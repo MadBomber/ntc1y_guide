@@ -5,7 +5,6 @@ weeks: "5–11"
 layout: page
 ---
 
-# Phase 2: Galilean Ministry
 
 *Weeks 5–11*
 

@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 3: The Magnificat and Benedictus
 
 ## Reading: Luke 1:39-80
 

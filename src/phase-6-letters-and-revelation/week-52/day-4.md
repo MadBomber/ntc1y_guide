@@ -19,7 +19,6 @@ tags:
 layout: page
 ---
 
-# Day 4: The Woman, the Dragon, and the Beasts
 
 ## Reading: Revelation 12-14
 

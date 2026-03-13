@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Healing at the Pool of Bethesda, Jesus' Authority as the Son
 
 ## Reading: John 5
 

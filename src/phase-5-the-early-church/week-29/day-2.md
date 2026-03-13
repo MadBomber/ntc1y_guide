@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Divisions in Corinth, Wisdom of the Cross, Foolishness of God
 
 ## Reading: 1 Corinthians 1
 

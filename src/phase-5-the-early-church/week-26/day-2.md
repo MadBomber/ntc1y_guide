@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Timothy Joins Paul — Macedonian Vision — Lydia Converted
 
 ## Reading: Acts 16:1-15
 

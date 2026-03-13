@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Emmaus Road and Ascension
 
 ## Reading: Luke 24
 

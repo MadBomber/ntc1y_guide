@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 1: The Resurrection
 
 ## Reading: 1 Corinthians 15
 

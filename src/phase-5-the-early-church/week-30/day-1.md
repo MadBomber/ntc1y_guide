@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Expel the Immoral Brother
 
 ## Reading: 1 Corinthians 5
 

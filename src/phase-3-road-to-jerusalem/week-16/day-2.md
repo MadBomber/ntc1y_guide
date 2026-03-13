@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Seven Woes and Lament over Jerusalem
 
 ## Reading: Matthew 23
 

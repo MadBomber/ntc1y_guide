@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Run the Race, Fix Eyes on Jesus
 
 ## Reading: Hebrews 12
 

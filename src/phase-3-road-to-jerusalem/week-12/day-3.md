@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Repent or Perish
 
 ## Reading: Luke 13
 

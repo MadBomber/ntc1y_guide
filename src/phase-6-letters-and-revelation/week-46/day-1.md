@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Jesus Greater Than Moses
 
 ## Reading: Hebrews 3
 

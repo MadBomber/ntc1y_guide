@@ -14,7 +14,6 @@ memory_verse: "Revelation 1:8"
 layout: page
 ---
 
-# Week 51: Revelation: Visions of Glory
 
 ## Big Picture
 

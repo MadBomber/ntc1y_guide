@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Paul Through Macedonia and Greece
 
 ## Reading: Acts 20:1-6
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Ambassadors for Christ
 
 ## Reading: 2 Corinthians 5
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Persecution Scatters the Church
 
 ## Reading: Acts 8
 

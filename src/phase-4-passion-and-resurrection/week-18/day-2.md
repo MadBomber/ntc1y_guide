@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Anointing, Supper, and Gethsemane
 
 ## Reading: Matthew 26:1-46
 

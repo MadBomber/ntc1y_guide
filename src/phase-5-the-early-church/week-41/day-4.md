@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: The Christ Hymn -- Kenosis and Exaltation
 
 ## Reading: Philippians 2
 

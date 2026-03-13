@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Faith and Works
 
 ## Reading: James 2
 

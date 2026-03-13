@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Farewell to the Elders
 
 ## Reading: Acts 20:7-38
 

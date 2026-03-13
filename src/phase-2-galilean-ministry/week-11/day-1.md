@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Who Is Greatest, Lost Sheep, Church Discipline, Parable of Unmerciful Servant
 
 ## Reading: Matthew 18
 

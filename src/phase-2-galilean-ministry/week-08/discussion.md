@@ -1,7 +1,7 @@
 ---
 week: 8
 phase: The Galilean Ministry
-title: Discussion Guide - Miracles and Mission
+title: Miracles and Mission
 tags:
 - phase-2
 - miracles
@@ -13,7 +13,6 @@ tags:
 layout: page
 ---
 
-# Week 8 Discussion Guide: Miracles and Mission
 
 ## Opening Question
 

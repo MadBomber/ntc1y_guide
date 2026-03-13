@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Ten Virgins and the Parable of Talents
 
 ## Reading: Matthew 25:1-30
 

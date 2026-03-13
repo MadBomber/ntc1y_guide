@@ -12,7 +12,6 @@ memory_verse: "1 Timothy 4:12"
 layout: page
 ---
 
-# Week 43: Pastoral Guidance
 
 ## Big Picture
 

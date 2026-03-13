@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: No Condemnation, Life in the Spirit, Abba Father, Nothing Can Separate Us
 
 ## Reading: Romans 8
 

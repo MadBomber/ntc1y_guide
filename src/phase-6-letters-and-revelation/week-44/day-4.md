@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Saved by Mercy, Devoted to Good Works
 
 ## Reading: Titus 3
 

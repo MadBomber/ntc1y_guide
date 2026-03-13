@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Miraculous Catch of Fish, Levi Called, New Wine
 
 ## Reading: Luke 5
 

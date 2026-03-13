@@ -1,7 +1,7 @@
 ---
 week: 40
 phase: The Early Church
-title: Discussion Guide -- Paul in Rome
+title: Paul in Rome
 tags:
 - phase-5
 - acts
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 40 Discussion Guide: Paul in Rome
 
 ## Opening Question
 Read Ephesians 3:20-21 aloud together. Then ask: If you truly believed that God is able to do "immeasurably more than all we ask or imagine," how would it change the way you prayed this week?

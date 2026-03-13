@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Pioneer of Our Salvation
 
 ## Reading: Hebrews 2
 

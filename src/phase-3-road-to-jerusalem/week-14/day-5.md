@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Zacchaeus, Parable of Ten Minas
 
 ## Reading: Luke 19:1-27
 

@@ -19,7 +19,6 @@ memory_verse: "John 8:12"
 layout: page
 ---
 
-# Week 12: Conflict and Compassion
 
 ## The Big Picture
 

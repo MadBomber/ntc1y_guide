@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Cost of Discipleship
 
 ## Reading: Luke 14
 

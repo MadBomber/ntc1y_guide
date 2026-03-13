@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Kingdom Proclaimed, Healings, Leper Cleansed
 
 ## Reading: Mark 1:14-45
 

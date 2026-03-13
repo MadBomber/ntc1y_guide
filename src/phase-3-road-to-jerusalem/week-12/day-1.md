@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Festival of Tabernacles
 
 ## Reading: John 7
 

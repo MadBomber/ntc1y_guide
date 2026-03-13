@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Barnabas & Saul Commissioned, Cyprus Ministry, Pisidian Antioch Sermon
 
 ## Reading: Acts 13
 

@@ -15,7 +15,6 @@ memory_verse: 2 Timothy 3:16-17; 2 Timothy 4:7
 layout: page
 ---
 
-# Week 45: Paul's Final Words
 
 ## Big Picture
 

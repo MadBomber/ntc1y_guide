@@ -1,6 +1,6 @@
 ---
 week: 13
-title: Parables of Grace — Discussion Guide
+title: Parables of Grace
 type: discussion
 phase: The Road to Jerusalem
 tags:
@@ -10,7 +10,6 @@ tags:
 layout: page
 ---
 
-# Week 13 Discussion Guide: Parables of Grace
 
 ## Opening Question
 

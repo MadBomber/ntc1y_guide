@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Healing at the Beautiful Gate
 
 ## Reading: Acts 3
 

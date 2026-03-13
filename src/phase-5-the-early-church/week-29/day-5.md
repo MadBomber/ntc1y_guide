@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Servants of Christ, Fools for Christ, Kingdom of Power
 
 ## Reading: 1 Corinthians 4
 

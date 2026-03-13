@@ -1,7 +1,7 @@
 ---
 week: 26
 phase: The Early Church
-title: Discussion Guide — The Jerusalem Council
+title: The Jerusalem Council
 tags:
 - phase-5
 - jerusalem-council
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 26 Discussion Guide: The Jerusalem Council
 
 ## Opening Question
 

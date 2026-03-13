@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Athens — Paul at the Areopagus, the Unknown God
 
 ## Reading: Acts 17:16-34
 

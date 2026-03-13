@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Husbands and Wives — Suffering for Doing Good
 
 ## Reading: 1 Peter 3
 

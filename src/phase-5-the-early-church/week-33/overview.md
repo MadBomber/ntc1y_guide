@@ -13,7 +13,6 @@ memory_verse: "2 Corinthians 4:7"
 layout: page
 ---
 
-# Week 33: Treasure in Jars of Clay
 
 ## The Big Picture
 

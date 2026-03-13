@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 5: The Birth of Jesus
 
 ## Reading: Luke 2:1-20
 

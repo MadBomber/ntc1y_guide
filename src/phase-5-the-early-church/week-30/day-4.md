@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Food Offered to Idols
 
 ## Reading: 1 Corinthians 8
 

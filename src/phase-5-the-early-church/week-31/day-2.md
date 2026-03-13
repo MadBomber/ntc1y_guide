@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Head Coverings and the Lord's Supper
 
 ## Reading: 1 Corinthians 11
 

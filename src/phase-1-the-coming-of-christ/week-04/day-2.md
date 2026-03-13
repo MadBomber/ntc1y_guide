@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Nazareth Rejection, Capernaum Ministry
 
 ## Reading: Luke 4:14-44
 

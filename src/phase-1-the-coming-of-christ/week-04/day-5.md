@@ -19,7 +19,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Paralytic Healed, Levi Called, Fasting Questions
 
 ## Reading: Mark 2
 

@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Letters to Sardis, Philadelphia, Laodicea
 
 ## Reading: Revelation 3
 

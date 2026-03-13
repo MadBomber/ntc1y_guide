@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 3: One Body, Many Members
 
 ## Reading: 1 Corinthians 12
 

@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Test the Spirits, God Is Love
 
 ## Reading: 1 John 4
 

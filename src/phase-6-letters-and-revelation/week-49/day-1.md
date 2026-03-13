@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Shepherd the Flock, Humble Yourselves, Resist the Devil
 
 ## Reading: 1 Peter 5
 

@@ -1,6 +1,6 @@
 ---
 week: 47
-title: Week 47 Discussion — The New and Living Way
+title: The New and Living Way
 phase: Letters to the Churches & Revelation
 tags:
 - phase-6
@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Week 47 Discussion: The New and Living Way
 
 ## Opening Question
 

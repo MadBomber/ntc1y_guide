@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Released from the Law, Inner Struggle -- "What I Want to Do I Do Not Do"
 
 ## Reading: Romans 7
 

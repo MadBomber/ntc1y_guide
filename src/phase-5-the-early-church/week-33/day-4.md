@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Godly Sorrow and Restored Joy
 
 ## Reading: 2 Corinthians 7
 

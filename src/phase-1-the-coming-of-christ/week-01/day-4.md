@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Genealogy and Joseph's Dream
 
 ## Reading: Matthew 1
 

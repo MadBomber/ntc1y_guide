@@ -1,6 +1,6 @@
 ---
 week: 1
-title: Week 1 Discussion Guide
+title: The Word Became Flesh
 type: discussion
 tags:
 - discussion
@@ -9,7 +9,6 @@ tags:
 layout: page
 ---
 
-# Week 1 Discussion Guide: The Word Became Flesh
 
 ## Opening Question
 

@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Man of Lawlessness, Stand Firm in Teaching
 
 ## Reading: 2 Thessalonians 2
 

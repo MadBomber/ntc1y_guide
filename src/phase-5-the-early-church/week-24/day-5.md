@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 5: No Other Gospel
 
 ## Reading: Galatians 1
 

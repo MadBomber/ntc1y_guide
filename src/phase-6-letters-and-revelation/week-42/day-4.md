@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 4: The New Self in Christ
 
 ## Reading: Colossians 3
 

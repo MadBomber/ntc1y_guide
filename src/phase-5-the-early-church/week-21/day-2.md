@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: The Day of Pentecost
 
 ## Reading: Acts 2
 

@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Crucified and Risen
 
 ## Reading: Mark 15:21-47, Mark 16
 

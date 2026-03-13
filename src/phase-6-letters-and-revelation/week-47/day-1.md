@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Jesus Ministers in the True Heavenly Tabernacle
 
 ## Reading: Hebrews 8
 

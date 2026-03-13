@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 4: Train Yourself in Godliness
 
 ## Reading: 1 Timothy 4
 

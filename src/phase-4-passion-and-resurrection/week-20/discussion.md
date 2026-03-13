@@ -1,6 +1,6 @@
 ---
 week: 20
-title: Week 20 Discussion Guide
+title: He Is Risen
 type: discussion
 tags:
 - discussion
@@ -9,7 +9,6 @@ tags:
 layout: page
 ---
 
-# Week 20 Discussion Guide: He Is Risen
 
 ## Opening Question
 

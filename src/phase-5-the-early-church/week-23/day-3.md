@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 3: Warning to Rich Oppressors — Prayer of Faith
 
 ## Reading: James 5
 

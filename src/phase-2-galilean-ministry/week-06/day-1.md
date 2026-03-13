@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Centurion's Faith, Stilling the Storm, Gadarene Demoniacs
 
 ## Reading: Matthew 8
 

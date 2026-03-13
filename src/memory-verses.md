@@ -3,7 +3,6 @@ title: Memory Verses
 layout: page
 ---
 
-# Memory Verses
 
 Scripture memorization is one of the oldest and most powerful spiritual disciplines. When you commit God's Word to memory, it becomes available to you in moments when you cannot open a Bible — in prayer, in conversation, in times of trial, in the middle of the night. The 52 verses in this study were chosen because each one captures the heart of its week's readings. Together they form a compressed summary of the entire New Testament.
 

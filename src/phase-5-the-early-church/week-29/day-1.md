@@ -17,7 +17,6 @@ tags:
 layout: page
 ---
 
-# Day 1: Ephesus -- Disciples of John, Extraordinary Miracles, Sons of Sceva, Riot of Silversmiths
 
 ## Reading: Acts 19
 

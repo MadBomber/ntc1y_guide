@@ -13,7 +13,6 @@ memory_verse: "John 6:35"
 layout: page
 ---
 
-# Week 8: Miracles and Mission
 
 ## The Big Picture
 

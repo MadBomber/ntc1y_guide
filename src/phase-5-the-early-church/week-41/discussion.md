@@ -1,7 +1,7 @@
 ---
 week: 41
 phase: The Early Church
-title: Discussion Guide -- Prison Letters
+title: Prison Letters
 tags:
 - phase-5
 - ephesians
@@ -15,7 +15,6 @@ tags:
 layout: page
 ---
 
-# Week 41 Discussion Guide: Prison Letters
 
 ## Opening
 Read Philippians 2:5-11 aloud together. Allow a moment of silence before beginning discussion.

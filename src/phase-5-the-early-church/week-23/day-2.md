@@ -16,7 +16,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Friendship with the World — Submit to God
 
 ## Reading: James 4
 

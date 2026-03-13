@@ -1,7 +1,7 @@
 ---
 week: 15
 phase: The Road to Jerusalem
-title: Discussion Guide — The Final Week Begins
+title: The Final Week Begins
 tags:
 - phase-3
 - triumphal-entry
@@ -12,7 +12,6 @@ tags:
 layout: page
 ---
 
-# Week 15 Discussion Guide: The Final Week Begins
 
 ## Opening Question
 

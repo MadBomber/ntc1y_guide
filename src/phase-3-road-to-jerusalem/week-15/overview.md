@@ -12,7 +12,6 @@ memory_verse: "Mark 12:30-31"
 layout: page
 ---
 
-# Week 15: The Final Week Begins
 
 ## The Big Picture
 

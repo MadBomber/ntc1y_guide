@@ -18,7 +18,6 @@ tags:
 layout: page
 ---
 
-# Day 2: Growing in Faith, Eyewitnesses of His Majesty
 
 ## Reading: 2 Peter 1
 

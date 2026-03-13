@@ -13,7 +13,6 @@ memory_verse: "John 17:3"
 layout: page
 ---
 
-# Week 18: Gethsemane and Trial
 
 ## The Big Picture
 

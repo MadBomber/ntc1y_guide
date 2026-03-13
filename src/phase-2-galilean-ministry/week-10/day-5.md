@@ -14,7 +14,6 @@ tags:
 layout: page
 ---
 
-# Day 5: Second Passion Prediction, Who Is Greatest, Salt
 
 ## Reading: Mark 9:30-50
 
