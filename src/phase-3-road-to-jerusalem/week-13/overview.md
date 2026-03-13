@@ -63,7 +63,7 @@ Together, these readings paint a picture of a God who defies every category we c
 - **Spiritual Sight and Blindness** -- John 9 is the Gospel's great parable-in-action: physical blindness is healed while spiritual blindness is exposed and condemned.
 - **The Good Shepherd** -- Jesus' shepherd discourse fulfills Ezekiel 34 and reveals the sacrificial heart of God's love: the shepherd does not flee from the wolf but lays down his life.
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "The thief comes only to steal and kill and destroy; I came so that they would have life, and have it abundantly." -- John 10:10 (NASB)
 

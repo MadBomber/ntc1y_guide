@@ -62,7 +62,7 @@ The week closes in Jericho with Zacchaeus, the chief tax collector who climbed a
 - **Prophetic irony** -- Caiaphas' political calculation that one man should die for the nation becomes, in John's hands, a statement of substitutionary atonement
 - **Salvation as transformation** -- Zacchaeus' radical generosity demonstrates that genuine encounter with Jesus produces visible, measurable change
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Jesus said to her, 'I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?'"
 > -- John 11:25-26

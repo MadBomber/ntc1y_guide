@@ -55,7 +55,7 @@ The religious leaders respond immediately. They challenge Jesus' authority, aski
 - **Prophetic fulfillment** -- Zechariah 9:9, Malachi 3:1-3, Psalm 118, and Isaiah 56:7 converge in these events
 - **Total devotion** -- From the widow's offering to the greatest commandment, wholehearted love is the standard
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength. The second is this: You shall love your neighbor as yourself. There is no other commandment greater than these."
 > -- Mark 12:30-31

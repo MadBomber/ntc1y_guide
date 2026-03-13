@@ -53,7 +53,7 @@ The teaching culminates in three extended parables -- the Ten Virgins, the Talen
 - **Faithful stewardship** -- What God has entrusted must be invested, not buried; readiness is active, not passive
 - **Compassion as criterion** -- The final judgment scene reveals that service to "the least" is service to Christ himself
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "And the King will answer them, 'Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.'"
 > -- Matthew 25:40

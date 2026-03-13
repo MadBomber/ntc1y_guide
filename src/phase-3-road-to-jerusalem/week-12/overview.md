@@ -61,7 +61,7 @@ The juxtaposition is deliberate. John shows us Jesus confronting religious hypoc
 - **The Cost of Discipleship** -- Luke 14 lays out in uncompromising terms what it means to follow Jesus: counting the cost, carrying the cross, and surrendering everything.
 - **God's Heart for the Lost** -- The three parables of Luke 15 form a crescendo revealing God as one who actively seeks the lost with relentless love and joy.
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Then Jesus again spoke to them, saying, 'I am the Light of the world; the one who follows Me will not walk in the darkness, but will have the Light of life.'" -- John 8:12 (NASB)
 
