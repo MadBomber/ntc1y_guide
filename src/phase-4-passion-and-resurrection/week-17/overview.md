@@ -54,7 +54,7 @@ The Farewell Discourse also introduces the Paraclete -- the Holy Spirit whom the
 - **The promised Holy Spirit** -- The Paraclete will teach, convict, guide, and glorify Christ in the age to come
 - **Farewell and hope** -- Jesus prepares his disciples for his departure while assuring them that separation is not abandonment
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."
 > -- John 15:5

@@ -64,7 +64,7 @@ Then we turn to Acts 9-10, and the pace shifts from pastoral instruction to dram
 - **Gentile inclusion** — The Holy Spirit breaks through ethnic and religious boundaries to create one people of God
 - **The prayer of faith** — James envisions a community that prays with expectation and restores those who wander
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Draw near to God, and he will draw near to you."
 > — James 4:8

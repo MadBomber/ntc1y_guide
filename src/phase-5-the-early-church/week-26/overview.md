@@ -61,7 +61,7 @@ The week concludes in two of the great intellectual centers of the ancient world
 - **Suffering and mission** -- Beatings, imprisonment, and riots accompany the advance of the gospel at every turn
 - **The sovereignty of the Spirit** -- The Holy Spirit directs the missionaries' itinerary, closing some doors and opening others
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "For in him we live and move and have our being."
 > -- Acts 17:28

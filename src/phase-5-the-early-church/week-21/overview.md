@@ -57,7 +57,7 @@ By the end of the week, we see the pattern that will define the early church's e
 - **Continuity with Israel** -- Peter consistently appeals to Old Testament prophecy to explain what God is doing
 - **Divine judgment and holiness** -- The Ananias and Sapphira episode reveals the seriousness of the Spirit's presence
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth."
 > -- Acts 1:8

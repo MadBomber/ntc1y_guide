@@ -56,7 +56,7 @@ The arrest, trials, and denials that follow expose the worst of human nature in 
 - **Betrayal and denial** -- The closest circle of disciples includes a traitor and a denier, exposing the frailty of human loyalty
 - **Substitutionary exchange** -- Barabbas, the guilty one, goes free while Jesus, the innocent one, takes his place -- a living parable of the atonement
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "And this is eternal life, that they know you, the only true God, and Jesus Christ whom you have sent."
 > -- John 17:3

@@ -55,7 +55,7 @@ Chapters 12-14 then translate Paul's theology into a comprehensive ethic for the
 - **Christian liberty and mutual responsibility** -- Believers must not judge one another on disputable matters but must exercise their freedom with sensitivity to those whose consciences are weaker
 - **Eschatological urgency** -- "The night is nearly over; the day is almost here" -- ethical living is motivated by the nearness of Christ's return
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Therefore, I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God -- this is your true and proper worship. Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is -- his good, pleasing and perfect will."
 > -- Romans 12:1-2

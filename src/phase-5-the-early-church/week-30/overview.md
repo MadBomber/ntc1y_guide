@@ -54,7 +54,7 @@ This week we encounter Paul at his most direct and his most pastoral. In chapter
 - **Apostolic example** -- Paul models the sacrificial love he preaches by forgoing his apostolic rights
 - **Cultural engagement** -- Believers must navigate pagan culture without either withdrawing from it or being absorbed by it
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies."
 > -- 1 Corinthians 6:19-20

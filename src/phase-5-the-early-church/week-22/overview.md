@@ -55,7 +55,7 @@ The scattering that follows Stephen's death is one of the great ironies of redem
 - **Faith and works** -- James insists that genuine faith always expresses itself in action
 - **The word of God and the poor** -- Both Acts and James emphasize that the gospel creates communities of justice and generosity
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "But be doers of the word, and not hearers only, deceiving yourselves."
 > -- James 1:22

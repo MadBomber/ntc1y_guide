@@ -55,7 +55,7 @@ Chapter 4 then pivots with a single word: "therefore." Everything that follows -
 - **The mystery revealed** -- Gentiles are not afterthoughts but co-heirs, co-members, and co-sharers in God's promise through Christ
 - **Unity in diversity** -- The church is one body with many gifts, called to maintain the unity the Spirit has already created
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast."
 > -- Ephesians 2:8-9

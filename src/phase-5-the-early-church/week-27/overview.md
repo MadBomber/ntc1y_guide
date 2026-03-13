@@ -54,7 +54,7 @@ It is during this Corinthian stay, around 50-51 AD, that Paul writes his two let
 - **Holy living in an unholy world** -- Sexual purity, love for one another, and quiet faithfulness as marks of the Christian life
 - **The second coming of Christ** -- The return of Jesus is the dominant theme of both Thessalonian letters
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "For the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And the dead in Christ will rise first. Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord."
 > -- 1 Thessalonians 4:16-17

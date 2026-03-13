@@ -71,7 +71,7 @@ What strikes the careful reader is the diversity of these accounts within their 
 - **Faith and doubt** -- Thomas's doubt is met not with rebuke but with evidence, and his response -- "My Lord and my God!" -- becomes the highest confession of faith in the Gospels.
 - **The opened Scriptures** -- On the Emmaus road, Jesus shows that the entire Old Testament points to his suffering and glory, providing the hermeneutical key to all of Scripture.
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "And Jesus came up and spoke to them, saying, 'All authority has been given to Me in heaven and on earth. Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit, teaching them to observe all that I commanded you; and lo, I am with you always, even to the end of the age.'" -- Matthew 28:18-20 (NASB)
 

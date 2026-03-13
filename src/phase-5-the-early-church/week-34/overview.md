@@ -56,7 +56,7 @@ Chapter 12 contains the astonishing account of Paul's visionary experience -- ca
 - **Self-examination** -- Believers are called to test themselves and confirm that Christ is truly in them
 - **Trinitarian blessing** -- The earliest complete trinitarian formula, affirming the distinct and united work of Father, Son, and Spirit
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me."
 > -- 2 Corinthians 12:9

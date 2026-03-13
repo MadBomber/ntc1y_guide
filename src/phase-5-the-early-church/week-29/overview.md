@@ -57,7 +57,7 @@ The opening chapters of 1 Corinthians (1-4) lay the theological foundation for e
 - **Spiritual maturity versus spiritual infancy** -- The Corinthians' divisions reveal that they are still thinking like the world, not like people taught by the Spirit
 - **Christ as the only foundation** -- All ministry is building on the one foundation already laid; the quality of that building will be tested by fire
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God."
 > -- 1 Corinthians 1:18

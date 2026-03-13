@@ -57,7 +57,7 @@ Then comes the sea. Luke's account of the voyage to Rome in Acts 27 is the most 
 - **Providence in the storm** -- God does not always prevent suffering but sustains his people through it and accomplishes his purposes within it
 - **The continuity of Israel's hope** -- Paul consistently argues that the gospel is not a departure from Judaism but its fulfillment
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Then Agrippa said to Paul, 'In a short time would you persuade me to be a Christian?' And Paul said, 'Whether short or long, I would to God that not only you but also all who hear me this day might become such as I am -- except for these chains.'"
 > -- Acts 26:28-29

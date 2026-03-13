@@ -55,7 +55,7 @@ The week closes with Acts 18:18-28, which narrates Paul's departure from Corinth
 - **The dignity and necessity of work** -- Idle living dishonors the community and contradicts the gospel
 - **The ongoing need for accurate teaching** -- Even Apollos, brilliant as he was, needed correction and further instruction
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "But the Lord is faithful. He will establish you and guard you against the evil one."
 > -- 2 Thessalonians 3:3

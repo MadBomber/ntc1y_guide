@@ -57,7 +57,7 @@ The final two chapters move from theology to ethics. Christian freedom is not a 
 - **The law as temporary guardian** -- The Mosaic law served a preparatory function, pointing toward Christ
 - **New creation** -- The ultimate reality that transcends all human categories
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law."
 > -- Galatians 5:22-23

@@ -61,7 +61,7 @@ The week concludes with the opening chapter of Galatians, likely written from An
 - **Apostolic authority** -- Paul defends his calling as rooted in divine revelation, not human appointment
 - **The sovereignty of God** -- Herod's death and Peter's deliverance demonstrate God's control over earthly power
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth."
 > -- Acts 13:47

@@ -65,7 +65,7 @@ Philippians 1 introduces the theme of gospel partnership and Paul's famous dilem
 - **The pattern of Christ** -- Humility leading to exaltation (the kenosis hymn) becomes the template for all Christian living
 - **Knowing Christ above all** -- Every human achievement pales beside the surpassing worth of knowing Jesus
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross."
 > -- Philippians 2:5-8

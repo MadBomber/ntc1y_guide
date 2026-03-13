@@ -69,7 +69,7 @@ Together, these two accounts form a breathtaking composite. We see the full huma
 - **The Failure of Human Justice** -- Every human institution -- religious and civil, Jewish and Roman -- fails Jesus. The cross exposes the bankruptcy of all systems apart from God.
 - **The Torn Curtain** -- The temple veil ripping from top to bottom signals the end of the old sacrificial system and the opening of direct access to God for all people.
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "And Jesus said, 'Father, forgive them, for they do not know what they are doing.'" -- Luke 23:34 (NASB)
 
