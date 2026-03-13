@@ -19,6 +19,7 @@
     if (f.journal === false) css += '[data-feature="journal"]{display:none!important}';
     if (f.speak === false) css += '[data-feature="speak"]{display:none!important}';
     if (f.group !== true) css += '[data-feature="group"]{display:none!important}';
+    if (f.discussions !== true) css += '[data-feature="discussions"]{display:none!important}';
     if (css) {
       var style = document.createElement("style");
       style.textContent = css;

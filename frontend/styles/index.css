@@ -1130,6 +1130,28 @@ button.toolbar-icon {
   opacity: 1;
 }
 
+.settings-theme-selector {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.settings-select {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  background: var(--bg-surface);
+  color: var(--text-primary);
+}
+
+.settings-select:focus {
+  outline: none;
+  border-color: var(--purple-light);
+  box-shadow: 0 0 0 3px rgba(124, 77, 255, 0.15);
+}
+
 /* --- Group Member Editor --- */
 
 .group-member-form {
@@ -1197,4 +1219,26 @@ button.toolbar-icon {
   .group-member-form {
     flex-direction: column;
   }
+}
+
+/* --- Page Discussions (Giscus) --- */
+
+.page-discussions {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid var(--purple-faint);
+}
+
+.page-discussions h2 {
+  font-size: 1.2rem;
+  text-align: center;
+  border-bottom: none;
+}
+
+.discussions-note {
+  text-align: center;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: 1.5rem;
 }

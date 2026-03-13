@@ -8,7 +8,9 @@ const DEFAULT_SETTINGS = {
     journal: true,
     speak: true,
     group: false,
-  }
+    discussions: false,
+  },
+  discussionTheme: "light",
 }
 
 // --- Settings storage ---
@@ -17,7 +19,8 @@ function getSettings() {
   try {
     const stored = JSON.parse(localStorage.getItem(SETTINGS_KEY) || "{}")
     return {
-      features: { ...DEFAULT_SETTINGS.features, ...(stored.features || {}) }
+      features: { ...DEFAULT_SETTINGS.features, ...(stored.features || {}) },
+      discussionTheme: stored.discussionTheme || DEFAULT_SETTINGS.discussionTheme,
     }
   } catch {
     return { ...DEFAULT_SETTINGS }
@@ -481,6 +484,7 @@ function initSettingsPage() {
     "setting-journal": "journal",
     "setting-speak": "speak",
     "setting-group": "group",
+    "setting-discussions": "discussions",
   }
 
   for (const [id, feature] of Object.entries(toggles)) {
@@ -554,6 +558,18 @@ function initSettingsPage() {
 
   const clearGroupBtn = document.getElementById("settings-clear-group")
   if (clearGroupBtn) clearGroupBtn.addEventListener("click", clearGroup)
+
+  // Discussion theme selector
+  const themeSelect = document.getElementById("setting-discussion-theme")
+  if (themeSelect) {
+    themeSelect.value = settings.discussionTheme || "light"
+    themeSelect.addEventListener("change", () => {
+      const s = getSettings()
+      s.discussionTheme = themeSelect.value
+      saveSettings(s)
+      showStatus(`Discussion theme set to "${themeSelect.value}". Changes apply on the next page load.`)
+    })
+  }
 
   // Info displays
   updateJournalInfo()

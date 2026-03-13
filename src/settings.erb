@@ -40,6 +40,16 @@ permalink: /settings/
         </span>
       </label>
     </div>
+
+    <div class="settings-toggle">
+      <label class="settings-toggle-label">
+        <input type="checkbox" id="setting-discussions" />
+        <span class="settings-toggle-text">
+          <strong>Community Discussions</strong>
+          <span class="settings-toggle-desc">Show a comment section at the bottom of content pages. Posting requires a free <a href="https://github.com/signup" target="_blank">GitHub</a> account (owned by Microsoft). All comments are public and viewable by anyone.</span>
+        </span>
+      </label>
+    </div>
   </section>
 
   <section class="settings-section" data-feature="journal">
@@ -71,6 +81,24 @@ permalink: /settings/
       <button id="settings-import-group" class="settings-btn">Import</button>
       <input type="file" id="settings-import-group-file" accept=".json" style="display:none;" />
       <button id="settings-clear-group" class="settings-btn settings-btn-danger">Clear All Members</button>
+    </div>
+  </section>
+
+  <section class="settings-section" data-feature="discussions">
+    <h2>Discussion Appearance</h2>
+    <div class="settings-theme-selector">
+      <label for="setting-discussion-theme" class="settings-info">Comment section theme:</label>
+      <select id="setting-discussion-theme" class="settings-select">
+        <option value="light">Light</option>
+        <option value="light_high_contrast">Light High Contrast</option>
+        <option value="light_protanopia">Light Protanopia</option>
+        <option value="dark">Dark</option>
+        <option value="dark_high_contrast">Dark High Contrast</option>
+        <option value="dark_dimmed">Dark Dimmed</option>
+        <option value="dark_protanopia">Dark Protanopia</option>
+        <option value="transparent_dark">Transparent Dark</option>
+        <option value="preferred_color_scheme">Match System Setting</option>
+      </select>
     </div>
   </section>
 

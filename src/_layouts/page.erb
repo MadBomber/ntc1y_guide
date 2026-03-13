@@ -6,4 +6,10 @@ layout: default
   <h1><% if data.day %>Day <%= data.day %>: <%= data.title %><% elsif data.week && data.type == "discussion" %>Week <%= data.week %> Discussion Guide: <%= data.title %><% elsif data.week %>Week <%= data.week %>: <%= data.title %><% else %><%= data.title %><% end %></h1>
 
   <%= yield %>
+
+  <section class="page-discussions" data-feature="discussions">
+    <h2>Discussion</h2>
+    <p class="discussions-note">Comments are powered by GitHub Discussions. To post, sign in with your GitHub account using the link below the reaction icons.</p>
+    <div class="giscus"></div>
+  </section>
 </article>
