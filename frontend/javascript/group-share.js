@@ -40,7 +40,7 @@ function buildMailtoLink() {
 
   // Build body
   const parts = []
-  parts.push(document.title || "NT in One Year")
+  parts.push(document.title || "A Year at His Feet")
   parts.push(window.location.href)
   parts.push("")
 
