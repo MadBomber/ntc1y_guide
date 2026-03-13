@@ -12,13 +12,13 @@
       </a>
     <% end %>
     <% if @resource.data[:week] && @resource.data[:day] %>
-      <a href="<%= relative_url '/hear-journal/' %>?week=<%= @resource.data[:week] %>&day=<%= @resource.data[:day] %>&reading=<%= ERB::Util.url_encode(@resource.data[:reading].to_s) %>&title=<%= ERB::Util.url_encode(@resource.data[:title].to_s) %>" target="_blank" class="toolbar-icon" data-tooltip="H.E.A.R. Journal">
+      <a href="<%= relative_url '/hear-journal/' %>?week=<%= @resource.data[:week] %>&day=<%= @resource.data[:day] %>&reading=<%= ERB::Util.url_encode(@resource.data[:reading].to_s) %>&title=<%= ERB::Util.url_encode(@resource.data[:title].to_s) %>" target="_blank" class="toolbar-icon" data-feature="journal" data-tooltip="H.E.A.R. Journal">
         <svg viewBox="0 0 24 24" width="60" height="60" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"></path>
         </svg>
       </a>
     <% end %>
-    <button class="toolbar-icon toolbar-speak-btn" data-tooltip="Read page aloud">
+    <button class="toolbar-icon toolbar-speak-btn" data-feature="speak" data-tooltip="Read page aloud">
       <svg viewBox="0 0 24 24" width="60" height="60" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path>
         <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
@@ -33,6 +33,12 @@
         <rect x="6" y="14" width="12" height="8"></rect>
       </svg>
     </a>
+    <a href="<%= relative_url '/settings/' %>" class="toolbar-icon" data-tooltip="Settings">
+      <svg viewBox="0 0 24 24" width="60" height="60" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="3"></circle>
+        <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
+      </svg>
+    </a>
   </div>
 </header>
 
@@ -41,7 +47,7 @@
     <li><a href="<%= relative_url '/' %>">Home</a></li>
     <li><a href="<%= relative_url '/how-to-use' %>">How to Use</a></li>
     <li><a href="<%= relative_url '/hear-method' %>">H.E.A.R. Method</a></li>
-    <li><a href="<%= relative_url '/hear-journal/' %>">My Journal</a></li>
+    <li data-feature="journal"><a href="<%= relative_url '/hear-journal/' %>">My Journal</a></li>
     <li><a href="<%= relative_url '/chronological-overview' %>">Why Chronological?</a></li>
     <li><a href="<%= relative_url '/memory-verses' %>">Memory Verses</a></li>
   </ul>

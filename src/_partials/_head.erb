@@ -9,5 +9,22 @@
 <meta name="description" content="<%= metadata.description %>" />
 
 <link rel="stylesheet" href="<%= asset_path :css %>" />
+<script>
+// Apply feature visibility before first paint to prevent FOUC
+(function() {
+  try {
+    var s = JSON.parse(localStorage.getItem("ntc1y_settings") || "{}");
+    var f = s.features || {};
+    var css = "";
+    if (f.journal === false) css += '[data-feature="journal"]{display:none!important}';
+    if (f.speak === false) css += '[data-feature="speak"]{display:none!important}';
+    if (css) {
+      var style = document.createElement("style");
+      style.textContent = css;
+      document.head.appendChild(style);
+    }
+  } catch(e) {}
+})();
+</script>
 <script src="<%= asset_path :js %>" defer></script>
 <%= live_reload_dev_js %>

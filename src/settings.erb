@@ -1,0 +1,65 @@
+---
+title: Settings
+layout: default
+permalink: /settings/
+---
+
+<article id="settings-page">
+  <h1>Settings</h1>
+  <p style="text-align:center; color: var(--text-secondary); margin-bottom: 2rem;">Customize your study experience. All settings are stored privately in this browser.</p>
+
+  <section class="settings-section">
+    <h2>Features</h2>
+
+    <div class="settings-toggle">
+      <label class="settings-toggle-label">
+        <input type="checkbox" id="setting-journal" />
+        <span class="settings-toggle-text">
+          <strong>H.E.A.R. Journaling</strong>
+          <span class="settings-toggle-desc">Show the journal icon on day pages</span>
+        </span>
+      </label>
+    </div>
+
+    <div class="settings-toggle">
+      <label class="settings-toggle-label">
+        <input type="checkbox" id="setting-speak" />
+        <span class="settings-toggle-text">
+          <strong>Read Aloud</strong>
+          <span class="settings-toggle-desc">Show the speak button in the toolbar</span>
+        </span>
+      </label>
+    </div>
+  </section>
+
+  <section class="settings-section" data-feature="journal">
+    <h2>Journal Data</h2>
+    <p id="settings-journal-info" class="settings-info"></p>
+
+    <div class="settings-actions">
+      <button id="settings-export-journal" class="settings-btn">Export</button>
+      <button id="settings-import-journal" class="settings-btn">Import</button>
+      <input type="file" id="settings-import-journal-file" accept=".json" style="display:none;" />
+      <button id="settings-clear-journal" class="settings-btn settings-btn-danger">Clear All Entries</button>
+    </div>
+  </section>
+
+  <section class="settings-section">
+    <h2>Progress Data</h2>
+    <p id="settings-progress-info" class="settings-info"></p>
+
+    <div class="settings-actions">
+      <button id="settings-export-progress" class="settings-btn">Export</button>
+      <button id="settings-import-progress" class="settings-btn">Import</button>
+      <input type="file" id="settings-import-progress-file" accept=".json" style="display:none;" />
+      <button id="settings-clear-progress" class="settings-btn settings-btn-danger">Clear All Progress</button>
+    </div>
+  </section>
+
+  <section class="settings-section">
+    <h2>Storage</h2>
+    <p id="settings-storage-info" class="settings-info"></p>
+  </section>
+
+  <div id="settings-status" class="settings-status"></div>
+</article>

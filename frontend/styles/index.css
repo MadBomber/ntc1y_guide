@@ -1026,3 +1026,106 @@ button.toolbar-icon {
 .hear-week-go-btn:hover {
   background: var(--purple-mid);
 }
+
+/* --- Settings Page --- */
+
+.settings-section {
+  margin-bottom: 2rem;
+}
+
+.settings-section h2 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.settings-toggle {
+  margin-bottom: 0.75rem;
+}
+
+.settings-toggle-label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  cursor: pointer;
+}
+
+.settings-toggle-label input[type="checkbox"] {
+  width: 1.2rem;
+  height: 1.2rem;
+  accent-color: var(--purple-mid);
+  margin-top: 0.15rem;
+  flex-shrink: 0;
+}
+
+.settings-toggle-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.settings-toggle-text strong {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  color: var(--text-primary);
+}
+
+.settings-toggle-desc {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.settings-info {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.75rem;
+}
+
+.settings-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.settings-btn {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 0.5rem 1.25rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  background: var(--bg-surface);
+  color: var(--purple-mid);
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.settings-btn:hover {
+  background: var(--purple-faint);
+  border-color: var(--purple-light);
+}
+
+.settings-btn-danger {
+  color: #c62828;
+  border-color: #e0b0b0;
+}
+
+.settings-btn-danger:hover {
+  background: #fce4ec;
+  border-color: #c62828;
+}
+
+.settings-status {
+  text-align: center;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--gold);
+  margin-top: 1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.settings-status.visible {
+  opacity: 1;
+}
