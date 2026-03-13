@@ -11,6 +11,13 @@
         </svg>
       </a>
     <% end %>
+    <% if @resource.data[:week] && @resource.data[:day] %>
+      <a href="<%= relative_url '/hear-journal/' %>?week=<%= @resource.data[:week] %>&day=<%= @resource.data[:day] %>&reading=<%= ERB::Util.url_encode(@resource.data[:reading].to_s) %>&title=<%= ERB::Util.url_encode(@resource.data[:title].to_s) %>" target="_blank" class="toolbar-icon" data-tooltip="H.E.A.R. Journal">
+        <svg viewBox="0 0 24 24" width="60" height="60" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"></path>
+        </svg>
+      </a>
+    <% end %>
     <button class="toolbar-icon toolbar-speak-btn" data-tooltip="Read page aloud">
       <svg viewBox="0 0 24 24" width="60" height="60" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path>
@@ -33,6 +40,8 @@
   <ul>
     <li><a href="<%= relative_url '/' %>">Home</a></li>
     <li><a href="<%= relative_url '/how-to-use' %>">How to Use</a></li>
+    <li><a href="<%= relative_url '/hear-method' %>">H.E.A.R. Method</a></li>
+    <li><a href="<%= relative_url '/hear-journal/' %>">My Journal</a></li>
     <li><a href="<%= relative_url '/chronological-overview' %>">Why Chronological?</a></li>
     <li><a href="<%= relative_url '/memory-verses' %>">Memory Verses</a></li>
   </ul>

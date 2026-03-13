@@ -1,0 +1,64 @@
+---
+title: H.E.A.R. Journal
+layout: default
+permalink: /hear-journal/
+---
+
+<article class="hear-journal" id="hear-journal">
+  <div class="hear-journal-header">
+    <h1 id="hear-journal-title">H.E.A.R. Journal</h1>
+    <p id="hear-journal-context" class="hear-journal-context"></p>
+    <p class="hear-journal-privacy">Your journal is stored privately in this browser. Nothing leaves your device.</p>
+  </div>
+
+  <div id="hear-journal-day-form" class="hear-journal-form" style="display:none;">
+    <div class="hear-field">
+      <label for="hear-h">
+        <strong>H</strong> — Highlight
+        <span class="hear-field-hint">What verse or phrase stood out? Give it a short title.</span>
+      </label>
+      <textarea id="hear-h" rows="4" placeholder="Book, passage, key verse, and a title in your own words..."></textarea>
+    </div>
+
+    <div class="hear-field">
+      <label for="hear-e">
+        <strong>E</strong> — Explain
+        <span class="hear-field-hint">What did this mean to its original audience?</span>
+      </label>
+      <textarea id="hear-e" rows="6" placeholder="Why was this written? To whom? How does it fit in context? What is God communicating?"></textarea>
+    </div>
+
+    <div class="hear-field">
+      <label for="hear-a">
+        <strong>A</strong> — Apply
+        <span class="hear-field-hint">What does this mean for your life today?</span>
+      </label>
+      <textarea id="hear-a" rows="6" placeholder="How does this challenge, encourage, or convict you in your current situation?"></textarea>
+    </div>
+
+    <div class="hear-field">
+      <label for="hear-r">
+        <strong>R</strong> — Respond
+        <span class="hear-field-hint">A specific action step and a written prayer.</span>
+      </label>
+      <textarea id="hear-r" rows="6" placeholder="What will you do differently? Write a prayer in response..."></textarea>
+    </div>
+
+    <div class="hear-status" id="hear-status"></div>
+  </div>
+
+  <div id="hear-journal-week-view" class="hear-journal-week-view" style="display:none;">
+    <div id="hear-week-entries"></div>
+  </div>
+
+  <div id="hear-journal-no-params" style="display:none;">
+    <p>Open your journal from any day page using the journal icon in the toolbar.</p>
+    <p>Or choose a week to review:</p>
+    <div class="hear-week-selector">
+      <select id="hear-week-select">
+        <option value="">Select a week...</option>
+      </select>
+      <button id="hear-week-go" class="hear-week-go-btn">View Week</button>
+    </div>
+  </div>
+</article>
