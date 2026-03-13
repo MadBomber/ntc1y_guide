@@ -1,11 +1,13 @@
 const SETTINGS_KEY = "ntc1y_settings"
 const JOURNAL_KEY = "ntc1y_hear"
 const PROGRESS_KEY = "ntc1y_progress"
+const GROUP_KEY = "ntc1y_group"
 
 const DEFAULT_SETTINGS = {
   features: {
     journal: true,
     speak: true,
+    group: false,
   }
 }
 
@@ -234,6 +236,179 @@ function clearProgress() {
   }
 }
 
+// --- Group member management ---
+
+function getGroupMembers() {
+  try {
+    return JSON.parse(localStorage.getItem(GROUP_KEY) || "[]")
+  } catch {
+    return []
+  }
+}
+
+function saveGroupMembers(members) {
+  localStorage.setItem(GROUP_KEY, JSON.stringify(members))
+  updateGroupInfo()
+  updateStorageInfo()
+}
+
+function renderGroupMemberList() {
+  const list = document.getElementById("group-member-list")
+  if (!list) return
+
+  const members = getGroupMembers()
+  list.innerHTML = ""
+
+  if (members.length === 0) {
+    const empty = document.createElement("p")
+    empty.className = "settings-info"
+    empty.textContent = "No group members yet. Add someone to get started."
+    list.appendChild(empty)
+    return
+  }
+
+  members.forEach((member, index) => {
+    const row = document.createElement("div")
+    row.className = "group-member-row"
+
+    const info = document.createElement("span")
+    info.className = "group-member-info"
+    info.textContent = member.name ? `${member.name} — ${member.email}` : member.email
+
+    const removeBtn = document.createElement("button")
+    removeBtn.className = "group-member-remove"
+    removeBtn.textContent = "Remove"
+    removeBtn.addEventListener("click", () => {
+      const current = getGroupMembers()
+      current.splice(index, 1)
+      saveGroupMembers(current)
+      renderGroupMemberList()
+    })
+
+    row.appendChild(info)
+    row.appendChild(removeBtn)
+    list.appendChild(row)
+  })
+}
+
+function initGroupMemberForm() {
+  const addBtn = document.getElementById("group-add-member")
+  const nameInput = document.getElementById("group-member-name")
+  const emailInput = document.getElementById("group-member-email")
+  if (!addBtn || !nameInput || !emailInput) return
+
+  function addMember() {
+    const name = nameInput.value.trim()
+    const email = emailInput.value.trim()
+
+    if (!email) {
+      showStatus("Please enter an email address.")
+      return
+    }
+
+    const members = getGroupMembers()
+    if (members.some(m => m.email.toLowerCase() === email.toLowerCase())) {
+      showStatus("That email address is already in your group.")
+      return
+    }
+
+    members.push({ name, email })
+    saveGroupMembers(members)
+    renderGroupMemberList()
+
+    nameInput.value = ""
+    emailInput.value = ""
+    nameInput.focus()
+
+    showStatus(`Added ${name || email} to your group.`)
+  }
+
+  addBtn.addEventListener("click", addMember)
+  emailInput.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { e.preventDefault(); addMember() }
+  })
+}
+
+function updateGroupInfo() {
+  const infoEl = document.getElementById("settings-group-info")
+  if (!infoEl) return
+
+  const count = getGroupMembers().length
+  if (count === 0) {
+    infoEl.textContent = "No group members."
+  } else {
+    infoEl.textContent = `${count} ${count === 1 ? "member" : "members"} in your study group.`
+  }
+}
+
+function exportGroup() {
+  const members = getGroupMembers()
+  if (members.length === 0) {
+    showStatus("No group members to export.")
+    return
+  }
+
+  const today = new Date().toISOString().split("T")[0]
+  downloadJSON(members, `ntc1y-group-${today}.json`)
+  showStatus(`Exported ${members.length} group ${members.length === 1 ? "member" : "members"}.`)
+}
+
+function importGroup(file) {
+  const reader = new FileReader()
+  reader.onload = function(e) {
+    try {
+      const data = JSON.parse(e.target.result)
+      if (!Array.isArray(data)) {
+        showStatus("Invalid group file. Expected an array of members.")
+        return
+      }
+      const valid = data.every(m => typeof m === "object" && m !== null && typeof m.email === "string")
+      if (!valid) {
+        showStatus("Invalid group file. Each member must have an email address.")
+        return
+      }
+
+      const count = data.length
+      if (count === 0) {
+        showStatus("The file contains no group members.")
+        return
+      }
+
+      const existing = getGroupMembers().length
+      let msg = `Import ${count} group ${count === 1 ? "member" : "members"}?`
+      if (existing > 0) {
+        msg += ` This will replace your current ${existing} ${existing === 1 ? "member" : "members"}.`
+      }
+
+      if (window.confirm(msg)) {
+        saveGroupMembers(data)
+        renderGroupMemberList()
+        showStatus(`Imported ${count} group ${count === 1 ? "member" : "members"}.`)
+      }
+    } catch {
+      showStatus("Could not read file. Make sure it is a valid JSON file.")
+    }
+  }
+  reader.readAsText(file)
+}
+
+function clearGroup() {
+  const count = getGroupMembers().length
+  if (count === 0) {
+    showStatus("No group members to clear.")
+    return
+  }
+
+  const msg = `This will remove all ${count} ${count === 1 ? "member" : "members"} from your study group. This cannot be undone.\n\nContinue?`
+  if (window.confirm(msg)) {
+    localStorage.removeItem(GROUP_KEY)
+    renderGroupMemberList()
+    updateGroupInfo()
+    updateStorageInfo()
+    showStatus("All group members have been removed.")
+  }
+}
+
 // --- Status display ---
 
 function showStatus(message) {
@@ -305,6 +480,7 @@ function initSettingsPage() {
   const toggles = {
     "setting-journal": "journal",
     "setting-speak": "speak",
+    "setting-group": "group",
   }
 
   for (const [id, feature] of Object.entries(toggles)) {
@@ -357,9 +533,32 @@ function initSettingsPage() {
   const clearProgressBtn = document.getElementById("settings-clear-progress")
   if (clearProgressBtn) clearProgressBtn.addEventListener("click", clearProgress)
 
+  // Group member management
+  initGroupMemberForm()
+  renderGroupMemberList()
+
+  const exportGroupBtn = document.getElementById("settings-export-group")
+  if (exportGroupBtn) exportGroupBtn.addEventListener("click", exportGroup)
+
+  const importGroupBtn = document.getElementById("settings-import-group")
+  const importGroupFile = document.getElementById("settings-import-group-file")
+  if (importGroupBtn && importGroupFile) {
+    importGroupBtn.addEventListener("click", () => importGroupFile.click())
+    importGroupFile.addEventListener("change", () => {
+      if (importGroupFile.files.length > 0) {
+        importGroup(importGroupFile.files[0])
+        importGroupFile.value = ""
+      }
+    })
+  }
+
+  const clearGroupBtn = document.getElementById("settings-clear-group")
+  if (clearGroupBtn) clearGroupBtn.addEventListener("click", clearGroup)
+
   // Info displays
   updateJournalInfo()
   updateProgressInfo()
+  updateGroupInfo()
   updateStorageInfo()
 }
 

@@ -30,6 +30,16 @@ permalink: /settings/
         </span>
       </label>
     </div>
+
+    <div class="settings-toggle">
+      <label class="settings-toggle-label">
+        <input type="checkbox" id="setting-group" />
+        <span class="settings-toggle-text">
+          <strong>Group Sharing</strong>
+          <span class="settings-toggle-desc">Show an email icon in the toolbar to share with your study group</span>
+        </span>
+      </label>
+    </div>
   </section>
 
   <section class="settings-section" data-feature="journal">
@@ -41,6 +51,26 @@ permalink: /settings/
       <button id="settings-import-journal" class="settings-btn">Import</button>
       <input type="file" id="settings-import-journal-file" accept=".json" style="display:none;" />
       <button id="settings-clear-journal" class="settings-btn settings-btn-danger">Clear All Entries</button>
+    </div>
+  </section>
+
+  <section class="settings-section" data-feature="group" id="group-members">
+    <h2>Study Group Members</h2>
+    <p id="settings-group-info" class="settings-info"></p>
+
+    <div class="group-member-form">
+      <input type="text" id="group-member-name" placeholder="Name" class="group-member-input" />
+      <input type="email" id="group-member-email" placeholder="Email address" class="group-member-input group-member-input-email" />
+      <button id="group-add-member" class="settings-btn">Add</button>
+    </div>
+
+    <div id="group-member-list"></div>
+
+    <div class="settings-actions" style="margin-top: 1rem;">
+      <button id="settings-export-group" class="settings-btn">Export</button>
+      <button id="settings-import-group" class="settings-btn">Import</button>
+      <input type="file" id="settings-import-group-file" accept=".json" style="display:none;" />
+      <button id="settings-clear-group" class="settings-btn settings-btn-danger">Clear All Members</button>
     </div>
   </section>
 

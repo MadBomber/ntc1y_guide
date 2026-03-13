@@ -1129,3 +1129,72 @@ button.toolbar-icon {
 .settings-status.visible {
   opacity: 1;
 }
+
+/* --- Group Member Editor --- */
+
+.group-member-form {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.group-member-input {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  background: var(--bg-surface);
+  color: var(--text-primary);
+}
+
+.group-member-input:focus {
+  outline: none;
+  border-color: var(--purple-light);
+  box-shadow: 0 0 0 3px rgba(124, 77, 255, 0.15);
+}
+
+.group-member-input-email {
+  flex: 1;
+}
+
+.group-member-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.group-member-row:last-child {
+  border-bottom: none;
+}
+
+.group-member-info {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--text-primary);
+}
+
+.group-member-remove {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #c62828;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--radius);
+  transition: background 0.15s;
+}
+
+.group-member-remove:hover {
+  background: #fce4ec;
+}
+
+@media (max-width: 500px) {
+  .group-member-form {
+    flex-direction: column;
+  }
+}
