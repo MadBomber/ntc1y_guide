@@ -27,11 +27,11 @@ By the end of the week, we see the pattern that will define the early church's e
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 1 | Jesus' Final Instructions, Ascension, Matthias Replaces Judas |
-| 2 | Acts 2 | Day of Pentecost, Peter's Sermon, 3000 Saved, Community Life |
-| 3 | Acts 3 | Lame Man Healed at Beautiful Gate, Peter's Temple Sermon |
-| 4 | Acts 4 | Peter & John Arrested, Boldness Before Sanhedrin, Believers Share |
-| 5 | Acts 5 | Ananias & Sapphira, Signs & Wonders, Apostles Arrested & Freed |
+| 1 | Acts 1  | [Jesus' Final Instructions, Ascension, Matthias Replaces Judas](day-1) |
+| 2 | Acts 2  | [Day of Pentecost, Peter's Sermon, 3000 Saved, Community Life](day-2) |
+| 3 | Acts 3  | [Lame Man Healed at Beautiful Gate, Peter's Temple Sermon](day-3) |
+| 4 | Acts 4  | [Peter & John Arrested, Boldness Before Sanhedrin, Believers Share](day-4) |
+| 5 | Acts 5  | [Ananias & Sapphira, Signs & Wonders, Apostles Arrested & Freed](day-5) |
 
 ## Key Characters
 - **Jesus** -- Risen Lord who gives final instructions and ascends to the Father

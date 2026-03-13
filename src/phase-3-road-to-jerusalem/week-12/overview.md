@@ -32,11 +32,11 @@ The juxtaposition is deliberate. John shows us Jesus confronting religious hypoc
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | John 7 | Festival of Tabernacles |
-| 2 | John 8 | Light of the World |
-| 3 | Luke 13 | Repent or Perish |
-| 4 | Luke 14 | Cost of Discipleship |
-| 5 | Luke 15 | Parables of the Lost |
+| 1 | John 7  | [Festival of Tabernacles](day-1) |
+| 2 | John 8  | [Light of the World](day-2) |
+| 3 | Luke 13  | [Repent or Perish](day-3) |
+| 4 | Luke 14  | [Cost of Discipleship](day-4) |
+| 5 | Luke 15  | [Parables of the Lost](day-5) |
 
 ## Key Characters This Week
 

@@ -32,11 +32,11 @@ Binding these readings together is the theme of authority. In Mark 3, Jesus demo
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Mark 3 | Twelve Appointed, Beelzebul Controversy |
-| 2 | Matthew 5 | Beatitudes, Salt and Light, Law Fulfilled |
-| 3 | Matthew 6 | Lord's Prayer, Fasting, Treasures, Do Not Worry |
-| 4 | Matthew 7 | Judging Others, Golden Rule, Two Gates, Wise Builder |
-| 5 | Luke 6 | Sermon on the Plain, Love Your Enemies, Build on Rock |
+| 1 | Mark 3  | [Twelve Appointed, Beelzebul Controversy](day-1) |
+| 2 | Matthew 5  | [Beatitudes, Salt and Light, Law Fulfilled](day-2) |
+| 3 | Matthew 6  | [Lord's Prayer, Fasting, Treasures, Do Not Worry](day-3) |
+| 4 | Matthew 7  | [Judging Others, Golden Rule, Two Gates, Wise Builder](day-4) |
+| 5 | Luke 6  | [Sermon on the Plain, Love Your Enemies, Build on Rock](day-5) |
 
 ## Key Characters This Week
 

@@ -27,11 +27,11 @@ The transition from Hebrews 13 to 1 Peter is thematically seamless. Hebrews clos
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | Hebrews 13 | Mutual Love, Marriage Honored, Contentment, Jesus Outside the Gate, Benediction |
-| 2 | 1 Peter 1 | Living Hope Through Resurrection, Tested Faith, Be Holy, Born Again |
-| 3 | 1 Peter 2 | Living Stones, Royal Priesthood, Submit to Authority, Christ's Example of Suffering |
-| 4 | 1 Peter 3 | Wives and Husbands, Suffering for Doing Good, Christ Preached to Spirits |
-| 5 | 1 Peter 4 | Live for God Not Human Desires, Suffering as a Christian, Fiery Ordeal |
+| 1 | Hebrews 13  | [Mutual Love, Marriage Honored, Contentment, Jesus Outside the Gate, Benediction](day-1) |
+| 2 | 1 Peter 1  | [Living Hope Through Resurrection, Tested Faith, Be Holy, Born Again](day-2) |
+| 3 | 1 Peter 2  | [Living Stones, Royal Priesthood, Submit to Authority, Christ's Example of Suffering](day-3) |
+| 4 | 1 Peter 3  | [Wives and Husbands, Suffering for Doing Good, Christ Preached to Spirits](day-4) |
+| 5 | 1 Peter 4  | [Live for God Not Human Desires, Suffering as a Christian, Fiery Ordeal](day-5) |
 
 ## Key Characters
 - **Peter** -- Apostle, eyewitness of Christ, writing from Rome near the end of his life (c. 62-64 AD)

@@ -26,11 +26,11 @@ This week traverses an extraordinary range of pastoral territory. First Timothy 
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | 1 Timothy 6 | Godliness with Contentment, Love of Money, Fight the Good Fight, Guard the Deposit |
-| 2 | Titus 1 | Set Things in Order in Crete, Elder Qualifications, Rebuke False Teachers |
-| 3 | Titus 2 | Sound Teaching for Each Group, Grace Has Appeared, Blessed Hope |
-| 4 | Titus 3 | Good Works, Saved by Mercy Through Rebirth, Avoid Foolish Controversies |
-| 5 | 2 Timothy 1 | Fan Into Flame, Spirit of Power/Love/Self-Discipline, Guard the Good Deposit |
+| 1 | 1 Timothy 6  | [Godliness with Contentment, Love of Money, Fight the Good Fight, Guard the Deposit](day-1) |
+| 2 | Titus 1  | [Set Things in Order in Crete, Elder Qualifications, Rebuke False Teachers](day-2) |
+| 3 | Titus 2  | [Sound Teaching for Each Group, Grace Has Appeared, Blessed Hope](day-3) |
+| 4 | Titus 3  | [Good Works, Saved by Mercy Through Rebirth, Avoid Foolish Controversies](day-4) |
+| 5 | 2 Timothy 1  | [Fan Into Flame, Spirit of Power/Love/Self-Discipline, Guard the Good Deposit](day-5) |
 
 ## Key Characters
 - **Paul** — Apostle, moving from relative freedom (1 Timothy, Titus) to his final imprisonment (2 Timothy)

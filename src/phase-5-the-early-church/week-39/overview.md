@@ -28,11 +28,11 @@ Then comes the sea. Luke's account of the voyage to Rome in Acts 27 is the most 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 23 | Plot Against Paul, 40 Men Vow to Kill Him, Transfer to Caesarea Under Guard |
-| 2 | Acts 24 | Trial Before Governor Felix, Paul Speaks of Righteousness and Judgment |
-| 3 | Acts 25 | Appeal to Caesar, Festus Consults Agrippa |
-| 4 | Acts 26 | Paul's Defense Before King Agrippa -- "Almost Persuaded" |
-| 5 | Acts 27 | Voyage to Rome, Storm at Sea, Shipwreck on Malta |
+| 1 | Acts 23  | [Plot Against Paul, 40 Men Vow to Kill Him, Transfer to Caesarea Under Guard](day-1) |
+| 2 | Acts 24  | [Trial Before Governor Felix, Paul Speaks of Righteousness and Judgment](day-2) |
+| 3 | Acts 25  | [Appeal to Caesar, Festus Consults Agrippa](day-3) |
+| 4 | Acts 26  | [Paul's Defense Before King Agrippa -- "Almost Persuaded"](day-4) |
+| 5 | Acts 27  | [Voyage to Rome, Storm at Sea, Shipwreck on Malta](day-5) |
 
 ## Key Characters
 - **Paul** -- Apostle and Roman citizen, navigating the legal system with theological brilliance and unshakable trust in God's promise

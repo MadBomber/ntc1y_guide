@@ -38,11 +38,11 @@ Philippians 1 introduces the theme of gospel partnership and Paul's famous dilem
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Ephesians 5 | Walk in Love, Be Filled with the Spirit, Christ and the Church |
-| 2 | Ephesians 6 | Children and Parents, The Full Armor of God |
-| 3 | Philippians 1 | Joy in Chains, To Live Is Christ |
-| 4 | Philippians 2 | The Christ Hymn -- Kenosis and Exaltation |
-| 5 | Philippians 3 | Knowing Christ, Pressing On, Citizenship in Heaven |
+| 1 | Ephesians 5  | [Walk in Love, Be Filled with the Spirit, Christ and the Church](day-1) |
+| 2 | Ephesians 6  | [Children and Parents, The Full Armor of God](day-2) |
+| 3 | Philippians 1  | [Joy in Chains, To Live Is Christ](day-3) |
+| 4 | Philippians 2  | [The Christ Hymn -- Kenosis and Exaltation](day-4) |
+| 5 | Philippians 3  | [Knowing Christ, Pressing On, Citizenship in Heaven](day-5) |
 
 ## Key Characters
 - **Paul** -- Apostle writing from prison, chained to Roman guards yet overflowing with joy and theological vision

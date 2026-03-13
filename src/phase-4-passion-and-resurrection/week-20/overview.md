@@ -36,11 +36,11 @@ What strikes the careful reader is the diversity of these accounts within their 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Matthew 27 | Judas' Suicide, Pilate's Trial, Crucifixion, Death, Burial, Guard Posted |
-| 2 | Matthew 28 | Resurrection, Angel at Tomb, Great Commission |
-| 3 | Mark 15:21-47 + Mark 16 | Crucifixion, Death, Burial, Empty Tomb, Resurrection Appearances |
-| 4 | Luke 24 | Empty Tomb, Road to Emmaus, Appearance to Disciples, Ascension |
-| 5 | John 20 + John 21 | Empty Tomb, Mary Magdalene, Thomas, Breakfast on Shore, Restoration of Peter |
+| 1 | Matthew 27  | [Judas' Suicide, Pilate's Trial, Crucifixion, Death, Burial, Guard Posted](day-1) |
+| 2 | Matthew 28  | [Resurrection, Angel at Tomb, Great Commission](day-2) |
+| 3 | Mark 15:21-47 + Mark 16  | [Crucifixion, Death, Burial, Empty Tomb, Resurrection Appearances](day-3) |
+| 4 | Luke 24  | [Empty Tomb, Road to Emmaus, Appearance to Disciples, Ascension](day-4) |
+| 5 | John 20 + John 21  | [Empty Tomb, Mary Magdalene, Thomas, Breakfast on Shore, Restoration of Peter](day-5) |
 
 ## Key Characters This Week
 

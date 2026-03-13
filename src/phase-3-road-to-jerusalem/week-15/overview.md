@@ -25,11 +25,11 @@ The religious leaders respond immediately. They challenge Jesus' authority, aski
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Matthew 21:1-22 | Triumphal Entry, Temple Cleansing, Fig Tree Cursed |
-| 2 | Matthew 21:23-46 | Authority Questioned, Parable of Two Sons, Parable of Tenants |
-| 3 | Mark 11 | Triumphal Entry, Fig Tree, Temple Cleansing, Authority Questioned |
-| 4 | Mark 12:1-27 | Parable of Tenants, Taxes to Caesar, Resurrection Question |
-| 5 | Mark 12:28-44 | Greatest Commandment, David's Son, Widow's Offering |
+| 1 | Matthew 21:1-22  | [Triumphal Entry, Temple Cleansing, Fig Tree Cursed](day-1) |
+| 2 | Matthew 21:23-46  | [Authority Questioned, Parable of Two Sons, Parable of Tenants](day-2) |
+| 3 | Mark 11  | [Triumphal Entry, Fig Tree, Temple Cleansing, Authority Questioned](day-3) |
+| 4 | Mark 12:1-27  | [Parable of Tenants, Taxes to Caesar, Resurrection Question](day-4) |
+| 5 | Mark 12:28-44  | [Greatest Commandment, David's Son, Widow's Offering](day-5) |
 
 ## Key Characters
 - **Jesus** -- Messianic king who enters Jerusalem with prophetic intentionality and confronts the Temple establishment

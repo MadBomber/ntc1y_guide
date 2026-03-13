@@ -28,11 +28,11 @@ Chapters 12-14 then translate Paul's theology into a comprehensive ethic for the
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Romans 10 | Salvation for All Who Call, Faith Comes by Hearing |
-| 2 | Romans 11 | Remnant of Grace, Olive Tree, All Israel Saved |
-| 3 | Romans 12 | Living Sacrifice, Renewed Mind, Overcome Evil with Good |
-| 4 | Romans 13 | Submit to Authorities, Love Fulfills the Law, Put on Christ |
-| 5 | Romans 14 | Don't Judge on Disputable Matters, Don't Cause Stumbling |
+| 1 | Romans 10  | [Salvation for All Who Call, Faith Comes by Hearing](day-1) |
+| 2 | Romans 11  | [Remnant of Grace, Olive Tree, All Israel Saved](day-2) |
+| 3 | Romans 12  | [Living Sacrifice, Renewed Mind, Overcome Evil with Good](day-3) |
+| 4 | Romans 13  | [Submit to Authorities, Love Fulfills the Law, Put on Christ](day-4) |
+| 5 | Romans 14  | [Don't Judge on Disputable Matters, Don't Cause Stumbling](day-5) |
 
 ## Key Characters
 - **Paul** -- Apostle whose heart's desire is Israel's salvation, now also laying out the ethical vision of the gospel

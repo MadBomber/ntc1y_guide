@@ -26,11 +26,11 @@ The arrest, trials, and denials that follow expose the worst of human nature in 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | John 17 | High Priestly Prayer -- For Himself, Disciples, All Believers, Unity |
-| 2 | Matthew 26:1-46 | Anointing at Bethany, Last Supper, Gethsemane Prayer |
-| 3 | Matthew 26:47-75 | Judas' Betrayal/Arrest, Sanhedrin Trial, Peter's Denial |
-| 4 | Mark 14 | Anointing, Passover Meal, Gethsemane, Arrest, Trial, Peter's Denial |
-| 5 | Mark 15:1-20 | Trial Before Pilate, Barabbas Released, Mocking by Soldiers |
+| 1 | John 17  | [High Priestly Prayer -- For Himself, Disciples, All Believers, Unity](day-1) |
+| 2 | Matthew 26:1-46  | [Anointing at Bethany, Last Supper, Gethsemane Prayer](day-2) |
+| 3 | Matthew 26:47-75  | [Judas' Betrayal/Arrest, Sanhedrin Trial, Peter's Denial](day-3) |
+| 4 | Mark 14  | [Anointing, Passover Meal, Gethsemane, Arrest, Trial, Peter's Denial](day-4) |
+| 5 | Mark 15:1-20  | [Trial Before Pilate, Barabbas Released, Mocking by Soldiers](day-5) |
 
 ## Key Characters
 - **Jesus** -- The suffering Messiah who prays, agonizes, submits, and endures injustice in obedience to the Father's will

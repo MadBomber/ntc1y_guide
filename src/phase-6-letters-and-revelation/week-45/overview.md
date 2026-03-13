@@ -28,11 +28,11 @@ These five days take us from Paul's deathbed to the theological heights of Hebre
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | 2 Timothy 2 | Soldier, Athlete, Farmer -- Endure Hardship, Approved Workman, Flee Youthful Passions |
-| 2 | 2 Timothy 3 | Terrible Times in Last Days, Evil People, All Scripture Is God-Breathed |
-| 3 | 2 Timothy 4 | Preach the Word, "I Have Fought the Good Fight", Paul's Farewell |
-| 4 | Hebrews 1 | God Has Spoken Through His Son, Son Superior to Angels |
-| 5 | Hebrews 2 | Don't Drift Away, Jesus Made Lower Than Angels, Pioneer of Salvation |
+| 1 | 2 Timothy 2  | [Soldier, Athlete, Farmer -- Endure Hardship, Approved Workman, Flee Youthful Passions](day-1) |
+| 2 | 2 Timothy 3  | [Terrible Times in Last Days, Evil People, All Scripture Is God-Breathed](day-2) |
+| 3 | 2 Timothy 4  | [Preach the Word, "I Have Fought the Good Fight", Paul's Farewell](day-3) |
+| 4 | Hebrews 1  | [God Has Spoken Through His Son, Son Superior to Angels](day-4) |
+| 5 | Hebrews 2  | [Don't Drift Away, Jesus Made Lower Than Angels, Pioneer of Salvation](day-5) |
 
 ## Key Characters
 - **Paul** -- Apostle writing his final letter from Roman imprisonment

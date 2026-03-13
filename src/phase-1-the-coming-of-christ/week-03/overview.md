@@ -32,11 +32,11 @@ Together, these readings form a bridge between the preparations of Weeks 1-2 and
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Luke 4:1-13 | Temptation in the Wilderness |
-| 2 | John 1:19-51 | John the Baptist's Witness, First Disciples Called |
-| 3 | John 2 | Wedding at Cana, First Temple Cleansing |
-| 4 | John 3 | Nicodemus, "You Must Be Born Again", John's Final Witness |
-| 5 | John 4 | Samaritan Woman at the Well, Official's Son Healed |
+| 1 | Luke 4:1-13  | [Temptation in the Wilderness](day-1) |
+| 2 | John 1:19-51  | [John the Baptist's Witness, First Disciples Called](day-2) |
+| 3 | John 2  | [Wedding at Cana, First Temple Cleansing](day-3) |
+| 4 | John 3  | [Nicodemus, "You Must Be Born Again", John's Final Witness](day-4) |
+| 5 | John 4  | [Samaritan Woman at the Well, Official's Son Healed](day-5) |
 
 ## Key Characters This Week
 

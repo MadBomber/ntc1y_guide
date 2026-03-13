@@ -29,11 +29,11 @@ Chapter 12 then draws the practical conclusion. With such a "great cloud of witn
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | Hebrews 8 | Jesus Ministers in True Heavenly Tabernacle, New Covenant Replaces Old |
-| 2 | Hebrews 9 | Christ Enters the Greater Tabernacle with His Own Blood |
-| 3 | Hebrews 10 | Once-for-All Sacrifice, Draw Near, Hold Fast, Spur One Another |
-| 4 | Hebrews 11 | The Hall of Faith Heroes from Abel to the Prophets |
-| 5 | Hebrews 12 | Run the Race, Fix Eyes on Jesus, Mount Sinai vs Mount Zion |
+| 1 | Hebrews 8  | [Jesus Ministers in True Heavenly Tabernacle, New Covenant Replaces Old](day-1) |
+| 2 | Hebrews 9  | [Christ Enters the Greater Tabernacle with His Own Blood](day-2) |
+| 3 | Hebrews 10  | [Once-for-All Sacrifice, Draw Near, Hold Fast, Spur One Another](day-3) |
+| 4 | Hebrews 11  | [The Hall of Faith Heroes from Abel to the Prophets](day-4) |
+| 5 | Hebrews 12  | [Run the Race, Fix Eyes on Jesus, Mount Sinai vs Mount Zion](day-5) |
 
 ## Key Characters
 - **Jesus Christ** -- The mediator of the new covenant, the great High Priest who entered the heavenly sanctuary with his own blood

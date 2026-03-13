@@ -26,11 +26,11 @@ The final two chapters move from theology to ethics. Christian freedom is not a 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Galatians 2 | Accepted by Jerusalem Apostles, Confronting Peter at Antioch |
-| 2 | Galatians 3 | Faith vs. Law, Justified by Faith, Abraham's Blessing for All Nations |
-| 3 | Galatians 4 | No Longer Slaves but Sons, Allegory of Hagar and Sarah |
-| 4 | Galatians 5 | Freedom in Christ, Don't Submit to Yoke Again, Fruit of the Spirit |
-| 5 | Galatians 6 | Bear One Another's Burdens, Sow to the Spirit, New Creation |
+| 1 | Galatians 2  | [Accepted by Jerusalem Apostles, Confronting Peter at Antioch](day-1) |
+| 2 | Galatians 3  | [Faith vs. Law, Justified by Faith, Abraham's Blessing for All Nations](day-2) |
+| 3 | Galatians 4  | [No Longer Slaves but Sons, Allegory of Hagar and Sarah](day-3) |
+| 4 | Galatians 5  | [Freedom in Christ, Don't Submit to Yoke Again, Fruit of the Spirit](day-4) |
+| 5 | Galatians 6  | [Bear One Another's Burdens, Sow to the Spirit, New Creation](day-5) |
 
 ## Key Characters
 - **Paul** -- Apostle to the Gentiles, passionately defending the gospel of grace against legalistic distortion

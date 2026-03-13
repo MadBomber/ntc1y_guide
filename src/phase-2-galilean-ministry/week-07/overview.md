@@ -25,11 +25,11 @@ By the end of the week, we encounter the full spectrum of responses to Jesus: th
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Matthew 11 | John's Question from Prison, Woes on Cities, Come to Me |
-| 2 | Matthew 12 | Lord of the Sabbath, Beelzebul Controversy, Sign of Jonah |
-| 3 | Matthew 13:1-30 | Parable of the Sower, Weeds Among Wheat, Mustard Seed |
-| 4 | Matthew 13:31-58 | Hidden Treasure, Pearl, Net, Rejection at Nazareth |
-| 5 | Luke 8 | Women Followers, Parable of Sower, Storm Stilled, Legion, Jairus' Daughter |
+| 1 | Matthew 11  | [John's Question from Prison, Woes on Cities, Come to Me](day-1) |
+| 2 | Matthew 12  | [Lord of the Sabbath, Beelzebul Controversy, Sign of Jonah](day-2) |
+| 3 | Matthew 13:1-30  | [Parable of the Sower, Weeds Among Wheat, Mustard Seed](day-3) |
+| 4 | Matthew 13:31-58  | [Hidden Treasure, Pearl, Net, Rejection at Nazareth](day-4) |
+| 5 | Luke 8  | [Women Followers, Parable of Sower, Storm Stilled, Legion, Jairus' Daughter](day-5) |
 
 ## Key Characters
 - **Jesus** -- Teacher and miracle-worker whose methods shift in response to growing opposition

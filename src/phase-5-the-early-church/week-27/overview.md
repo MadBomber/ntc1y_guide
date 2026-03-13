@@ -26,11 +26,11 @@ It is during this Corinthian stay, around 50-51 AD, that Paul writes his two let
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 18:1-17 | Paul in Corinth -- Aquila & Priscilla, Gallio's Judgment Seat |
-| 2 | 1 Thessalonians 1 | Thanksgiving for Thessalonians' Faith, Model to All Believers |
-| 3 | 1 Thessalonians 2 | Paul's Ministry Among Them -- Not Flattery but Faithful |
-| 4 | 1 Thessalonians 3 | Timothy's Encouraging Report, Prayer for Their Growth |
-| 5 | 1 Thessalonians 4 | Live to Please God, Sexual Purity, Those Who Have Fallen Asleep |
+| 1 | Acts 18:1-17  | [Paul in Corinth -- Aquila & Priscilla, Gallio's Judgment Seat](day-1) |
+| 2 | 1 Thessalonians 1  | [Thanksgiving for Thessalonians' Faith, Model to All Believers](day-2) |
+| 3 | 1 Thessalonians 2  | [Paul's Ministry Among Them -- Not Flattery but Faithful](day-3) |
+| 4 | 1 Thessalonians 3  | [Timothy's Encouraging Report, Prayer for Their Growth](day-4) |
+| 5 | 1 Thessalonians 4  | [Live to Please God, Sexual Purity, Those Who Have Fallen Asleep](day-5) |
 
 ## Key Characters
 - **Paul** -- Apostle to the Gentiles, now planting a church in one of the Roman Empire's most important cities

@@ -29,11 +29,11 @@ Second and Third John are the two shortest books in the New Testament -- each co
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | 1 John 1 | Light, Confession -- "From the Beginning," God Is Light, Walk in the Light, Faithful to Forgive |
-| 2 | 1 John 2 | Advocate, Love, Antichrist -- Jesus Our Advocate, Test of Obedience, Do Not Love the World, Antichrists |
-| 3 | 1 John 3 | Children of God, Love One Another -- Lavished Love, We Shall Be Like Him, Love in Action and Truth |
-| 4 | 1 John 4 | Test the Spirits, God Is Love -- Every Spirit Tested, Perfect Love Casts Out Fear, We Love Because He First Loved Us |
-| 5 | 1 John 5 + 2 John + 3 John | Overcoming Faith, Eternal Life, Walking in Truth, Hospitality and Leadership |
+| 1 | 1 John 1  | [Light, Confession -- "From the Beginning," God Is Light, Walk in the Light, Faithful to Forgive](day-1) |
+| 2 | 1 John 2  | [Advocate, Love, Antichrist -- Jesus Our Advocate, Test of Obedience, Do Not Love the World, Antichrists](day-2) |
+| 3 | 1 John 3  | [Children of God, Love One Another -- Lavished Love, We Shall Be Like Him, Love in Action and Truth](day-3) |
+| 4 | 1 John 4  | [Test the Spirits, God Is Love -- Every Spirit Tested, Perfect Love Casts Out Fear, We Love Because He First Loved Us](day-4) |
+| 5 | 1 John 5 + 2 John + 3 John  | [Overcoming Faith, Eternal Life, Walking in Truth, Hospitality and Leadership](day-5) |
 
 ## Key Characters
 - **John ("the Elder")** -- The beloved disciple, last surviving apostle, writing from Ephesus near the end of his life (c. 85-95 AD)

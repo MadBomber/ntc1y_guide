@@ -29,11 +29,11 @@ Chapter 12 contains the astonishing account of Paul's visionary experience -- ca
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | 2 Corinthians 9 | Cheerful Giving, God Loves a Cheerful Giver, God's Abundant Provision, Indescribable Gift |
-| 2 | 2 Corinthians 10 | Paul's Authority, Divine Weapons for Demolishing Strongholds, Boasting in the Lord |
-| 3 | 2 Corinthians 11 | Paul vs False "Super-Apostles", Catalog of Sufferings -- Beatings, Shipwrecks, Dangers |
-| 4 | 2 Corinthians 12 | Caught Up to Third Heaven, Thorn in the Flesh, "My Grace Is Sufficient", Power in Weakness |
-| 5 | 2 Corinthians 13 | Final Warnings, Examine Yourselves, Trinitarian Benediction |
+| 1 | 2 Corinthians 9  | [Cheerful Giving, God Loves a Cheerful Giver, God's Abundant Provision, Indescribable Gift](day-1) |
+| 2 | 2 Corinthians 10  | [Paul's Authority, Divine Weapons for Demolishing Strongholds, Boasting in the Lord](day-2) |
+| 3 | 2 Corinthians 11  | [Paul vs False "Super-Apostles", Catalog of Sufferings -- Beatings, Shipwrecks, Dangers](day-3) |
+| 4 | 2 Corinthians 12  | [Caught Up to Third Heaven, Thorn in the Flesh, "My Grace Is Sufficient", Power in Weakness](day-4) |
+| 5 | 2 Corinthians 13  | [Final Warnings, Examine Yourselves, Trinitarian Benediction](day-5) |
 
 ## Key Characters
 - **Paul** -- Apostle making his most passionate and personal defense, boasting in weakness as the paradoxical proof of authentic ministry

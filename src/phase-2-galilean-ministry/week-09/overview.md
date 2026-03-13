@@ -25,11 +25,11 @@ The week's narratives extend this boundary-crossing logic into practice. Jesus h
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | John 6:41-71 | Hard Teaching -- "Unless you eat my flesh"; Many Disciples Desert |
-| 2 | Matthew 14 | John the Baptist's Death, Feeding 5000, Walking on Water |
-| 3 | Matthew 15 | Traditions of Elders, Canaanite Woman's Faith, Feeding 4000 |
-| 4 | Mark 7 | Clean and Unclean, Syrophoenician Woman, Deaf Man Healed |
-| 5 | Mark 8:1-26 | Feeding 4000, Pharisees Demand Sign, Blind Man at Bethsaida |
+| 1 | John 6:41-71  | [Hard Teaching -- "Unless you eat my flesh"; Many Disciples Desert](day-1) |
+| 2 | Matthew 14  | [John the Baptist's Death, Feeding 5000, Walking on Water](day-2) |
+| 3 | Matthew 15  | [Traditions of Elders, Canaanite Woman's Faith, Feeding 4000](day-3) |
+| 4 | Mark 7  | [Clean and Unclean, Syrophoenician Woman, Deaf Man Healed](day-4) |
+| 5 | Mark 8:1-26  | [Feeding 4000, Pharisees Demand Sign, Blind Man at Bethsaida](day-5) |
 
 ## Key Characters
 - **Jesus** -- The bread of life who feeds, heals, and reveals his divine identity

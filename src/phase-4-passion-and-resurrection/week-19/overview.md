@@ -33,11 +33,11 @@ Together, these two accounts form a breathtaking composite. We see the full huma
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Luke 22:39-71 | Gethsemane, Arrest, Peter's Denial, Sanhedrin Hearing |
-| 2 | Luke 23:1-25 | Trial Before Pilate, Sent to Herod, Barabbas Released |
-| 3 | Luke 23:26-56 | Road to Calvary, Crucifixion, Death, Burial |
-| 4 | John 18 | Arrest, Trial Before Annas and Caiaphas, Peter's Denial, Before Pilate |
-| 5 | John 19 | Flogging, Crucifixion, "It Is Finished," Burial |
+| 1 | Luke 22:39-71  | [Gethsemane, Arrest, Peter's Denial, Sanhedrin Hearing](day-1) |
+| 2 | Luke 23:1-25  | [Trial Before Pilate, Sent to Herod, Barabbas Released](day-2) |
+| 3 | Luke 23:26-56  | [Road to Calvary, Crucifixion, Death, Burial](day-3) |
+| 4 | John 18  | [Arrest, Trial Before Annas and Caiaphas, Peter's Denial, Before Pilate](day-4) |
+| 5 | John 19  | [Flogging, Crucifixion, "It Is Finished," Burial](day-5) |
 
 ## Key Characters This Week
 

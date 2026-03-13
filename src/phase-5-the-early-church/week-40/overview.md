@@ -30,11 +30,11 @@ Chapter 4 then pivots with a single word: "therefore." Everything that follows -
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 28 | Malta, Rome, and the Open Ending |
-| 2 | Ephesians 1 | Every Spiritual Blessing in the Heavenly Places |
-| 3 | Ephesians 2 | "But God" -- Grace, Faith, and One New Humanity |
-| 4 | Ephesians 3 | The Mystery Revealed -- Prayer for Power and Love |
-| 5 | Ephesians 4 | Walk Worthy -- Unity, Gifts, and the New Self |
+| 1 | Acts 28  | [Malta, Rome, and the Open Ending](day-1) |
+| 2 | Ephesians 1  | [Every Spiritual Blessing in the Heavenly Places](day-2) |
+| 3 | Ephesians 2  | ["But God" -- Grace, Faith, and One New Humanity](day-3) |
+| 4 | Ephesians 3  | [The Mystery Revealed -- Prayer for Power and Love](day-4) |
+| 5 | Ephesians 4  | [Walk Worthy -- Unity, Gifts, and the New Self](day-5) |
 
 ## Key Characters
 - **Paul** -- Apostle and prisoner, preaching the kingdom from a rented house in Rome and writing his most exalted letter

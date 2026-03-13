@@ -25,11 +25,11 @@ The Transfiguration, which follows six days later, provides divine confirmation 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Mark 8:27-38 | Peter's Confession at Caesarea Philippi, First Passion Prediction, Take Up Cross |
-| 2 | Matthew 16 | Peter's Confession, Keys of the Kingdom, Take Up Your Cross |
-| 3 | Mark 9:1-29 | Transfiguration, Boy with Unclean Spirit |
-| 4 | Matthew 17 | Transfiguration, Epileptic Boy, Temple Tax |
-| 5 | Mark 9:30-50 | Second Passion Prediction, Who Is Greatest, Salt |
+| 1 | Mark 8:27-38  | [Peter's Confession at Caesarea Philippi, First Passion Prediction, Take Up Cross](day-1) |
+| 2 | Matthew 16  | [Peter's Confession, Keys of the Kingdom, Take Up Your Cross](day-2) |
+| 3 | Mark 9:1-29  | [Transfiguration, Boy with Unclean Spirit](day-3) |
+| 4 | Matthew 17  | [Transfiguration, Epileptic Boy, Temple Tax](day-4) |
+| 5 | Mark 9:30-50  | [Second Passion Prediction, Who Is Greatest, Salt](day-5) |
 
 ## Key Characters
 - **Jesus** -- The Christ who redefines messiahship through suffering

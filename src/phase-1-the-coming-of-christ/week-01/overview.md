@@ -30,11 +30,11 @@ Matthew adds his own essential perspective, tracing Jesus' lineage through the r
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | John 1:1-18 | The Word Became Flesh |
-| 2 | Luke 1:1-38 | Annunciations to Zechariah and Mary |
-| 3 | Luke 1:39-80 | The Magnificat and Benedictus |
-| 4 | Matthew 1 | Genealogy and Joseph's Dream |
-| 5 | Luke 2:1-20 | The Birth of Jesus |
+| 1 | John 1:1-18  | [The Word Became Flesh](day-1) |
+| 2 | Luke 1:1-38  | [Annunciations to Zechariah and Mary](day-2) |
+| 3 | Luke 1:39-80  | [The Magnificat and Benedictus](day-3) |
+| 4 | Matthew 1  | [Genealogy and Joseph's Dream](day-4) |
+| 5 | Luke 2:1-20  | [The Birth of Jesus](day-5) |
 
 ## Key Characters This Week
 

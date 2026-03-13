@@ -27,11 +27,11 @@ The week concludes with the opening chapter of Galatians, likely written from An
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 11 | Peter Defends Gentile Inclusion, Antioch Church Founded |
-| 2 | Acts 12 | James Killed by Herod, Peter Imprisoned and Miraculously Freed, Herod's Death |
-| 3 | Acts 13 | Barnabas & Saul Commissioned, Cyprus Ministry, Pisidian Antioch Sermon |
-| 4 | Acts 14 | Iconium, Lystra -- Paul Stoned, Derbe, Return Journey, Report to Antioch |
-| 5 | Galatians 1 | No Other Gospel, Paul's Calling and Conversion Testimony |
+| 1 | Acts 11  | [Peter Defends Gentile Inclusion, Antioch Church Founded](day-1) |
+| 2 | Acts 12  | [James Killed by Herod, Peter Imprisoned and Miraculously Freed, Herod's Death](day-2) |
+| 3 | Acts 13  | [Barnabas & Saul Commissioned, Cyprus Ministry, Pisidian Antioch Sermon](day-3) |
+| 4 | Acts 14  | [Iconium, Lystra -- Paul Stoned, Derbe, Return Journey, Report to Antioch](day-4) |
+| 5 | Galatians 1  | [No Other Gospel, Paul's Calling and Conversion Testimony](day-5) |
 
 ## Key Characters
 - **Peter** -- Defends his Gentile ministry before the Jerusalem church and is later miraculously delivered from prison

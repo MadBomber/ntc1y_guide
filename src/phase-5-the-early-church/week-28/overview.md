@@ -28,11 +28,11 @@ The week closes with Acts 18:18-28, which narrates Paul's departure from Corinth
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | 1 Thessalonians 5 | Day of the Lord, Be Ready, Rejoice Always, Pray Continually |
-| 2 | 2 Thessalonians 1 | Encouragement in Persecution, God's Righteous Judgment |
-| 3 | 2 Thessalonians 2 | Man of Lawlessness, Stand Firm in Teaching |
-| 4 | 2 Thessalonians 3 | Warning Against Idle Living, Work or Don't Eat |
-| 5 | Acts 18:18-28 | Paul Returns to Antioch via Ephesus, Third Journey Begins, Apollos |
+| 1 | 1 Thessalonians 5  | [Day of the Lord, Be Ready, Rejoice Always, Pray Continually](day-1) |
+| 2 | 2 Thessalonians 1  | [Encouragement in Persecution, God's Righteous Judgment](day-2) |
+| 3 | 2 Thessalonians 2  | [Man of Lawlessness, Stand Firm in Teaching](day-3) |
+| 4 | 2 Thessalonians 3  | [Warning Against Idle Living, Work or Don't Eat](day-4) |
+| 5 | Acts 18:18-28  | [Paul Returns to Antioch via Ephesus, Third Journey Begins, Apollos](day-5) |
 
 ## Key Characters
 - **Paul** -- Writing from Corinth to address confusion about the Day of the Lord and problems of idleness

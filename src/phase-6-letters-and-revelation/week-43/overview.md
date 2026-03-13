@@ -23,11 +23,11 @@ The Pastoral Epistles occupy a unique place in the Pauline corpus. While letters
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | 1 Timothy 1 | Charge Against False Teachers, Sound Doctrine, Paul's Testimony, Fight the Good Fight |
-| 2 | 1 Timothy 2 | Pray for All People Including Kings, One God/One Mediator, Instructions on Worship |
-| 3 | 1 Timothy 3 | Qualifications for Overseers and Deacons, "Great Is the Mystery of Godliness" |
-| 4 | 1 Timothy 4 | Warning Against Abandoning Faith, Train in Godliness, "Don't Let Anyone Look Down on Your Youth" |
-| 5 | 1 Timothy 5 | Treat Church as Family, Widows' List, Elders Deserve Double Honor |
+| 1 | 1 Timothy 1  | [Charge Against False Teachers, Sound Doctrine, Paul's Testimony, Fight the Good Fight](day-1) |
+| 2 | 1 Timothy 2  | [Pray for All People Including Kings, One God/One Mediator, Instructions on Worship](day-2) |
+| 3 | 1 Timothy 3  | [Qualifications for Overseers and Deacons, "Great Is the Mystery of Godliness"](day-3) |
+| 4 | 1 Timothy 4  | [Warning Against Abandoning Faith, Train in Godliness, "Don't Let Anyone Look Down on Your Youth"](day-4) |
+| 5 | 1 Timothy 5  | [Treat Church as Family, Widows' List, Elders Deserve Double Honor](day-5) |
 
 ## Key Characters
 - **Paul** — Apostle, writing between his first and second Roman imprisonments (~62-67 AD)

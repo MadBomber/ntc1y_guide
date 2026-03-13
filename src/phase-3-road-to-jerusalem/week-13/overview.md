@@ -33,11 +33,11 @@ Together, these readings paint a picture of a God who defies every category we c
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Luke 16 | Shrewd Manager and Rich Man |
-| 2 | Luke 17 | Faith, Gratitude, and the Kingdom |
-| 3 | Luke 18 | Persistent Widow and Humble Prayer |
-| 4 | John 9 | The Man Born Blind |
-| 5 | John 10 | The Good Shepherd |
+| 1 | Luke 16  | [Shrewd Manager and Rich Man](day-1) |
+| 2 | Luke 17  | [Faith, Gratitude, and the Kingdom](day-2) |
+| 3 | Luke 18  | [Persistent Widow and Humble Prayer](day-3) |
+| 4 | John 9  | [The Man Born Blind](day-4) |
+| 5 | John 10  | [The Good Shepherd](day-5) |
 
 ## Key Characters This Week
 

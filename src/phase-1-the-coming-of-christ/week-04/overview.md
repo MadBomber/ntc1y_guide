@@ -32,11 +32,11 @@ This week bridges Phase 1 and Phase 2 of our study. The coming of Christ -- his 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Matthew 4 | Calling Disciples by the Sea, Ministry Begins in Galilee |
-| 2 | Luke 4:14-44 | Nazareth Rejection, Capernaum Ministry |
-| 3 | Luke 5 | Miraculous Catch of Fish, Levi Called, New Wine |
-| 4 | Mark 1:14-45 | Kingdom Proclaimed, Healings, Leper Cleansed |
-| 5 | Mark 2 | Paralytic Healed, Levi Called, Fasting Questions |
+| 1 | Matthew 4  | [Calling Disciples by the Sea, Ministry Begins in Galilee](day-1) |
+| 2 | Luke 4:14-44  | [Nazareth Rejection, Capernaum Ministry](day-2) |
+| 3 | Luke 5  | [Miraculous Catch of Fish, Levi Called, New Wine](day-3) |
+| 4 | Mark 1:14-45  | [Kingdom Proclaimed, Healings, Leper Cleansed](day-4) |
+| 5 | Mark 2  | [Paralytic Healed, Levi Called, Fasting Questions](day-5) |
 
 ## Key Characters This Week
 

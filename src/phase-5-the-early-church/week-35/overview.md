@@ -28,11 +28,11 @@ Romans 1-4 constitutes the first major section of the letter, and its argument i
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 20:1-6 | Paul Through Macedonia and Greece |
-| 2 | Romans 1 | Gospel = Power of God, Wrath Against Suppressing Truth |
-| 3 | Romans 2 | God's Righteous Judgment, True Circumcision of the Heart |
-| 4 | Romans 3 | None Righteous, Justified Freely by Grace |
-| 5 | Romans 4 | Abraham Justified by Faith, Promise Through Faith to All |
+| 1 | Acts 20:1-6  | [Paul Through Macedonia and Greece](day-1) |
+| 2 | Romans 1  | [Gospel = Power of God, Wrath Against Suppressing Truth](day-2) |
+| 3 | Romans 2  | [God's Righteous Judgment, True Circumcision of the Heart](day-3) |
+| 4 | Romans 3  | [None Righteous, Justified Freely by Grace](day-4) |
+| 5 | Romans 4  | [Abraham Justified by Faith, Promise Through Faith to All](day-5) |
 
 ## Key Characters
 - **Paul** -- Apostle writing from Corinth to introduce himself and his gospel to the Roman church he has never visited

@@ -32,11 +32,11 @@ The week culminates with Jesus sending out the Twelve on their first mission. Ha
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Matthew 8 | Centurion's Faith, Stilling the Storm, Gadarene Demoniacs |
-| 2 | Luke 7 | Centurion's Servant, Widow's Son Raised, John's Question |
-| 3 | Matthew 9 | Paralytic Healed, Matthew Called, Jairus' Daughter, Harvest Prayer |
-| 4 | Mark 4 | Parables: Sower, Lamp, Growing Seed, Mustard Seed, Stilling Storm |
-| 5 | Matthew 10 | Sending Out the Twelve - Mission Instructions |
+| 1 | Matthew 8  | [Centurion's Faith, Stilling the Storm, Gadarene Demoniacs](day-1) |
+| 2 | Luke 7  | [Centurion's Servant, Widow's Son Raised, John's Question](day-2) |
+| 3 | Matthew 9  | [Paralytic Healed, Matthew Called, Jairus' Daughter, Harvest Prayer](day-3) |
+| 4 | Mark 4  | [Parables: Sower, Lamp, Growing Seed, Mustard Seed, Stilling Storm](day-4) |
+| 5 | Matthew 10  | [Sending Out the Twelve - Mission Instructions](day-5) |
 
 ## Key Characters This Week
 

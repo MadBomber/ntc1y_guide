@@ -26,11 +26,11 @@ John's Gospel adds theological depth to the miraculous events, recording Jesus' 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Mark 5 | Legion/Gerasene Demoniac, Jairus' Daughter, Bleeding Woman |
-| 2 | Mark 6:1-29 | Rejection at Nazareth, Sending the Twelve, John the Baptist Killed |
-| 3 | Mark 6:30-56 | Feeding the 5000, Walking on Water |
-| 4 | John 5 | Healing at Pool of Bethesda, Jesus' Authority as Son |
-| 5 | John 6:1-40 | Feeding 5000, Walking on Water, Bread of Life Discourse begins |
+| 1 | Mark 5  | [Legion/Gerasene Demoniac, Jairus' Daughter, Bleeding Woman](day-1) |
+| 2 | Mark 6:1-29  | [Rejection at Nazareth, Sending the Twelve, John the Baptist Killed](day-2) |
+| 3 | Mark 6:30-56  | [Feeding the 5000, Walking on Water](day-3) |
+| 4 | John 5  | [Healing at Pool of Bethesda, Jesus' Authority as Son](day-4) |
+| 5 | John 6:1-40  | [Feeding 5000, Walking on Water, Bread of Life Discourse begins](day-5) |
 
 ## Key Characters
 - **Jesus** -- Miracle-worker whose signs point to his divine identity and messianic mission

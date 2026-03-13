@@ -26,11 +26,11 @@ This week we encounter Paul at his most direct and his most pastoral. In chapter
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | 1 Corinthians 5 | Expel the Immoral Brother, Sexual Immorality in the Church |
-| 2 | 1 Corinthians 6 | Lawsuits Among Believers, Your Body Is a Temple of the Holy Spirit |
-| 3 | 1 Corinthians 7 | Marriage, Singleness, Remain as You Are, Undivided Devotion |
-| 4 | 1 Corinthians 8 | Food Offered to Idols, Knowledge Puffs Up but Love Builds Up |
-| 5 | 1 Corinthians 9 | Paul's Rights as an Apostle, "I Become All Things to All People" |
+| 1 | 1 Corinthians 5  | [Expel the Immoral Brother, Sexual Immorality in the Church](day-1) |
+| 2 | 1 Corinthians 6  | [Lawsuits Among Believers, Your Body Is a Temple of the Holy Spirit](day-2) |
+| 3 | 1 Corinthians 7  | [Marriage, Singleness, Remain as You Are, Undivided Devotion](day-3) |
+| 4 | 1 Corinthians 8  | [Food Offered to Idols, Knowledge Puffs Up but Love Builds Up](day-4) |
+| 5 | 1 Corinthians 9  | [Paul's Rights as an Apostle, "I Become All Things to All People"](day-5) |
 
 ## Key Characters
 - **Paul** -- Apostle and church planter writing from Ephesus to address urgent pastoral crises

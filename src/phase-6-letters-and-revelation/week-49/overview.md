@@ -30,11 +30,11 @@ Yet these letters do not end in despair. Second Peter closes with the breathtaki
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | 1 Peter 5 | Elders as Shepherds, Humility, Casting Anxiety on God, Resisting the Devil |
-| 2 | 2 Peter 1 | Growing in Virtue, Peter's Eyewitness of the Transfiguration, Scripture's Origin |
-| 3 | 2 Peter 2 | False Teachers, Divine Judgment on Angels/Flood/Sodom, Balaam's Error |
-| 4 | 2 Peter 3 | Scoffers and the Second Coming, New Heavens and New Earth |
-| 5 | Jude | Contending for the Faith, False Teachers Condemned, The Great Doxology |
+| 1 | 1 Peter 5  | [Elders as Shepherds, Humility, Casting Anxiety on God, Resisting the Devil](day-1) |
+| 2 | 2 Peter 1  | [Growing in Virtue, Peter's Eyewitness of the Transfiguration, Scripture's Origin](day-2) |
+| 3 | 2 Peter 2  | [False Teachers, Divine Judgment on Angels/Flood/Sodom, Balaam's Error](day-3) |
+| 4 | 2 Peter 3  | [Scoffers and the Second Coming, New Heavens and New Earth](day-4) |
+| 5 | Jude  | [Contending for the Faith, False Teachers Condemned, The Great Doxology](day-5) |
 
 ## Key Characters
 - **Peter** -- Apostle, eyewitness of Christ's transfiguration, writing near the end of his life (c. 64-67 AD)

@@ -27,11 +27,11 @@ The thread connecting these diverse chapters is hope -- the certain hope of bodi
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | 1 Corinthians 15 | Resurrection — Eyewitness Testimony, Resurrection Body |
-| 2 | 1 Corinthians 16 | Collection for Jerusalem, Travel Plans, Stand Firm |
-| 3 | 2 Corinthians 1 | God of All Comfort, Paul's Sufferings in Asia |
-| 4 | 2 Corinthians 2 | Forgive the Offender, Triumphal Procession |
-| 5 | 2 Corinthians 3 | Ministers of New Covenant, Unveiled Faces Reflecting Glory |
+| 1 | 1 Corinthians 15  | [Resurrection — Eyewitness Testimony, Resurrection Body](day-1) |
+| 2 | 1 Corinthians 16  | [Collection for Jerusalem, Travel Plans, Stand Firm](day-2) |
+| 3 | 2 Corinthians 1  | [God of All Comfort, Paul's Sufferings in Asia](day-3) |
+| 4 | 2 Corinthians 2  | [Forgive the Offender, Triumphal Procession](day-4) |
+| 5 | 2 Corinthians 3  | [Ministers of New Covenant, Unveiled Faces Reflecting Glory](day-5) |
 
 ## Key Characters
 - **Paul** -- Apostle writing from Ephesus (1 Cor) and later from Macedonia (2 Cor), deeply vulnerable about his sufferings

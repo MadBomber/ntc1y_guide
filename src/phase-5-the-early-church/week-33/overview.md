@@ -30,11 +30,11 @@ Chapter 7 brings emotional resolution. The godly sorrow that Paul's tearful lett
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | 2 Corinthians 4 | Treasure in Jars of Clay, Light of the Gospel, Eternal Weight of Glory |
-| 2 | 2 Corinthians 5 | Earthly Tent vs Heavenly Dwelling, Ministry of Reconciliation, Ambassadors |
-| 3 | 2 Corinthians 6 | Paul's Hardships, Don't Be Unequally Yoked, Temple of the Living God |
-| 4 | 2 Corinthians 7 | Godly Sorrow vs Worldly Sorrow, Joy at Titus' Report |
-| 5 | 2 Corinthians 8 | Macedonian Generosity, Grace of Giving, Jesus Became Poor |
+| 1 | 2 Corinthians 4  | [Treasure in Jars of Clay, Light of the Gospel, Eternal Weight of Glory](day-1) |
+| 2 | 2 Corinthians 5  | [Earthly Tent vs Heavenly Dwelling, Ministry of Reconciliation, Ambassadors](day-2) |
+| 3 | 2 Corinthians 6  | [Paul's Hardships, Don't Be Unequally Yoked, Temple of the Living God](day-3) |
+| 4 | 2 Corinthians 7  | [Godly Sorrow vs Worldly Sorrow, Joy at Titus' Report](day-4) |
+| 5 | 2 Corinthians 8  | [Macedonian Generosity, Grace of Giving, Jesus Became Poor](day-5) |
 
 ## Key Characters
 - **Paul** -- Apostle writing with raw vulnerability, defending his ministry through the lens of weakness
