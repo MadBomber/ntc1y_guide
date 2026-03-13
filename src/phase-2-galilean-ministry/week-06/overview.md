@@ -63,7 +63,7 @@ The week culminates with Jesus sending out the Twelve on their first mission. Ha
 - **The Hidden Kingdom** -- The parables of Mark 4 reveal that God's Kingdom operates by a logic that confounds human expectations. It begins small, grows secretly, and produces a harvest out of all proportion to its humble beginnings.
 - **Mission and Persecution** -- Jesus sends the Twelve out with his authority but also with a clear warning: the world will respond with hostility. Following Jesus means sharing not only in his power but in his suffering.
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Then he said to his disciples, 'The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.'" -- Matthew 9:37-38 (ESV)
 

@@ -61,7 +61,7 @@ John's Gospel adds theological depth to the miraculous events, recording Jesus' 
 - **Authority of the Son** -- Jesus claims equality with the Father in both action and judgment
 - **Bread of Life** -- Physical bread points to spiritual sustenance found only in Christ
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Jesus said to them, 'I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst.'"
 > -- John 6:35

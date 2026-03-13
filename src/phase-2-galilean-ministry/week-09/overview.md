@@ -58,7 +58,7 @@ The week's narratives extend this boundary-crossing logic into practice. Jesus h
 - **The cost of discipleship** -- Many followers abandon Jesus when his teaching becomes difficult
 - **Divine identity revealed** -- Walking on water and the *ego eimi* declaration unveil Jesus as the God who commands creation
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Simon Peter answered him, 'Lord, to whom shall we go? You have the words of eternal life.'"
 > -- John 6:68

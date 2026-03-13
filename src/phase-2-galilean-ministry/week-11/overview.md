@@ -56,7 +56,7 @@ What emerges across these readings is a portrait of a community utterly unlike t
 - **Freedom from anxiety** -- Trusting the Father's provision liberates believers from the tyranny of accumulation and worry
 - **Readiness and watchfulness** -- The kingdom demands alert, faithful stewardship because the Master's return is certain but its timing unknown
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "He answered, 'Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind'; and, 'Love your neighbor as yourself.'"
 > -- Luke 10:27
