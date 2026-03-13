@@ -58,6 +58,34 @@ If studying alone, use the Discussion Guide as a weekly review. The "Going Deepe
 - **Embrace the chronological order.** It may feel unfamiliar at first to jump between Gospel accounts or to read Galatians in the middle of Acts. Trust the process — it will deepen your understanding of how the New Testament fits together.
 - **Pray before you read.** Ask the Holy Spirit to open your eyes to see what God has for you in the text.
 
+## Optional Features
+
+This study includes several optional features you can enable or disable from the [Settings](/settings/) page. All settings are stored privately in your browser.
+
+### Progress Tracking
+
+Your reading progress is tracked automatically. Each day page, week overview, and phase overview has a "Mark Complete" button. Completed items show a checkmark and date. Your current position is highlighted on the home page in the "Today's Study" card. Progress data can be exported, imported, or cleared from Settings.
+
+### H.E.A.R. Journaling
+
+The [H.E.A.R. Method](/hear-method/) is a four-step journaling approach: Highlight, Explain, Apply, Respond. When enabled, a journal icon appears on each day page, opening a form where you can record your thoughts. Entries are stored in your browser and can be exported as JSON for safekeeping. If you prefer pen and paper, you can disable this feature in Settings and the icon will be hidden.
+
+### Read Aloud
+
+When enabled, a volume icon appears in the toolbar. Tapping it reads the current page content aloud using your device's built-in text-to-speech. Useful for auditory learners or for listening while following along.
+
+### Group Sharing
+
+If you are studying with others, enable Group Sharing to add an email icon to the toolbar. First, add your group members' names and email addresses on the [Settings](/settings/#group-members) page. Then on any study page, tap the email icon to compose a message to your group with a link to the current page and any H.E.A.R. highlight you have recorded.
+
+### Community Discussions
+
+Enable this feature to show a comment section at the bottom of every content page. Discussions are powered by GitHub Discussions. Reading comments does not require an account. Posting requires a free [GitHub](https://github.com/signup) account (GitHub is owned by Microsoft). All comments are public and viewable by anyone. You can choose a discussion theme (light, dark, or other options) in Settings.
+
+### Site Theme
+
+Choose between Light, Dark, or Match System Setting to control the appearance of the entire study site.
+
 ## Navigation
 
 - **[Master Index](index)** — Links to every week at a glance
@@ -76,6 +104,3 @@ If studying alone, use the Discussion Guide as a weekly review. The "Going Deepe
 | 5: The Early Church | 21-41 | Acts + Paul's letters in historical order |
 | 6: Letters & Revelation | 42-52 | Pastoral letters, general epistles, Revelation |
 
----
-
-*Ready to begin? [Start Week 1](phase-1-the-coming-of-christ/week-01/overview)*
