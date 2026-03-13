@@ -62,7 +62,7 @@ From the quiet reverence of the temple, we are thrust into political danger. Mat
 - **Preparation and Identity** -- John the Baptist prepares the way, and the baptism reveals Jesus' identity. The voice from heaven, the descending Spirit, and the testimony of the forerunner all converge to establish who Jesus is before he begins his work.
 - **The Hidden Years** -- Luke alone gives us a glimpse of Jesus at age twelve, showing that even as a boy he understood his unique relationship with the Father. The thirty years of silence remind us that God's timing is not our own.
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "For my eyes have seen your salvation that you have prepared in the presence of all peoples, a light for revelation to the Gentiles, and for glory to your people Israel." -- Luke 2:30-32 (ESV)
 

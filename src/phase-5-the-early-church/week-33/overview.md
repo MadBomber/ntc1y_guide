@@ -56,7 +56,7 @@ Chapter 7 brings emotional resolution. The godly sorrow that Paul's tearful lett
 - **Eternal perspective** -- Present sufferings are momentary and light compared to an eternal weight of glory
 - **Authenticity in ministry** -- True apostleship is validated by endurance, not eloquence or outward success
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us."
 > -- 2 Corinthians 4:7

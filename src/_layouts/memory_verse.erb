@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<article class="memory-verse-card" data-week="<%= data.week %>">
+
+  <header class="mv-header">
+    <span class="mv-phase"><%= data.phase %></span>
+    <h1>Week <%= data.week %>: Memory Verse</h1>
+    <p class="mv-week-title"><%= data.title %></p>
+  </header>
+
+  <section class="mv-verse-row">
+    <% if data.image %>
+      <figure class="mv-image">
+        <img src="<%= relative_url "/images/memory-verses/#{data.image}" %>" alt="Memory verse illustration for Week <%= data.week %>">
+      </figure>
+    <% end %>
+    <div class="mv-verse">
+      <blockquote class="mv-text">
+        <%= data.verse_text %>
+      </blockquote>
+      <cite class="mv-reference"><%= data.memory_verse %></cite>
+      <span class="mv-translation">(<%= data.translation %>)</span>
+      <button class="mv-listen-btn"
+              data-reference="<%= data.memory_verse %>"
+              data-verse="<%= data.verse_text %>"
+              aria-label="Listen to memory verse">
+        <svg class="mv-listen-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+          <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+          <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+        </svg>
+        <span class="mv-listen-label">Listen</span>
+      </button>
+    </div>
+  </section>
+
+  <section class="mv-context">
+    <h2>Why This Verse</h2>
+    <%= yield %>
+  </section>
+
+  <section class="mv-connections">
+    <h2>Connections This Week</h2>
+    <ul>
+      <% data.connections&.each do |conn| %>
+        <li><%= conn %></li>
+      <% end %>
+    </ul>
+  </section>
+
+  <footer class="mv-footer">
+    <div class="mv-footer-actions">
+      <!-- Mark Complete button inserted here by JS -->
+    </div>
+
+    <a href="<%= relative_url '/memory-verses#all-verses' %>" class="mv-progress-link" target="_blank" rel="noopener">
+      Check Your Progress — All 52 Verses
+    </a>
+
+    <nav class="mv-nav">
+      <% if data.prev_week_path %>
+        <a href="<%= relative_url data.prev_week_path %>" class="mv-nav-link">&larr; Week <%= data.week - 1 %></a>
+      <% end %>
+      <a href="javascript:history.back()" class="mv-nav-link">Back to the Study</a>
+      <% if data.next_week_path %>
+        <a href="<%= relative_url data.next_week_path %>" class="mv-nav-link">Week <%= data.week + 1 %> &rarr;</a>
+      <% end %>
+    </nav>
+  </footer>
+
+</article>

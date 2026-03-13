@@ -63,7 +63,7 @@ Matthew adds his own essential perspective, tracing Jesus' lineage through the r
 - **Reversal of Expectations** -- God consistently works through the unexpected: a barren elderly couple, an unmarried young woman, a quiet carpenter, a feeding trough for a crib, shepherds as the first witnesses. The Kingdom arrives upside-down by the world's standards.
 - **Light and Darkness** -- John's prologue introduces the cosmic conflict between light and darkness that runs through the entire New Testament. The light shines in the darkness, and the darkness has not overcome it.
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth." -- John 1:14 (ESV)
 

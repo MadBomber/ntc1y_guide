@@ -61,7 +61,7 @@ This week bridges Phase 1 and Phase 2 of our study. The coming of Christ -- his 
 - **Controversy with Religious Leaders** -- The seeds of the final conflict are planted this week. Jesus claims divine prerogatives (forgiving sins), violates social boundaries (eating with sinners), and challenges accepted practices (fasting). The Pharisees begin asking hostile questions, and the trajectory toward the cross becomes visible.
 - **New Wine in New Wineskins** -- Jesus' parable at the end of Mark 2 signals that what he brings cannot be contained within the existing religious structures. The old forms must give way to something radically new.
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel." -- Mark 1:15 (ESV)
 

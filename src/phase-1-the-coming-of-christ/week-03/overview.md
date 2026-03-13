@@ -66,7 +66,7 @@ Together, these readings form a bridge between the preparations of Weeks 1-2 and
 - **New Birth and Living Water** -- Jesus introduces radically new spiritual categories. To Nicodemus, the expert in the old covenant, he declares the necessity of being "born from above." To the Samaritan woman, he offers "living water" that satisfies forever. Both images point to the transforming work of the Holy Spirit.
 - **Breaking Boundaries** -- Jesus' ministry from its earliest days crosses social and religious barriers. He speaks theology with a Pharisee at night and with a Samaritan woman at noon. He cleanses the Temple and redefines worship. No one is outside his reach.
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him." -- John 3:16-17 (ESV)
 

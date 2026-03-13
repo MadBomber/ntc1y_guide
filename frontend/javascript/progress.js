@@ -40,6 +40,7 @@ function phaseKey(p) { return `p${p}` }
 function weekOverviewKey(w) { return `w${w}overview` }
 function dayKey(w, d) { return `w${w}d${d}` }
 function discussionKey(w) { return `w${w}discussion` }
+function memoryVerseKey(w) { return `mv${w}` }
 
 function weekItemKeys(w) {
   return [
@@ -406,10 +407,149 @@ function enhanceDiscussionPage(weekNum) {
   addMarkCompleteButton(article, discussionKey(weekNum))
 }
 
+// --- Memory verse card page ---
+
+function enhanceMemoryVerseCard(weekNum) {
+  const actions = document.querySelector(".mv-footer-actions")
+  if (!actions) return
+
+  const key = memoryVerseKey(weekNum)
+  const dateStr = getDate(key)
+
+  const btn = document.createElement("button")
+  btn.classList.add("day-complete-btn")
+  updateButton(btn, !!dateStr)
+
+  const dateSpan = createDateSpan(dateStr)
+
+  btn.addEventListener("click", () => {
+    if (getDate(key)) {
+      markIncomplete(key)
+      dateSpan.textContent = ""
+      updateButton(btn, false)
+    } else {
+      const date = markComplete(key)
+      dateSpan.textContent = formatDate(date)
+      updateButton(btn, true)
+    }
+  })
+
+  actions.appendChild(btn)
+  actions.appendChild(dateSpan)
+}
+
+// --- Memory verses index page ---
+
+function enhanceMemoryVersesIndex() {
+  const progress = getProgress()
+
+  // Progress summary
+  const summary = document.getElementById("mv-progress-summary")
+  if (summary) {
+    let memorized = 0
+    for (let w = 1; w <= 52; w++) {
+      if (progress[memoryVerseKey(w)]) memorized++
+    }
+    const pct = Math.round((memorized / 52) * 100)
+
+    const bar = document.createElement("div")
+    bar.classList.add("mv-progress-bar-container")
+    bar.innerHTML =
+      `<div class="mv-progress-info">` +
+      `<strong>${memorized}</strong> of <strong>52</strong> verses memorized (${pct}%)` +
+      `</div>` +
+      `<div class="mv-progress-track">` +
+      `<div class="mv-progress-fill" style="width: ${pct}%"></div>` +
+      `</div>`
+    summary.appendChild(bar)
+  }
+
+  // Add checkboxes to tables
+  const tables = document.querySelectorAll("main table")
+  tables.forEach(table => {
+    const headerRow = table.querySelector("thead tr")
+    if (!headerRow) return
+
+    const thCheck = document.createElement("th")
+    thCheck.textContent = ""
+    headerRow.insertBefore(thCheck, headerRow.firstChild)
+
+    const thDate = document.createElement("th")
+    thDate.textContent = "Memorized"
+    headerRow.appendChild(thDate)
+
+    const rows = table.querySelectorAll("tbody tr")
+    rows.forEach(row => {
+      const firstCell = row.querySelector("td")
+      if (!firstCell) return
+
+      const weekNum = parseInt(firstCell.textContent.trim(), 10)
+      if (isNaN(weekNum)) return
+
+      const key = memoryVerseKey(weekNum)
+      const dateStr = getDate(key)
+
+      const checkTd = document.createElement("td")
+      checkTd.classList.add("progress-cell")
+      const cb = createCheckbox(!!dateStr)
+      const dateSpan = createDateSpan(dateStr)
+
+      cb.addEventListener("change", () => {
+        if (cb.checked) {
+          const date = markComplete(key)
+          dateSpan.textContent = formatDate(date)
+          updateProgressSummary()
+        } else {
+          markIncomplete(key)
+          dateSpan.textContent = ""
+          updateProgressSummary()
+        }
+      })
+      checkTd.appendChild(cb)
+      row.insertBefore(checkTd, row.firstChild)
+
+      const dateTd = document.createElement("td")
+      dateTd.classList.add("progress-date-cell")
+      dateTd.appendChild(dateSpan)
+      row.appendChild(dateTd)
+    })
+  })
+
+  function updateProgressSummary() {
+    const prog = getProgress()
+    let memorized = 0
+    for (let w = 1; w <= 52; w++) {
+      if (prog[memoryVerseKey(w)]) memorized++
+    }
+    const pct = Math.round((memorized / 52) * 100)
+    const info = document.querySelector(".mv-progress-info")
+    if (info) {
+      info.innerHTML = `<strong>${memorized}</strong> of <strong>52</strong> verses memorized (${pct}%)`
+    }
+    const fill = document.querySelector(".mv-progress-fill")
+    if (fill) {
+      fill.style.width = `${pct}%`
+    }
+  }
+}
+
 // --- Auto-detect and enhance ---
 
 document.addEventListener("DOMContentLoaded", () => {
   const article = document.querySelector("article[data-phase], article[data-week]")
+
+  // Memory verses index page
+  if (document.getElementById("mv-progress-summary")) {
+    enhanceMemoryVersesIndex()
+    return
+  }
+
+  // Memory verse card page
+  const mvCard = document.querySelector(".memory-verse-card")
+  if (mvCard && mvCard.dataset.week) {
+    enhanceMemoryVerseCard(parseInt(mvCard.dataset.week))
+    return
+  }
 
   if (!article) {
     // Home page
