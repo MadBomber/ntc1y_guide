@@ -55,7 +55,7 @@ These five days take us from Paul's deathbed to the theological heights of Hebre
 - **Faithfulness to the end** -- Paul models finishing well and charges Timothy to do the same
 - **Warning against apostasy** -- Both 2 Timothy and Hebrews warn of falling away
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work." -- 2 Timothy 3:16-17
 

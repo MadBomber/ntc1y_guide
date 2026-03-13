@@ -61,7 +61,7 @@ These five chapters are not merely academic theology. They are pastoral pleading
 - **Melchizedek's superior order** -- A priesthood that precedes, transcends, and renders obsolete the Levitical system
 - **Warning and encouragement** -- Stern warnings against falling away are balanced by assurances of God's faithfulness
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart." -- Hebrews 4:12
 

@@ -50,7 +50,7 @@ This week traverses an extraordinary range of pastoral territory. First Timothy 
 - **Grace as teacher** — The grace that saves also instructs, teaching believers to reject ungodliness and to live self-controlled, upright, and godly lives while awaiting Christ's return
 - **Courage and faithfulness under pressure** — Paul's call to Timothy to "fan into flame" his gift and not be ashamed of the gospel is issued against the backdrop of abandonment and approaching death
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "For the grace of God has appeared that offers salvation to all people. It teaches us to say 'No' to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age." — Titus 2:11-12
 

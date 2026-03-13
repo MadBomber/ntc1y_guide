@@ -55,7 +55,7 @@ Yet these letters do not end in despair. Second Peter closes with the breathtaki
 - **The certainty of Christ's return** -- Against scoffers who mock the delay, Peter reframes divine patience as salvation opportunity and promises the ultimate renewal of all creation
 - **Kept by God** -- Jude's doxology declares that perseverance is ultimately God's work: he is able to keep believers from stumbling and present them faultless before his glory
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Cast all your anxiety on him because he cares for you." -- 1 Peter 5:7
 

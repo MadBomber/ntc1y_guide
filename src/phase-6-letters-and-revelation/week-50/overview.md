@@ -55,7 +55,7 @@ Second and Third John are the two shortest books in the New Testament -- each co
 - **Assurance and confidence** -- John writes so that believers may know they have eternal life, countering the destabilizing claims of the false teachers
 - **The incarnation as non-negotiable** -- The insistence that Jesus Christ came "in the flesh" stands as the watershed doctrine separating truth from error
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness." -- 1 John 1:9
 

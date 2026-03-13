@@ -55,7 +55,7 @@ Chapter 12 then draws the practical conclusion. With such a "great cloud of witn
 - **Endurance through witness** -- The testimony of those who have gone before provides both encouragement and accountability for the present race
 - **The consuming fire** -- God's holiness is not softened in the new covenant but met through the mediator Jesus, whose blood speaks a better word than Abel's
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Now faith is the substance of things hoped for, the evidence of things not seen." -- Hebrews 11:1
 

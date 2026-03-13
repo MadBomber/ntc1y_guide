@@ -57,7 +57,7 @@ The book's final chapters (21-22) bring the entire biblical narrative to its bre
 - **All things new** -- The goal of history is not the destruction of creation but its renewal; God will make all things new, reversing the curse and restoring the intimacy of Eden in the grandeur of the New Jerusalem
 - **Come, Lord Jesus** -- Revelation ends not with a period but with a prayer, an invitation, an eager longing for the return of the King
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away. He who was seated on the throne said, 'I am making everything new!'" -- Revelation 21:4-5
 

@@ -45,7 +45,7 @@ The Pastoral Epistles occupy a unique place in the Pauline corpus. While letters
 - **Church order and leadership** — Qualifications for overseers, deacons, and the care of widows and elders
 - **Godliness as a way of life** — Not mere intellectual belief but a disciplined, Christ-shaped pattern of living that touches every area of congregational and personal life
 
-## Memory Verse
+## [Memory Verse](memory-verse)
 
 > "Don't let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity." — 1 Timothy 4:12
 
