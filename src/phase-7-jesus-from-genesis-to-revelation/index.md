@@ -2,9 +2,6 @@
 phase_number: 7
 title: "Jesus: From Genesis to Revelation"
 layout: page
-next_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/creation-covenant/
-  title: "Creation Covenant"
 ---
 
 *Reference — Outside the 52-Week Study*

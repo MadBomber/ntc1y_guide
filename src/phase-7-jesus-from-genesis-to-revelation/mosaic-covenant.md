@@ -1,12 +1,7 @@
 ---
+phase_number: 7
 title: "Mosaic Covenant: Law, Lamb, and Tabernacle"
 layout: page
-prev_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/abrahamic-covenant/
-  title: "Abrahamic Covenant"
-next_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/davidic-covenant/
-  title: "Davidic Covenant"
 ---
 
 ## The Foundation

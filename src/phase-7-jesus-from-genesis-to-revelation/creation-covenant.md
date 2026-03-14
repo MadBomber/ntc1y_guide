@@ -1,12 +1,7 @@
 ---
+phase_number: 7
 title: "Creation Covenant: Christ as the Word and Creator"
 layout: page
-prev_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/
-  title: "Overview"
-next_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/adamic-covenant/
-  title: "Adamic Covenant"
 ---
 
 ## The Foundation

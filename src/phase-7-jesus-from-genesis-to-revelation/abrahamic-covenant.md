@@ -1,12 +1,7 @@
 ---
+phase_number: 7
 title: "Abrahamic Covenant: Blessing to All Nations"
 layout: page
-prev_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/noahic-covenant/
-  title: "Noahic Covenant"
-next_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/mosaic-covenant/
-  title: "Mosaic Covenant"
 ---
 
 ## The Foundation

@@ -49,16 +49,31 @@ layout: default
       <span class="week-nav-arrow"></span>
     <% end %>
   </nav>
-  <% elsif data.prev_page || data.next_page %>
-  <nav class="page-nav">
-    <% if data.prev_page %>
-      <a href="<%= relative_url data.prev_page.url %>" class="page-nav-link page-nav-prev">&larr; <%= data.prev_page.title %></a>
-    <% else %>
-      <span></span>
-    <% end %>
-    <% if data.next_page %>
-      <a href="<%= relative_url data.next_page.url %>" class="page-nav-link page-nav-next"><%= data.next_page.title %> &rarr;</a>
-    <% end %>
+  <% elsif data.phase_number == 7 %>
+  <%
+    p7_base = "/phase-7-jesus-from-genesis-to-revelation"
+    p7_pages = [
+      ["Overview",    "#{p7_base}/"],
+      ["Creation",    "#{p7_base}/creation-covenant/"],
+      ["Adam",        "#{p7_base}/adamic-covenant/"],
+      ["Noah",        "#{p7_base}/noahic-covenant/"],
+      ["Abraham",     "#{p7_base}/abrahamic-covenant/"],
+      ["Moses",       "#{p7_base}/mosaic-covenant/"],
+      ["David",       "#{p7_base}/davidic-covenant/"],
+      ["New",         "#{p7_base}/new-covenant/"],
+      ["Consummation","#{p7_base}/consummation/"],
+    ]
+    current_path = resource.relative_url.to_s.chomp("/")
+  %>
+  <nav class="week-nav">
+    <span class="week-nav-arrow"></span>
+    <div class="week-nav-pages">
+      <% p7_pages.each do |label, path| %>
+        <% is_current = current_path == path.chomp("/") %>
+        <a href="<%= relative_url path %>" class="week-nav-page<%= ' current' if is_current %>"><%= label %></a>
+      <% end %>
+    </div>
+    <span class="week-nav-arrow"></span>
   </nav>
   <% end %>
 

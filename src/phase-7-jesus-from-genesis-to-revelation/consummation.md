@@ -1,9 +1,7 @@
 ---
+phase_number: 7
 title: "All Things New: The Returning King and the World Made Whole"
 layout: page
-prev_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/new-covenant/
-  title: "New Covenant"
 ---
 
 ## The Foundation

@@ -1,12 +1,7 @@
 ---
+phase_number: 7
 title: "Noahic Covenant: Judgment and Salvation"
 layout: page
-prev_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/adamic-covenant/
-  title: "Adamic Covenant"
-next_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/abrahamic-covenant/
-  title: "Abrahamic Covenant"
 ---
 
 ## The Foundation

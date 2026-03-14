@@ -1,12 +1,7 @@
 ---
+phase_number: 7
 title: "Adamic Covenant: The Promised Seed"
 layout: page
-prev_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/creation-covenant/
-  title: "Creation Covenant"
-next_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/noahic-covenant/
-  title: "Noahic Covenant"
 ---
 
 ## The Foundation

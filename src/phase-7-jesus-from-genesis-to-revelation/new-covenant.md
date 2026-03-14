@@ -1,12 +1,7 @@
 ---
+phase_number: 7
 title: "New Covenant: The Better Mediator"
 layout: page
-prev_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/davidic-covenant/
-  title: "Davidic Covenant"
-next_page:
-  url: /phase-7-jesus-from-genesis-to-revelation/consummation/
-  title: "All Things New"
 ---
 
 ## The Foundation
