@@ -64,6 +64,3 @@ The chapter concludes with the anointing by a sinful woman (7:36-50), set in the
 ## Prayer
 
 Compassionate Lord, you saw the widow's grief and stopped the funeral procession. You answered John's honest question with patience and evidence. You received the tears and perfume of a sinful woman and declared her forgiven. We bring our griefs, our questions, and our sins to you today. Meet us with the same compassion, the same patience, and the same grace. Help us to love much because we have been forgiven much. In your merciful name. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

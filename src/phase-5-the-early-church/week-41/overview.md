@@ -68,6 +68,3 @@ Philippians 1 introduces the theme of gospel partnership and Paul's famous dilem
 
 > "Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross."
 > -- Philippians 2:5-8
-
----
-*Previous: [Week 40 Discussion](../week-40/discussion) | [Day 1](day-1) | Next: [Week 42](../../phase-6-letters-and-revelation/week-42/overview)*

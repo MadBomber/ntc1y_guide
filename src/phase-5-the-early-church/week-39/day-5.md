@@ -55,6 +55,3 @@ At dawn, they spot a bay with a beach and attempt to run the ship aground. The b
 ## Prayer
 
 Sovereign God, you command the winds and the waves, and even the Euraquilo obeys your purpose. When we are storm-tossed and have lost all hope of being saved, stand among us as you stood among the 276 and say, "Do not be afraid." Teach us the calm of Paul, who gave thanks and broke bread on a ship coming apart at the seams -- not because the danger was imaginary but because your promises are unbreakable. When the professional voices tell us to press on and your servant tells us to wait, give us the wisdom to listen to the right counsel. And when the ship is lost but every soul is saved, teach us to see your hand in the wreckage -- the God who brings his people through the sea, not around it, and who wastes nothing, not even a storm. Through Jesus Christ, who calmed the Galilean storm and who carries us through every tempest to the shore you have prepared. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

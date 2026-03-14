@@ -59,6 +59,3 @@ The climactic final verse (1:14) reduces the angels to their proper status with 
 ## Prayer
 
 Almighty God, who in these last days has spoken to us through Your Son -- the radiance of Your glory and the exact imprint of Your nature -- open our eyes to see His supremacy over all things. Forgive us for the times we have elevated lesser things to the place that belongs to Christ alone. He is the heir of all things, the one through whom You made the universe, the one who sustains all things by His powerful word. He made purification for our sins and sat down at Your right hand. Before such a Savior we bow in worship, and we ask that the truth of His infinite superiority would anchor our souls against every temptation to drift. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

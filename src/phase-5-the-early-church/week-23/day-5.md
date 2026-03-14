@@ -59,6 +59,3 @@ The theological implications of Acts 10 cannot be overstated. The event demonstr
 
 ## Prayer
 God of all nations, you shattered the wall between Jew and Gentile by the blood of your Son and the power of your Spirit. Forgive us for rebuilding walls you have torn down — walls of race, class, culture, and religious pride. Open our eyes, as you opened Peter's, to see that no one you have made is common or unclean. Pour out your Spirit on those we least expect, and give us the grace to welcome them as brothers and sisters. In the name of Jesus, Lord of all. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

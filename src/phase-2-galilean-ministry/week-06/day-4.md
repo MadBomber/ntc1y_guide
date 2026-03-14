@@ -61,6 +61,3 @@ The chapter concludes with the stilling of the storm (4:35-41), which we also en
 ## Prayer
 
 Lord of the harvest, you scatter your word with lavish generosity, trusting the soil to receive it and the seed to carry its own life. We confess that our hearts are often hard, shallow, or cluttered with competing desires. Break up the fallow ground of our souls. Root out the thorns. Make us good soil that receives your word and bears fruit beyond anything we could produce on our own. And when the storms come, remind us that you are in the boat, and that your word of peace has authority over every wind and wave. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

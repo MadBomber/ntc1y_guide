@@ -53,6 +53,3 @@ The disciples, meanwhile, sleep. Three times Jesus finds them unconscious, and h
 
 ## Prayer
 Father, we tremble before the scene in Gethsemane. Your Son, who knew no sin, fell on his face and asked whether the cup of your wrath could pass -- and then drank it for us. We are like the sleeping disciples: willing in spirit, weak in flesh, unable to stay awake for even an hour. Forgive our drowsiness and strengthen us by the same Spirit who strengthened your Son. May our lives be an offering as lavish as the woman's ointment, poured out without reserve for the one who poured out everything for us. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

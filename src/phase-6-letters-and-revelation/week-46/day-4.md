@@ -60,6 +60,3 @@ The chapter's climax is the oath of God to Abraham (6:13-20). When God made His 
 ## Prayer
 
 Faithful God, you swore by yourself because there was no one greater to swear by, and your promise stands on the double guarantee of your word and your oath. We take refuge in this unshakable certainty. Where we have grown complacent in our faith, press us forward to maturity. Where we have been content with milk, give us hunger for solid food. Where we have drifted toward the dangerous edge, pull us back with the severity of your warning and the tenderness of your love. Thank you for the hope that anchors our souls -- not in the shifting circumstances of this present age, but in the heavenly sanctuary where Jesus, our forerunner, has already entered on our behalf. Hold us fast, and bring us safely to the harbor where He waits. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

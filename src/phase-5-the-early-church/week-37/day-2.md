@@ -62,6 +62,3 @@ The chapter -- and the entire doctrinal section of Romans -- concludes with the 
 ## Prayer
 
 God of Abraham, Isaac, and Jacob, we stand in awe of your irrevocable purposes. Your gifts and calling cannot be withdrawn, and your patience with your covenant people stretches across millennia. Forgive us for every arrogant thought toward those whose unbelief opened the door for our salvation. We are wild branches, grafted in by grace alone, and we tremble at your kindness. Hasten the day when all Israel will be saved and the fullness of the nations will stream into your kingdom. Oh, the depth of the riches of your wisdom and knowledge! How unsearchable your judgments, how inscrutable your ways! From you and through you and to you are all things. To you be glory forever. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

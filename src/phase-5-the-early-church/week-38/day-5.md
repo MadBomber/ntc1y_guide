@@ -57,6 +57,3 @@ The chapter closes with Lysias ordering the chief priests and the Sanhedrin to a
 ## Prayer
 
 God of Abraham, Moses, and Paul, you call your servants by name and commission them for purposes they cannot foresee. You turned a persecutor into a preacher, a destroyer of the church into its greatest builder. We thank you that no one is beyond the reach of your grace -- not the zealot breathing threats, not the skeptic demanding proof, not the comfortable believer avoiding the hard questions. Give us the courage to tell our story -- not with polished rhetoric but with the raw honesty of a life that has been interrupted by the risen Christ. When the word "Gentiles" in our own vocabulary -- the truth that offends, the inclusion that scandalizes -- provokes the crowd, give us the calm of Paul on the fortress steps, speaking truth in the sacred language of those who need to hear it. Through Jesus of Nazareth, the Righteous One, who speaks from heaven and commissions servants for the ends of the earth. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

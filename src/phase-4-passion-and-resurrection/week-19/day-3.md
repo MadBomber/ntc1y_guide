@@ -54,6 +54,3 @@ The burial by Joseph of Arimathea fulfilled Isaiah 53:9 ("he was with a rich man
 
 ## Prayer
 Lord Jesus, we cannot read of your crucifixion without being undone. You prayed for your murderers while they drove the nails. You promised paradise to a dying thief who had nothing to offer. You tore the curtain that separated us from God and opened the way with your own body. We are the ones who should have hung on that cross, and you took our place. May we never treat this lightly. May we live as people for whom the curtain has been torn. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

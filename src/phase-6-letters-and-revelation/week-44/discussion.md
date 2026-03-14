@@ -85,6 +85,3 @@ This week's readings challenge us in three practical areas:
 ## Closing Prayer
 
 God of grace and courage, this week you have shown us the seductive danger of wealth, the transforming power of grace, and the costly beauty of faithfulness under pressure. Free us from the love of money that pierces us with grief. Train us through your grace to say no to ungodliness and yes to the self-controlled, upright, godly life you have designed for us. Give us the Spirit not of timidity but of power, love, and self-discipline. And like Onesiphorus, make us people who are not ashamed to stand with those who bear your name, even when the cost is real. Guard your gospel in us, and guard us in your gospel. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 45](../week-45/overview)*

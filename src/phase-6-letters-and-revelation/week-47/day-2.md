@@ -58,6 +58,3 @@ The chapter's central concept is Christ as "mediator of a new covenant" (9:15). 
 ## Prayer
 
 Lord Jesus, our great High Priest, we stand in awe of what you accomplished when you entered the heavenly sanctuary with your own blood. Where animal sacrifices could only cover sin temporarily, your once-for-all offering has obtained eternal redemption. Cleanse our consciences from dead works -- from every attempt to earn our way into your presence through ritual and performance. Free us to worship the living God with hearts made clean by your precious blood. Thank you for mediating a new and better covenant, sealed by a sacrifice that never needs repeating. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

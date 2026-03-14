@@ -58,6 +58,3 @@ The closing prayer (verse 23) is a fitting summary of the entire letter: "May th
 
 ## Prayer
 God of peace, sanctify us completely -- spirit, soul, and body. Keep us awake and sober as we wait for your Son's return. Teach us to rejoice not because life is easy but because you are faithful. Teach us to pray not only in crisis but as the constant breathing of our souls. Teach us to give thanks not for all circumstances but in all circumstances, because you are sovereign over them all. You who call us are faithful, and you will surely do it. Amen.
-
----
-*Previous: [../week-27/day-5](../week-27/day-5) | Next: [day-2](day-2)*

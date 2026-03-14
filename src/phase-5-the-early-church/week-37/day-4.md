@@ -62,6 +62,3 @@ The final verse is one of the most personally significant in church history: "Cl
 ## Prayer
 
 Sovereign God, you have ordered the world with purposes we cannot always see. Give us wisdom to render what is due to earthly authorities while reserving our deepest allegiance for you alone. Teach us the inexhaustible debt of love -- love that does no harm, love that fulfills your law, love that refuses to let the sun set on our indifference. The night is nearly over; the day is almost here. Wake us from our slumber. Help us put aside every deed of darkness and clothe ourselves with the Lord Jesus Christ, so that when the day dawns, we will be found ready. Through Christ our armor of light. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

@@ -58,6 +58,3 @@ The warning that follows (10:26-31) is among the most sobering passages in the N
 ## Prayer
 
 Father, we thank you that by one offering your Son has perfected forever those who are being made holy. Where we have treated our faith as shadow and ritual, awaken us to the blazing reality of Christ's finished work. Give us boldness to draw near through the new and living way his sacrifice has opened. Strengthen us to hold fast to the hope we profess without wavering. And stir us to spur one another toward love and good deeds, especially when the temptation to withdraw and isolate grows strong. May we never shrink back but press forward in faith, confident that you are faithful to your promises. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

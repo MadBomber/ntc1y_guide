@@ -53,6 +53,3 @@ The restriction on women teaching or having authority over men (2:12) has been i
 ## Prayer
 
 God of all people, you desire the salvation of every soul — from the humblest servant to the most powerful ruler. Teach us to pray with that same expansive heart, especially for those in authority over us. We thank you for the one mediator, Christ Jesus, who gave himself as a ransom not for a select few but for all. May our worship reflect the truth we proclaim: that you are one God, that your grace is sufficient, and that your gospel has no boundaries. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

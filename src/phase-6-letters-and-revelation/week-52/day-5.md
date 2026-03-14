@@ -81,6 +81,3 @@ From "In the beginning was the Word" to "Come, Lord Jesus." From the manger to t
 ## Prayer
 
 Alpha and Omega, Beginning and End, the First and the Last -- we have journeyed this year from the Word made flesh to the world made new, and we stand in awe of the story you have told. You are making all things new. Not destroying what you made, but raising it to the glory you always intended. Thank you for the Lamb who was slain, whose blood purchased people from every tribe and language and people and nation. Thank you for the new Jerusalem descending, the dwelling place of God with humanity, the city where there is no more death, no more mourning, no more crying, no more pain. Thank you for the tree of life with its leaves for the healing of the nations, and the river of the water of life, clear as crystal, flowing from your throne. Thank you that the curse is lifted. Thank you that we will see your face. We hear the Spirit and the Bride say "Come," and we add our voices to the prayer of the ages: Amen. Come, Lord Jesus. Come.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion) -- Final Discussion Guide*

@@ -95,6 +95,3 @@ This week has moved from the theology of Israel's future to the ethics of daily 
 ## Closing Prayer
 
 Father, we have spent this week in the depths of your wisdom and at the heights of your mercy. Thank you for the mystery of your plan -- that even Israel's stumbling has brought salvation to the world, and that your gifts and calling are irrevocable. Transform us by the renewing of our minds. Teach us to offer our entire lives as living sacrifices. Give us the courage to overcome evil with good, the humility to accept those whose convictions differ from ours, and the urgency to put on Christ as the day draws near. May our love be the fulfilling of your law, our freedom the servant of our neighbor's good, and our hope the anchor that holds us steady until we see you face to face. Send us out as heralds with beautiful feet. Through Christ, in whom all your promises find their Yes. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 38](../week-38/overview)*

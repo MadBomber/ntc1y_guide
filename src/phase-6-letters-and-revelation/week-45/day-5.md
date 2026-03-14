@@ -60,6 +60,3 @@ The chapter's climax (2:14-18) reveals the purpose of the incarnation with stunn
 ## Prayer
 
 Lord Jesus, Pioneer of our salvation, who was not ashamed to call us brothers and sisters -- we are humbled beyond words. You who are the radiance of God's glory chose to share in our flesh and blood, to taste death for every one of us, to descend into the darkest depths of human experience so that You could blaze a trail of salvation through the grave itself. Deliver us from the lifelong slavery of fearing death. Free us from the subtle drift of inattention that carries us away from You. And may we cling to You who clings to us -- our merciful and faithful high priest, who understands our weakness because You lived it. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

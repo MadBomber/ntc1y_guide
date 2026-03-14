@@ -56,6 +56,3 @@ The remainder of the chapter transitions from theology to practical application 
 ## Prayer
 
 Lord Jesus, your power is made perfect in our weakness, and your grace is sufficient for every thorn that pierces our flesh. Forgive us for chasing the strength, success, and self-sufficiency that your servant Paul learned to count as loss. We confess that we fear weakness more than we fear pride, and we pursue the approval of the world more than the tabernacling presence of your power. Teach us the secret Paul discovered: that when we are emptied of ourselves, you fill us; that when we boast in our infirmities, your glory rests upon us like the Shekinah cloud upon the temple. Whatever thorns remain in our lives -- the prayers you have answered with "no," the afflictions you have not removed -- help us to see them as your protective grace, keeping us humble and keeping us dependent on you alone. For when we are weak, then we are truly strong. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

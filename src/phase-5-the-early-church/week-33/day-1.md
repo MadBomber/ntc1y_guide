@@ -54,6 +54,3 @@ The chapter concludes with Paul's eternal perspective. "This light momentary aff
 
 ## Prayer
 Father, you have placed the treasure of the gospel in the cracked and fragile vessels of our lives. Forgive us for the times we have tried to present ourselves as something more impressive than jars of clay, as though the power were ours. Teach us to embrace our weakness as the very place where your surpassing power is displayed. When we are afflicted, perplexed, persecuted, or struck down, remind us that these are the marks of Jesus' death working in us so that his life may shine through us. Fix our eyes on the eternal weight of glory that awaits, and give us courage not to lose heart. Through Christ our treasure, Amen.
-
----
-*Previous: [../week-32/day-5](../week-32/day-5) | Next: [day-2](day-2)*

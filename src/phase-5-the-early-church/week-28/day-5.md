@@ -58,6 +58,3 @@ The result of this instruction is remarkable: when Apollos crosses to Achaia (th
 
 ## Prayer
 Lord of the harvest, we thank you for the way you position the right people in the right places at the right time. Thank you for Priscilla and Aquila, who had the humility to serve behind the scenes and the courage to instruct a man far more eloquent than themselves. Thank you for Apollos, who had the teachability to receive correction and the power to build up what others had planted. Give us the same humility, the same teachability, and the same willingness to let others receive the credit while you receive the glory. You plant, you water, you give the growth. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

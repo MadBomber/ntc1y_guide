@@ -58,6 +58,3 @@ The instructions on disciplining elders — "Do not entertain an accusation agai
 ## Prayer
 
 Father of the fatherless and defender of widows, you have always made care for the vulnerable the measure of true religion. Teach your church to be a true family — where the older are honored, the younger are protected, the vulnerable are enrolled in our care, and no one is neglected. Give wisdom to our leaders as they navigate the complexities of congregational life, and give us the courage to honor them when they serve well and hold them accountable when they fall short. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

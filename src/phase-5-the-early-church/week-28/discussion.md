@@ -52,6 +52,3 @@ Pray together for:
 - A renewed hope in the return of Christ that produces not escapism but energized faithfulness
 - Wisdom in how the church cares for the needy while also encouraging responsible living
 - Teachable hearts, like Apollos, that welcome correction and grow through it
-
----
-*Previous: [Day 5](day-5) | Next: [Week 29](../week-29/overview)*

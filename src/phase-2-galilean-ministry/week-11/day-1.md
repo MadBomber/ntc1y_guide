@@ -58,6 +58,3 @@ The Parable of the Unmerciful Servant (vv. 23-35) makes the logic inescapable. A
 ## Prayer
 
 Father, we confess that we are drawn to greatness on the world's terms -- visibility, influence, control. Teach us the upside-down greatness of your kingdom, where children lead and servants reign. Forgive us the debts we can never repay, and by that forgiveness, free us to release every grudge, every score, every ledger of wrongs we keep against one another. Where sin fractures our community, give us the courage to pursue restoration rather than avoidance. May your relentless, seeking love for every lost sheep become our own. Through Jesus, who left the glory of heaven to find us. Amen.
-
----
-*Previous: [../week-10/day-5](../week-10/day-5) | Next: [day-2](day-2)*

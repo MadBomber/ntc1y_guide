@@ -56,6 +56,3 @@ The chapter ends with what seems like an anticlimax but is actually its most sub
 ## Prayer
 
 Lord Jesus, you came not in the splendor the world expected but in humility, suffering, and sacrificial love. Paul followed in your footsteps -- beaten, shipwrecked, stoned, betrayed, and burdened daily by love for your people. Protect us from the false teachers of every age who package a different gospel in attractive wrapping. Give us discernment to recognize the angel of light for what he truly is. Grant us the courage to embrace the real cost of following you -- not only physical hardship but the deep wound of caring for others who may not care in return. And when we are tempted to measure ministry by the world's standards of success, remind us of Paul's basket over the Damascus wall: the God of weakness and foolishness is the God of the cross. Through Christ, the true Apostle, Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

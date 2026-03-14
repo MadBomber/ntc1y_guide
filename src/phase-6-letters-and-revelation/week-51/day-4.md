@@ -57,6 +57,3 @@ The response of the twenty-four elders completes the picture: they fall before t
 
 ## Prayer
 Holy, holy, holy, Lord God Almighty, who was and is and is to come — we fall before your throne in awe. You are worthy to receive glory and honor and power, for you created all things, and by your will they exist. Forgive us for the small thrones we construct in competition with yours — our ambitions, our anxieties, our need to control. We cast our crowns before you. You alone are sovereign. You alone are holy. You alone are God. Open our eyes to the reality that your throne governs all of history, and let the vision of your glory sustain us through every trial and silence every rival claim on our worship. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

@@ -60,6 +60,3 @@ The opening chapters of 1 Corinthians (1-4) lay the theological foundation for e
 
 > "For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God."
 > -- 1 Corinthians 1:18
-
----
-*Previous: [Week 28 Discussion](../week-28/discussion) | [Day 1](day-1) | Next: [Week 30](../week-30/overview)*

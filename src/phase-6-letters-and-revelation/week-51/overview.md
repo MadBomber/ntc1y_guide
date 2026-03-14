@@ -60,6 +60,3 @@ This week we read slowly through these opening five chapters, savoring the rich 
 *Or alternatively:*
 
 > "Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honor and glory and praise!" — Revelation 5:12
-
----
-*Previous: [Week 50 Discussion](../week-50/discussion) | [Day 1](day-1) | Next: [Week 52](../week-52/overview)*

@@ -103,4 +103,3 @@ Choose between Light, Dark, or Match System Setting to control the appearance of
 | 4: Passion and Resurrection | 17-20 | Upper Room, cross, resurrection |
 | 5: The Early Church | 21-41 | Acts + Paul's letters in historical order |
 | 6: Letters & Revelation | 42-52 | Pastoral letters, general epistles, Revelation |
-

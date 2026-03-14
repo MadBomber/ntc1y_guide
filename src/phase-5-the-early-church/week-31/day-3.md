@@ -59,6 +59,3 @@ The chapter closes with Paul listing roles within the church in a deliberate ord
 ## Prayer
 
 Holy Spirit, you distribute your gifts to each one individually as you will -- not as we demand, not as the world ranks them, but as the body of Christ needs them. Forgive us for the arrogance that despises lesser gifts and for the insecurity that envies greater ones. Open our eyes to see that the members we consider weak are indispensable and that the parts we overlook carry your full dignity and power. Knit us together as one body with many members, each contributing, each needed, each honored. And lead us now to the more excellent way -- the way of love -- which alone gives meaning to every gift you give. Through Christ the head of the body. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

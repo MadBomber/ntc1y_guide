@@ -53,6 +53,3 @@ Paul then gives voice to what may be the most profound personal confession in an
 
 ## Prayer
 Lord Jesus, you turned Paul's chains into a pulpit and his prison into a mission field. Teach us to see our own limitations, setbacks, and sufferings through the lens of your sovereign purposes. Give us the grace to rejoice when others advance your gospel, even imperfectly, and the wisdom to discern what is truly excellent. May our lives be so absorbed in you that we can say without pretense: to live is Christ. And when death comes, may we greet it not with fear but with the settled confidence that to depart and be with you is far better. Until that day, keep us faithful for the sake of those you have entrusted to our care. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

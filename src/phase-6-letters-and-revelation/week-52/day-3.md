@@ -60,6 +60,3 @@ The seventh trumpet then sounds (11:15), and "there were loud voices in heaven, 
 ## Prayer
 
 Lord of the kingdom, we hear the seventh trumpet sounding and the voices of heaven declaring that your reign is established forever. Even when the evidence on earth seems to contradict this declaration, we trust the announcement made from your throne. Give us the courage of the Two Witnesses -- to testify faithfully even when the cost is our very lives, trusting that you will vindicate your servants. Help us to internalize your word, both its sweetness and its bitterness, so that we proclaim not our own message but yours. The kingdom of this world has become your kingdom. Come and reign. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

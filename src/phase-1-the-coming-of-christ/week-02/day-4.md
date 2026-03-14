@@ -71,7 +71,3 @@ The heavenly voice -- "You are my beloved Son; with you I am well pleased" -- co
 - **Malachi 3:1-3** -- The messenger who prepares the way, and the refiner's fire.
 - **Genesis 3:15** -- The enmity between the serpent and the seed of the woman, evoked by John's "brood of vipers."
 - **John 1:29-34** -- The Fourth Gospel's account of the Baptist's testimony to Jesus' identity.
-
----
-
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

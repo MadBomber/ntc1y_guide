@@ -75,6 +75,3 @@ This week's readings challenge us in three interconnected ways:
 1. **2 Timothy 2-4** -- Identify one area of your life where you need to "endure hardship as a good soldier." What concrete step can you take this week to strengthen your resolve?
 2. **Hebrews 1** -- Examine whether anything in your life has been elevated to the place that belongs to Christ alone -- a spiritual experience, a system, a leader, or a comfort. Recommit to the supremacy of the Son above all things.
 3. **Hebrews 2** -- Notice where you may be drifting. Not rebelling, not running -- just drifting. Name one practice you will reinstate or begin this week to anchor yourself more firmly to what you have heard.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 46](../week-46/overview)*

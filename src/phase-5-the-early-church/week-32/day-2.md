@@ -59,6 +59,3 @@ Paul's final words are written "with my own hand" (v. 21), a practice he follows
 ## Prayer
 
 Lord Jesus, we echo the prayer of the earliest church: Maranatha -- come, Lord, come. Until you return, teach us to be faithful in the practical matters of generosity, hospitality, and service that sustain the body of Christ. Give us the courage to stand firm and the love to do all things with kindness. Open doors before us and give us boldness to walk through them, even when adversaries multiply. Bless the Stephanas households of our generation -- those who devote themselves to quiet, unglamorous service. And may the grace that sustained Paul, Prisca, Aquila, Timothy, and Apollos sustain us also, until we see you face to face. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

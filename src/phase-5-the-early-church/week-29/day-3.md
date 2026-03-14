@@ -59,6 +59,3 @@ The chapter concludes with one of Paul's most audacious claims: "we have the min
 
 ## Prayer
 Spirit of the living God, you alone can illuminate the depths of God's wisdom. Without you, we are blind to the glory of the cross. Open the eyes of our hearts to see what no eye has seen and no ear has heard -- the astonishing things God has prepared for those who love him. Free us from dependence on human eloquence and intellectual sophistication. Give us the mind of Christ, so that we see the world as he sees it: the last as first, the weak as strong, the cross as the power of God. Teach us your wisdom in the hidden places of our hearts. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

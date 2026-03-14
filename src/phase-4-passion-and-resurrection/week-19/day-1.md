@@ -56,6 +56,3 @@ The theological weight of this passage is immense. In Gethsemane we see the cost
 
 ## Prayer
 Father, we stand on holy ground as we read of your Son's agony in the garden. We confess that we, like Peter, are capable of bold promises and bitter failures. Thank you that the look Jesus gave Peter was not one of contempt but of a love that would not let go. Give us the courage to pray as Jesus prayed -- honestly, desperately, and with ultimate surrender to your will. Amen.
-
----
-*Previous: [../week-18/day-5](../week-18/day-5) | Next: [day-2](day-2)*

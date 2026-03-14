@@ -60,6 +60,3 @@ The response was divided: "some mocked, but others said, 'We will hear you again
 
 ## Prayer
 Creator God, who made from one man every nation and who needs nothing from human hands — forgive us for the small gods we construct from gold and silver and ideology, fashioned by our own art and imagination. You are not far from any of us, for in you we live and move and have our being. Give us the courage of Paul at the Areopagus — to find points of contact without surrendering points of truth, to quote the poets of our culture without worshiping their gods, and to proclaim the resurrection even when we know it will provoke mockery. May the Dionysiuses and Damarises of our generation hear and believe. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

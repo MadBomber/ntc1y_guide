@@ -56,6 +56,3 @@ The teaching culminates in three extended parables -- the Ten Virgins, the Talen
 
 > "And the King will answer them, 'Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.'"
 > -- Matthew 25:40
-
----
-*Previous: [Week 15 Discussion](../week-15/discussion) | [Day 1](day-1) | Next: [Week 17](../../phase-4-passion-and-resurrection/week-17/overview)*

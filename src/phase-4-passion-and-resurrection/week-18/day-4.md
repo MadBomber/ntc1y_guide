@@ -54,6 +54,3 @@ Mark's account of Peter's denial is devastating in its specificity. The servant 
 
 ## Prayer
 Abba, Father, your Son used this intimate word even as he faced the darkest hour any human being has ever known. He was abandoned by his friends, condemned by his enemies, and left utterly alone -- all so that we would never have to be. Forgive us for the times we have fled, denied, or betrayed. Teach us the obedience that persists through anguish, the love that gives without reserve, and the trust that clings to you when everything else falls away. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

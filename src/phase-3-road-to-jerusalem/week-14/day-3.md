@@ -60,6 +60,3 @@ Jesus' final command -- "Unbind him, and let him go" (v. 44) -- gives the commun
 ## Prayer
 
 Lord Jesus, you stood at the tomb of your friend and wept. You were not indifferent to death; you were enraged by it. You did not observe grief from a distance; you entered it with your whole being. We bring our own tombs to you today -- the losses we carry, the hopes that have decomposed, the relationships that stink of death after four days. Speak your commanding word into our graves. Call us by name. Unbind us from the graveclothes of despair, guilt, and hopelessness. You are the resurrection and the life -- not someday, but now. We believe this. Help our unbelief. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

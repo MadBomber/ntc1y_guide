@@ -67,6 +67,3 @@ Read Ephesians 3:20-21 aloud together. Then ask: If you truly believed that God 
 
 ## Closing Prayer
 God of immeasurable power and inexhaustible grace, we have spent this week in the heights and depths of your purposes. You have chosen us, redeemed us, made us alive, broken down the walls that divide us, and revealed the mystery that all people are welcome at your table. Now strengthen us with power through your Spirit. Dwell in our hearts. Root us in love. Equip us for ministry. Renew our minds so that we can put off the old and put on the new. And when we fail -- when we grieve your Spirit with careless words and bitter hearts -- remind us that your grace still flows, your calling is still irrevocable, and your power is still at work within us, doing immeasurably more than all we ask or imagine. To you be glory in the church and in Christ Jesus, throughout all generations, forever and ever. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 41](../week-41/overview)*

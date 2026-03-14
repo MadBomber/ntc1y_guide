@@ -65,6 +65,3 @@ The letter closes with arguably the most magnificent doxology in the New Testame
 ## Prayer
 
 Almighty God, to whom belong glory, majesty, power, and authority before all ages, now, and forevermore -- we come to you as those who need your keeping. We confess that we cannot preserve ourselves; the dangers are too many, the deceptions too subtle, the enemies too cunning. Thank you for Jude's fierce clarity about the threats that face your church, and thank you even more for his confidence that you are able to keep us from stumbling. Give us the courage to contend for the faith once for all entrusted to your people -- not with arrogance but with the holy restraint of Michael, who deferred judgment to you. Build us up in our most holy faith. Teach us to pray in the Spirit. Keep us in your love. And on the last day, present us before your glorious presence without fault and with great joy. To you, our only God and Savior, through Jesus Christ our Lord, be all glory forever. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

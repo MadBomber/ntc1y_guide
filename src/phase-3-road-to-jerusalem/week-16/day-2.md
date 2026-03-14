@@ -55,6 +55,3 @@ The final words -- "You will not see me again, until you say, 'Blessed is he who
 
 ## Prayer
 O Lord, you who weep over the cities that reject you, search us now. Expose in us every form of hypocrisy -- every clean exterior that hides an unclean interior, every monument to past faithfulness that masks present disobedience. Give us not just the appearance of godliness but its power. Gather us under your wings, for we are willing. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

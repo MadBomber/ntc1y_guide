@@ -95,6 +95,3 @@ Romans 1-4 moves from diagnosis (universal sin) to remedy (justification by fait
 ## Closing Prayer
 
 Righteous God, this week we have stood before the mirror of your word and seen ourselves clearly: sinners, all of us, falling short of your glory, unable to justify ourselves by any work of the law. And yet -- "but now" -- you have revealed a righteousness that comes by faith, a gift that cannot be earned, a verdict that cannot be overturned. You justified Abraham when he was still uncircumcised. You justify the ungodly who trust in your Son. You presented Christ as the mercy seat where your wrath and your love meet. We are astonished by this grace. We are humbled by this verdict. We are set free by this gospel. Forgive us for every attempt to supplement your grace with our own merit. Forgive us for every moment we have looked down on others from the pedestal of our own imagined righteousness. Like Abraham, may we believe you -- fully persuaded that you are able to do what you have promised. And may our faith, like his, be credited as righteousness. Through Jesus Christ, who was delivered up for our trespasses and raised for our justification. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 36](../week-36/overview)*

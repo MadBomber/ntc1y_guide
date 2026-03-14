@@ -56,6 +56,3 @@ The remedy John offers is stunning in its simplicity: confession. The Greek word
 ## Prayer
 
 God of light, in whom there is no darkness at all -- we come to you not with claims of perfection but with honest confession. Where we have walked in darkness while pretending to walk in light, forgive us. Where we have minimized our sin or explained it away, open our eyes to the truth. Thank you that your forgiveness is not uncertain but grounded in your own faithfulness and justice. Because your Son's blood cleanses us from all sin, we can bring everything into the light without fear. Teach us to walk in the light as you are in the light, and so to have true fellowship with one another and with you. Amen.
-
----
-*Previous: [../week-49/day-5](../week-49/day-5) | Next: [day-2](day-2)*

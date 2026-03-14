@@ -56,6 +56,3 @@ The chapter ends with a remarkable detail: as Stephen stands before the Sanhedri
 
 ## Prayer
 Lord of the church, you fill your servants with wisdom and power for every kind of ministry -- from preaching to feeding, from debating to distributing. Raise up among us people full of the Spirit who see no task as beneath them and no service as merely secular. Where there is neglect in our communities, give us the honesty to name it and the courage to address it. And when we face false accusations for speaking your truth, let our faces reflect your glory. Amen.
-
----
-*Previous: [../week-21/day-5](../week-21/day-5) | Next: [day-2](day-2)*

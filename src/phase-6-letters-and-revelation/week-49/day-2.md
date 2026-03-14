@@ -58,6 +58,3 @@ The chapter closes with a foundational statement about Scripture: "No prophecy o
 ## Prayer
 
 Father of glory, we thank you that your divine power has already given us everything we need for life and godliness. Forgive us for the times we have acted as though your resources were insufficient and our own efforts were all we had. Help us to add to our faith -- generously, lavishly, wholeheartedly -- the goodness, knowledge, self-control, perseverance, godliness, affection, and love that reflect your character in us. We thank you for the apostolic eyewitness testimony and for the even more sure prophetic Word that shines as a light in our dark places. By your Holy Spirit, who carried along the prophets of old, illuminate the Scriptures for us today, until the morning star rises in our hearts. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

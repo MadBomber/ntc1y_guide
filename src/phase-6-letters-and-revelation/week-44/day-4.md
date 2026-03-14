@@ -61,6 +61,3 @@ Paul then makes the practical thesis of the entire letter: "This is a trustworth
 ## Prayer
 
 Merciful God, you saved us not because of anything we had done but purely because of your kindness, love, and mercy. We confess that we were once foolish, deceived, and enslaved — yet you poured out your Spirit generously upon us, washing us with the water of rebirth and renewing us from the inside out. Thank you for making us heirs of eternal life, not by our merit but by your grace. Now make us eager to devote ourselves to good works — not to earn what you have freely given, but to demonstrate the transforming power of your mercy in every relationship and every situation we encounter. Protect us from foolish controversies that produce nothing, and keep us focused on what is profitable, constructive, and good. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

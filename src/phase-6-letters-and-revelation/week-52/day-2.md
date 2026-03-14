@@ -56,6 +56,3 @@ The sixth trumpet (9:13-21) releases four angels bound at the Euphrates River --
 ## Prayer
 
 Lord God, who sits enthroned in heaven while the earth trembles, we pause in the silence that precedes your judgments. Receive our prayers as incense rising before your throne, and let them participate in the unfolding of your righteous purposes. When we see the plagues of our own age -- the wars, the ecological devastation, the suffering that results from human rebellion -- open our eyes to your warnings and soften our hearts toward repentance. Deliver us from the stubbornness that clings to idols even in the face of their obvious powerlessness. And protect us with your seal, that in the midst of judgment we might be marked as your own and sustained by your faithfulness. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

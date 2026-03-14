@@ -58,6 +58,3 @@ The chapter closes with a devastating description of the false teachers: "They c
 ## Prayer
 
 God of truth, you do not lie — and in a world saturated with deception, your truthfulness is our anchor. We pray for wisdom in raising up leaders whose character reflects your own: blameless, self-controlled, hospitable, lovers of good. Give us courage like Titus, willing to enter difficult places and do the hard work of setting things in order. Protect your churches from teachers who exploit the vulnerable for financial gain, and make us communities where truth and integrity are the air we breathe. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

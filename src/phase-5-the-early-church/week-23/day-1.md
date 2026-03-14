@@ -57,6 +57,3 @@ The chapter closes with a beatitude that connects wisdom to justice: "And a harv
 
 ## Prayer
 Lord of all wisdom, we confess that our tongues are restless and that our words have caused harm we cannot undo. Tame what we cannot tame. Replace our earthly wisdom — competitive, self-promoting, divisive — with the wisdom that comes from above: pure, peaceable, gentle, and full of mercy. Let the harvest of our speech be righteousness sown in peace. Through Christ, the Word made flesh, we pray. Amen.
-
----
-*Previous: [../week-22/day-5](../week-22/day-5) | Next: [day-2](day-2)*

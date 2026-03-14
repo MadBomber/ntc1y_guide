@@ -59,6 +59,3 @@ These five chapters form the theological backbone not only of Romans but of the 
 
 > "For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."
 > -- Romans 8:38-39
-
----
-*Previous: [Week 35 Discussion](../week-35/discussion) | [Day 1](day-1) | Next: [Week 37](../week-37/overview)*

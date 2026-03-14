@@ -60,6 +60,3 @@ The chapter closes with Paul's declaration that justification by faith does not 
 ## Prayer
 
 Righteous God, you have spoken through psalmist and prophet: there is none righteous, no not one. We have all sinned and fall short of your glory. We cannot justify ourselves. Left to ourselves, we are guilty in your court, enslaved to sin, and alienated from your holy presence. But now -- blessed words! -- apart from the law, your righteousness has been revealed. You presented your Son as the mercy seat, the place where your wrath and your mercy meet, where our guilt is covered by his blood. Thank you for the gift we could never earn: justification freely by your grace, through faith, because of Christ. May we never boast in ourselves but only in the cross, where the just and the justifier meet. Through Jesus Christ our Lord, who is our righteousness. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

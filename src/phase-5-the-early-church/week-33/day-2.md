@@ -54,6 +54,3 @@ Verse 20 introduces the metaphor of ambassador (presbeuomen, literally "we serve
 
 ## Prayer
 God of reconciliation, you did not wait for us to find our way back to you but sent your Son to absorb our sin and give us his righteousness. We stand in awe of the great exchange -- that the sinless One was made sin so that we, the guilty, might become your righteousness. Thank you for making us new creations and entrusting us with the ministry of reconciliation. Give us the courage of ambassadors who speak not our own words but yours: "Be reconciled to God." May the love of Christ so constrain us that we no longer live for ourselves but for him who died and rose for us. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

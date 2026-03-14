@@ -65,6 +65,3 @@ Together, these readings paint a picture of a God who defies every category we c
 ## [Memory Verse](memory-verse)
 
 > "The thief comes only to steal and kill and destroy; I came so that they would have life, and have it abundantly." -- John 10:10 (NASB)
-
----
-*Previous: [Week 12 Discussion](../week-12/discussion) | [Day 1](day-1) | Next: [Week 14](../week-14/overview)*

@@ -51,6 +51,3 @@ Paul concludes with prayer (6:18-20), which is not a seventh piece of armor but 
 
 ## Prayer
 Almighty God, you have not left us defenseless in the battle. You have clothed us in your own armor -- your truth, your righteousness, your gospel, your faithfulness, your salvation, and your living Word. Forgive us when we have tried to fight in our own strength, with weapons fashioned by human hands. Teach us to stand firm, to pray without ceasing, and to wield the sword of the Spirit with the same confidence Jesus showed in the wilderness. Make us bold ambassadors of your mystery, whether we are in comfort or in chains. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

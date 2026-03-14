@@ -63,6 +63,3 @@ This week bridges Phase 1 and Phase 2 of our study. The coming of Christ -- his 
 ## [Memory Verse](memory-verse)
 
 > "The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel." -- Mark 1:15 (ESV)
-
----
-*Previous: [Week 3 Discussion](../week-03/discussion) | [Day 1](day-1) | Next: [Week 5](../../phase-2-galilean-ministry/week-05/overview)*

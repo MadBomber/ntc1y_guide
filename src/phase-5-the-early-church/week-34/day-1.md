@@ -58,6 +58,3 @@ The practical implications for the early church were enormous. The Jerusalem col
 ## Prayer
 
 Generous Father, you are the source of every good gift -- you supply seed to the sower and bread for food, and your grace abounds toward us in all things at all times. Forgive us for giving reluctantly or under compulsion, treating generosity as a loss rather than a joyful participation in your own self-giving nature. Teach us to decide in our hearts with freedom and gladness, trusting that you will enlarge both our resources and our harvest of righteousness. Thank you for your indescribable gift -- the Lord Jesus Christ, whose sacrificial love is the wellspring of all true generosity. Make us cheerful givers who reflect your character and cause thanksgiving to overflow to your glory. Through Christ, the Gift beyond words, Amen.
-
----
-*Previous: [../week-33/day-5](../week-33/day-5) | Next: [day-2](day-2)*

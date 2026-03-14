@@ -54,6 +54,3 @@ Festus's summary of Paul's case to Agrippa is revealing for what it includes and
 
 ## Prayer
 Sovereign Lord, you hold the hearts of rulers in your hand and direct the course of empires for your purposes. When Paul stood before a governor who cared more about politics than justice, you had already prepared the path to Rome. Teach us to trust your sovereignty when human systems fail us. Give us the wisdom to use every legitimate means at our disposal while resting in the certainty that your plans cannot be thwarted. When the world reduces the resurrection to a "curious dispute," strengthen our confidence that the question of whether Jesus is alive is the only question that ultimately matters. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

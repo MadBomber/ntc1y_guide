@@ -58,6 +58,3 @@ The chapter closes with a return to the wisdom theme (verses 18-23). "Let no one
 
 ## Prayer
 Holy God, you have made us your temple -- the very place where your Spirit dwells on earth. Forgive us for the ways we desecrate your temple through division, jealousy, and petty rivalry. Expose our spiritual immaturity so that we can grow past it. Show us where we have been building with wood, hay, and straw -- impressive structures that will not survive your testing fire. Teach us to build with gold, with silver, with precious stones -- the durable materials of genuine love, faithful teaching, and sacrificial service. All things are ours because we are Christ's and Christ is yours. Let us live in the freedom and generosity of that truth. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

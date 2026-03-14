@@ -63,6 +63,3 @@ The ascension at Bethany (24:50-53) brings Luke's Gospel to its close with a ges
 
 ## Prayer
 Lord Jesus, walk with us on our Emmaus road. We confess that we often fail to recognize you -- in the Scriptures, in the breaking of bread, in the stranger who draws near. Open our eyes as you opened theirs. Set our hearts on fire with the truth of your word. And when we see you, give us the courage of those two disciples who rose that same hour and ran back through the darkness to tell others what they had seen. You are risen. You are here. You are blessing us still with outstretched hands. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

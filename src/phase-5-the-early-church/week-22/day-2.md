@@ -58,6 +58,3 @@ They drag Stephen outside the city -- the place of execution, as it was for Jesu
 
 ## Prayer
 Lord of all history, you have been at work from Abraham to this very day, and at every turn your people have been slow to recognize your messengers. Forgive us for the ways we resist your Spirit -- clinging to familiar structures rather than following where you lead, defending our institutions rather than hearing your prophets. Give us the courage of Stephen, who spoke truth to power and died praying for his enemies. And when we face opposition for your sake, may our final words be words of forgiveness, not bitterness. Through Jesus Christ, the Righteous One whom Stephen saw standing at your right hand. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

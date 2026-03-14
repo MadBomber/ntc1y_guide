@@ -60,6 +60,3 @@ The calling of the four fishermen (4:18-22) follows a pattern of breathtaking br
 ## Prayer
 
 Lord Jesus, you endured the wilderness and refused every shortcut, choosing the costly path of obedience that would lead to the cross. You called ordinary fishermen to an extraordinary mission and gave them a new identity and purpose. Call us again today. Give us the courage to leave behind whatever nets entangle us -- our securities, our carefully constructed identities, our comfortable routines -- and to follow you with the same immediacy and abandon as those first disciples on the shore of Galilee. You are the light that dawns in our darkness. Let us walk in that light. Amen.
-
----
-*Previous: [../week-03/day-5](../week-03/day-5) | Next: [day-2](day-2)*

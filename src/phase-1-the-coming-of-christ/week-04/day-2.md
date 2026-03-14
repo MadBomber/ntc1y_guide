@@ -66,6 +66,3 @@ The chapter concludes with Jesus withdrawing to a solitary place and, when the c
 ## Prayer
 
 God of the prophets, you sent your Son to proclaim good news to the poor, liberty to the captive, and the year of your favor. When he was rejected by his own, he carried that good news to the nations. Forgive us when we domesticate Jesus, when we think we know him too well to be surprised by him. Open our ears to hear again the word that was fulfilled "today" -- not in some distant past but in our own present moment. Send us, as you sent him, in the power of the Spirit to proclaim release to every captive and recovery of sight to every blind eye. In Jesus' name. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

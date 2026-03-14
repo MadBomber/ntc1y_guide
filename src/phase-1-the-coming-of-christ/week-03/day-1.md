@@ -75,7 +75,3 @@ The passage also demonstrates a sophisticated chiastic structure in the temptati
 ## Prayer Focus
 
 Thank God that Jesus was tested in every way as we are, yet without sin. Ask the Holy Spirit -- the same Spirit who led Jesus into the wilderness -- to strengthen you in times of testing and to bring specific Scriptures to mind when you face temptation.
-
----
-
-*Previous: [../week-02/day-5](../week-02/day-5) | Next: [day-2](day-2)*

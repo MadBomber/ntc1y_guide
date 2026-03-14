@@ -95,6 +95,3 @@ Finally, reflect on the sheer length of Paul's imprisonment -- over two years in
 ## Closing Prayer
 
 Sovereign God, this week we have watched you work through assassination plots and corrupt governors, through legal appeals and Mediterranean storms, through an angel's midnight message and planks from a wrecked ship. Nothing is wasted in your economy. Not Paul's two years in a cell, not the storm that destroyed the ship, not even the cowardice of Felix and the deflection of Agrippa. You use all things -- even the resistance of the powerful and the fury of the sea -- to bring your purposes to their destination. Give us Paul's courage to speak truth to power, his calm in the storm, his tenderness toward those who are almost persuaded, and his unshakeable confidence that the God to whom he belongs will keep every promise. We ask for the faith to trust the planks when the ship is breaking apart, and the hope to stand on the shore and know that you have brought us through. Through Jesus Christ, who calms every storm and opens every prison door. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 40](../week-40/overview)*

@@ -41,6 +41,3 @@ Pray together for:
 - Integrity in ministry and leadership, free from self-interest and manipulation
 - Comfort for those who are grieving, grounded in the hope of the resurrection
 - Holiness in daily life -- especially in areas where the surrounding culture normalizes what God calls sin
-
----
-*Previous: [Day 5](day-5) | Next: [Week 28](../week-28/overview)*

@@ -56,6 +56,3 @@ Paul's five rhetorical questions (6:14-16a) -- What partnership has righteousnes
 
 ## Prayer
 Living God, you have chosen to make your dwelling place not in buildings of stone but in the community of your people. We are humbled and awed that you call us your temple. Purify us from every compromise that dishonors your presence. Give us the courage of Paul, who counted hardship as a credential and paradox as a way of life -- sorrowful yet always rejoicing, poor yet making many rich, having nothing yet possessing everything. Widen our hearts toward you and toward those who faithfully minister your word to us. In Christ's name, Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

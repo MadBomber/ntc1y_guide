@@ -58,6 +58,3 @@ The benediction is not merely a prayer wish; it is a summary of the entire Chris
 ## Prayer
 
 Triune God -- Father of love, Son of grace, Spirit of fellowship -- we come to the end of this extraordinary letter humbled by its depths and challenged by its demands. Search us and test us, as Paul urged the Corinthians. Where we have been examining others while neglecting our own souls, turn our gaze inward with honesty and hope. Where we have sought proof of your power in the wrong places, show us again the cross -- where weakness became the throne of omnipotence. May the grace of the Lord Jesus Christ sustain us in every trial. May the love of God the Father ground us when everything shakes. May the fellowship of the Holy Spirit bind us together in the unity that only you can create. Be with us all. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

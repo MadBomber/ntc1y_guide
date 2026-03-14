@@ -56,6 +56,3 @@ The letter's final theological statement is one of the most concentrated in all 
 
 ## Prayer
 Creator God, you are making all things new. Thank you for the cross of Christ, by which the world's value system has lost its power over us. Teach us to bear one another's burdens with the gentleness of your Spirit. Keep us from growing weary in doing good, and let us trust your timing for the harvest. Let neither our achievements nor our failures define us — only the new creation you are bringing to birth in us and in the world. In Jesus' name. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

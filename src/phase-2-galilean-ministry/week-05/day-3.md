@@ -61,6 +61,3 @@ The chapter's climax (6:25-34) is Jesus' sustained address to anxiety -- the Gre
 ## Prayer
 
 Our Father in heaven, hallowed be your name. We confess that we often practice our faith for human eyes rather than for yours alone. We confess that we worry about tomorrow as though you were not in it. Teach us to pray as Jesus taught, to seek your kingdom first, and to trust that you who feed the birds and clothe the wildflowers will surely provide for us. Free us from the tyranny of anxiety, and anchor our hearts in your unfailing generosity. Through Christ, who taught us to call you Father. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

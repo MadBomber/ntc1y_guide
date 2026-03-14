@@ -62,6 +62,3 @@ Or:
 
 > "If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel's will save it."
 > -- Mark 8:34-35
-
----
-*Previous: [Week 9 Discussion](../week-09/discussion) | [Day 1](day-1) | Next: [Week 11](../week-11/overview)*

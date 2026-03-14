@@ -61,6 +61,3 @@ The chapter closes with two contrasting portraits of faithfulness and abandonmen
 ## Prayer
 
 Father, we thank you for the faith that passes from generation to generation — from grandmothers to mothers to sons and daughters. We confess that our gifts have sometimes grown dim through neglect and fear. Fan into flame what you have placed within us. Replace our timidity with your Spirit of power, love, and self-discipline. Give us the courage to stand unashamed beside those who suffer for the gospel, even when association with them brings reproach. Like Onesiphorus, make us people who search hard for the lonely, the imprisoned, and the abandoned — not shrinking from their chains but refreshing them with our presence. Guard us, and help us guard the good deposit entrusted to us. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

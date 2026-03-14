@@ -61,6 +61,3 @@ Second and Third John are the two shortest books in the New Testament -- each co
 *Or alternatively:*
 
 > "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God. Whoever does not love does not know God, because God is love." -- 1 John 4:7-8
-
----
-*Previous: [Week 49 Discussion](../week-49/discussion) | [Day 1](day-1) | Next: [Week 51](../week-51/overview)*

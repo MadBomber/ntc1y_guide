@@ -55,6 +55,3 @@ The chapter closes with Paul's assertion that the Holy Spirit has been given as 
 ## Prayer
 
 Father of mercies and God of all comfort, you do not waste our suffering. You meet us in the darkest valley and strengthen us so that we may strengthen others. We confess that we too have known seasons of despair -- moments when we were burdened beyond our strength and saw no way forward. Teach us, as you taught Paul, to rely not on ourselves but on you, the God who raises the dead. Thank you that in Christ every promise you have ever made finds its Yes. Thank you for the Holy Spirit, your down payment and guarantee, who seals us for the day of redemption. Make us agents of your comfort -- people who have been broken enough to be gentle, tested enough to be trusted, and healed enough to help others heal. Through Jesus Christ, in whom all your promises are Yes and Amen. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

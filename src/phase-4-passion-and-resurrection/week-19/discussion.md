@@ -56,6 +56,3 @@ Spend time in silent reflection before praying together. Read Luke 23:34 and Joh
 - **Thanksgiving**: For the finished work of atonement -- that nothing needs to be added, that the debt is paid in full.
 - **Intercession**: For those who are suffering unjustly, that they would know the presence of the crucified Christ in their pain.
 - **Commitment**: To live as people for whom the curtain has been torn -- approaching God boldly, extending forgiveness freely, and resting in the completed work of the cross.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 20](../week-20/overview)*

@@ -70,7 +70,3 @@ The literary structure is carefully crafted. John's self-deprecation -- "the str
 - **2 Kings 1:8** -- The description of Elijah's clothing, echoed in John's appearance.
 - **Leviticus 11:22** -- Locusts listed among clean foods permitted under the Law.
 - **John 1:19-28** -- John the Baptist's testimony about himself in the Fourth Gospel.
-
----
-
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

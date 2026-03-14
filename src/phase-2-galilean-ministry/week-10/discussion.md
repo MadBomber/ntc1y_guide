@@ -46,6 +46,3 @@ Compare Peter's experience across the week: he confesses Jesus as the Christ and
 ## Prayer Focus
 
 Pray this week for the courage to answer Jesus' question honestly: "Who do you say that I am?" Ask God to reveal the places where your understanding of Jesus is shaped more by your preferences than by his self-revelation. Pray for the humility of the child Jesus placed in the midst of the disciples -- the willingness to be small, to need help, to receive rather than achieve. And pray for the faith to follow Jesus not only to the mountain of glory but through the valley of suffering, trusting that the road through death leads to resurrection.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 11](../week-11/overview)*

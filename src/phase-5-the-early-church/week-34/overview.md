@@ -59,6 +59,3 @@ Chapter 12 contains the astonishing account of Paul's visionary experience -- ca
 
 > "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me."
 > -- 2 Corinthians 12:9
-
----
-*Previous: [Week 33 Discussion](../week-33/discussion) | [Day 1](day-1) | Next: [Week 35](../week-35/overview)*

@@ -55,6 +55,3 @@ The final two verses (28:30-31) form Luke's epilogue. Paul lives in Rome for "tw
 ## Prayer
 
 Lord of the open ending, your book of Acts has no final chapter because the story is not finished -- the risen Christ is still at work through his Spirit in every generation. We thank you that no chain can bind your word, no empire can silence your gospel, no storm can sink your purposes. Give us the boldness of Paul, who preached the kingdom from a prison room and welcomed all who came. Help us see that our own limitations -- our small platforms, our restricted circumstances, our ordinary lives -- are no hindrance to your extraordinary purposes. And when the response to our witness is divided -- some believing, some refusing -- give us the patience to keep proclaiming and the trust to leave the results with you. Through Jesus Christ, the Lord of the kingdom that cannot be shaken. Amen.
-
----
-*Previous: [../week-39/day-5](../week-39/day-5) | Next: [day-2](day-2)*

@@ -58,6 +58,3 @@ The chapter's conclusion (24:36-51) pivots from signs to readiness. Remarkably, 
 ## Prayer
 
 Lord Jesus, you have told us plainly: you are coming again. You have told us just as plainly: we do not know when. Deliver us from both errors -- the complacency that says "My master is delayed" and the obsession that tries to decode what you have deliberately concealed. Instead, make us faithful servants, found at our posts, doing your work with steady hands and watchful hearts. When the birth pains of this age press in -- war, suffering, injustice, betrayal -- give us the faith to see not chaos but labor, not endings but beginnings. And when you appear in the clouds with power and great glory, may we look up with joy, not fear, knowing that our redemption draws near. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

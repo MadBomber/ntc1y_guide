@@ -54,6 +54,3 @@ The two examples James provides -- Abraham and Rahab -- make his case from oppos
 ## Prayer
 
 Lord Jesus, you showed no favoritism -- you touched lepers, dined with tax collectors, and welcomed sinners while the respectable religious establishment looked on in horror. Forgive us for the ways we give the best seat to wealth and status while marginalizing those you have chosen to be rich in faith. Save us from a faith that is all creed and no conduct, all orthodoxy and no obedience. Like Abraham, bring our faith to maturity through tested obedience. Like Rahab, give us the courage to risk everything on the conviction that you are the true God. Let our faith be a living thing -- not a corpse dressed in theological language but a force that feeds the hungry, shelters the stranger, and demonstrates your character to a watching world. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

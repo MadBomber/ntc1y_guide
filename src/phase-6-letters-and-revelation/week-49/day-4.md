@@ -62,6 +62,3 @@ Peter closes with a remarkable reference to Paul's letters as Scripture (3:15-16
 ## Prayer
 
 Eternal God, for whom a thousand years are as a day and a day as a thousand years, we thank you that your apparent delay is not slowness but patience -- your unwillingness that any should perish, your persistent love that extends the day of grace for repentance. Forgive us when we join the scoffers in doubting your promises, and forgive us when we grow complacent in the comfort of the delay. Awaken us to holy urgency. We look forward to the new heavens and the new earth where righteousness dwells -- not as visitors but as residents, not as strangers but as those who have come home. Until that day, help us to grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

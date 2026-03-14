@@ -43,6 +43,3 @@ Consider the interplay between Romans 16 and Acts 21-22 as a study in contrasts.
 ## Prayer Focus
 
 Pray for the courage to walk toward suffering when God's call is clear, and for the wisdom to distinguish between the Spirit's revelation and human fear. Pray for church leaders who shepherd the flock with the humility and vigilance Paul modeled at Miletus -- leaders who warn of wolves, work with their own hands, and commend their people to God's grace. Pray for communities that reflect the diversity of Romans 16 -- where Phoebe and Priscilla and Junia have space to serve, where slave and free worship side by side, and where no one is given the best seat because of their wealth. Pray for those who face violence and false accusation for the sake of the gospel today, that they would find the calm and clarity Paul displayed on the fortress steps.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 39](../week-39/overview)*

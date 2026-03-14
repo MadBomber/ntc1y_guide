@@ -60,6 +60,3 @@ The chapter ends with Jesus withdrawing across the Jordan to the place where Joh
 ## Prayer
 
 Good Shepherd, you know us by name. You laid down your life not because it was taken from you but because you chose to give it. We are the sheep of your pasture, held in your hand and in the Father's hand, and nothing in all creation can tear us away. Forgive us for listening to the voices of strangers -- the voices of fear, self-reliance, and despair. Tune our ears to your voice alone. Lead us to green pastures and still waters, and when the wolf comes, remind us that you have already defeated him. We rest in your grip, not in our own. Through you, the Shepherd who became the Lamb. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion) -- Weekly Discussion Guide*

@@ -60,6 +60,3 @@ The final two chapters move from theology to ethics. Christian freedom is not a 
 
 > "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law."
 > -- Galatians 5:22-23
-
----
-*Previous: [Week 24 Discussion](../week-24/discussion) | [Day 1](day-1) | Next: [Week 26](../week-26/overview)*

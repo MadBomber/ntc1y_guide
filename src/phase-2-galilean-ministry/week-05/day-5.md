@@ -61,6 +61,3 @@ Luke's parable of the two builders (6:47-49) contains a detail absent from Matth
 ## Prayer
 
 Merciful Father, your Son taught us to love as you love -- without condition, without limit, without regard for what we will receive in return. We confess that our love is often calculated, reserved for those who love us first. Break the boundaries of our hearts. Teach us to bless those who curse us, to do good to those who hate us, and to lend expecting nothing back. Make us merciful as you are merciful, that the world might see in us the family resemblance of your children. Through Jesus Christ, who loved his enemies all the way to the cross. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

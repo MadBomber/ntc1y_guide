@@ -56,6 +56,3 @@ The holiness call (1:13-16) quotes Leviticus 11:44-45: "Be holy, because I am ho
 ## Prayer
 
 Father of our Lord Jesus Christ, we praise you for the living hope you have given us through the resurrection of your Son. When our faith is tested by the fires of adversity, refine us rather than destroy us. Help us to see our trials as your refining work, producing in us a faith more precious than gold. As you called Israel to be holy, so call us out of our former ways into the holiness that reflects your character. We were ransomed not with silver or gold but with the precious blood of Christ -- may we live worthy of so great a price. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

@@ -53,6 +53,3 @@ Peter's denial unfolds in three stages with escalating intensity. First, a serva
 
 ## Prayer
 Lord Jesus, you stood silent before accusers whose minds were already made up, endured the blows of those who mocked your claims, and watched your closest friend deny ever knowing you. We see in this night the worst of what human beings are capable of -- and the best of what divine love will endure. Forgive us for the times we have denied you in small ways and large. Restore us, as you restored Peter, and give us the courage to follow you even when the cost is dear. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

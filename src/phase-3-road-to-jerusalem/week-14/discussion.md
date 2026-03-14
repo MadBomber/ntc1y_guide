@@ -52,6 +52,3 @@ Begin by reading John 11:25-26 aloud: "I am the resurrection and the life. Whoev
 - **For the grieving**: For those who are facing death -- their own, a loved one's, the death of a dream or a relationship. Ask the one who wept at the tomb to be present in their grief, and the one who commands the dead to speak his life-giving word.
 - **For the scattered**: For the "children of God who are scattered abroad" -- for the unity of the church across every division of culture, ethnicity, and tradition. Ask that the death of Christ would accomplish what it was intended to accomplish: gathering the scattered into one.
 - **For faithful stewardship**: For the courage to invest rather than bury, to risk rather than hide, to use the time before the king's return as an opportunity for faithfulness rather than fear.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 15](../week-15/overview)*

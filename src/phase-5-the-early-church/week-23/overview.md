@@ -67,6 +67,3 @@ Then we turn to Acts 9-10, and the pace shifts from pastoral instruction to dram
 
 > "Draw near to God, and he will draw near to you."
 > — James 4:8
-
----
-*Previous: [Week 22 Discussion](../week-22/discussion) | [Day 1](day-1) | Next: [Week 24](../week-24/overview)*

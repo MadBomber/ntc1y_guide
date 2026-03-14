@@ -70,7 +70,3 @@ The combination of voice, Spirit, and Son creates one of the New Testament's cle
 - **Psalm 2:7** -- "You are my Son; today I have begotten you" -- the royal enthronement echoed by the heavenly voice.
 - **Ezekiel 1:1** -- "The heavens were opened, and I saw visions of God" -- the prophetic commissioning parallel.
 - **Matthew 20:28** -- Jesus came "not to be served but to serve, and to give his life as a ransom for many."
-
----
-
-*Previous: [day-4](day-4) | Next: [discussion](discussion) -- Weekly Discussion Guide*

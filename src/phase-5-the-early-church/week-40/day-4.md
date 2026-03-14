@@ -59,6 +59,3 @@ The chapter concludes with a doxology that has become one of the most beloved be
 
 ## Prayer
 Father, from whom every family in heaven and on earth derives its name, we bow our knees before you in wonder. Strengthen us with power through your Spirit in our inner being. Let Christ dwell in our hearts through faith -- not as a visitor but as a permanent resident. Root us and ground us in love so deep that we can begin to comprehend the breadth and length and height and depth of the love of Christ, even though it surpasses our knowledge. Fill us with all your fullness. And now, to you who are able to do immeasurably more than all we ask or imagine, according to the power already at work within us -- to you be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

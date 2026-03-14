@@ -56,6 +56,3 @@ Paul closes with a personal declaration that models the ethic he teaches: "There
 ## Prayer
 
 One God and Father, from whom all things come, and one Lord Jesus Christ, through whom all things exist -- we confess that you alone are God and that every idol is nothing. Yet we also confess that our knowledge has too often puffed us up rather than built others up. Forgive us for wielding our freedom like a weapon rather than laying it down as a gift. Teach us to see in every brother and sister one for whom Christ died, and to measure our maturity not by what we know but by how we love. Give us hearts willing to surrender any right, any freedom, any preference that stands between another person and their walk with you. In the name of Jesus Christ, the Lord of love. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

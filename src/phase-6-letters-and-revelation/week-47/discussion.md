@@ -86,6 +86,3 @@ How does the image of the "cloud of witnesses" change the way you think about yo
 ## Closing Prayer
 
 Father, we have walked this week through the heart of Hebrews and stand amazed at what you have accomplished in Christ. You gave us a new covenant with laws written on our hearts. You opened the Most Holy Place through the blood of your Son, tearing the curtain that separated us from your presence. You have shown us a great cloud of witnesses whose faith endured through fire, exile, and death. Now grant us the grace to run our own race with endurance -- to throw off every weight, to fix our eyes on Jesus, and to hold fast to one another as we approach Mount Zion. Protect us from Esau's folly and from the drift that trades eternal glory for temporary ease. We receive your kingdom that cannot be shaken, and we worship you with reverence and awe -- for you are a consuming fire whose love burns away everything that is not of you. In the name of Jesus, our pioneer and perfecter. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 48](../week-48/overview)*

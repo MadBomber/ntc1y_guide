@@ -52,6 +52,3 @@ Some scholars read this story as a lament rather than a commendation: Jesus is g
 
 ## Prayer
 Lord Jesus, you who see beyond the outward act to the heart's intention, teach us the love that holds nothing back. Free us from the desire for recognition and status that marked the scribes, and give us the widow's quiet courage to offer everything. You are not merely the son of David but the Lord of all; help us to live as if we truly believe it. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

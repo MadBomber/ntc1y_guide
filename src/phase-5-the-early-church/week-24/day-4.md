@@ -56,6 +56,3 @@ The return to Antioch in Syria brings the first missionary journey full circle. 
 
 ## Prayer
 Creator God, you have not left yourself without witness. The rain, the seasons, and the bread on our tables all testify to your goodness. Give us the courage of Paul, who rose from the stones and walked back into the city. Teach us that the path through tribulation is not a detour but the road itself, and that you are faithful to carry us through. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

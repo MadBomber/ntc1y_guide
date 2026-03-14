@@ -56,6 +56,3 @@ Jesus rebukes the spirit with a command that suggests permanence: "You mute and 
 
 ## Prayer
 Lord Jesus, on the mountain you revealed the glory that was yours before the world began, and in the valley you entered the wreckage of a fallen creation to set a tormented boy free. We confess that we, like Peter, want to stay on the mountain and build shelters around our best spiritual experiences. But you call us back into the valley, where suffering waits and faith falters. Meet us in our unbelief. Supply what our faith lacks. Teach us that the power to heal and deliver flows not from our competence but from communion with you. You are the beloved Son -- help us to listen. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

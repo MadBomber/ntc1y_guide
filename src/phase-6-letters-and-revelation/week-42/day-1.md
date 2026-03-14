@@ -56,6 +56,3 @@ The chapter's closing section on giving (4:14-20) reveals the Philippians' extra
 ## Prayer
 
 Lord of all peace, teach us the secret Paul learned — that true contentment is found not in what we have or lack, but in the sufficiency of Christ who strengthens us in every circumstance. Guard our hearts and minds with your peace that passes understanding. Help us to choose rejoicing even when our circumstances argue against it, knowing that you are near. Amen.
-
----
-*Previous: [../../phase-5-the-early-church/week-41/day-5](../../phase-5-the-early-church/week-41/day-5) | Next: [day-2](day-2)*

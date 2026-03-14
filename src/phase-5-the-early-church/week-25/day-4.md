@@ -55,6 +55,3 @@ The chapter closes with a call to consistency: "If we live by the Spirit, let us
 
 ## Prayer
 Holy Spirit, we confess that we have used our freedom as an opportunity for the flesh — for self-indulgence, for rivalry, for every form of the self turned inward. Walk in us and through us today. Produce your fruit in our lives: love that serves, joy that persists, peace that transcends, patience that endures, kindness that reaches, goodness that acts, faithfulness that perseveres, gentleness that yields, and self-control that restrains. Let us keep in step with you. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

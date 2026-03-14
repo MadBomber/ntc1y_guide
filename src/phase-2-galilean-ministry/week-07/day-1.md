@@ -51,6 +51,3 @@ The chapter culminates in one of the most beloved passages in Scripture. After p
 
 ## Prayer
 Lord Jesus, when our circumstances breed doubt and your ways confound our expectations, give us the courage to bring our honest questions to you. Thank you that your kingdom advances through mercy and healing, and that your yoke -- though it demands everything -- gives rest to the weary soul. Teach us to come to you. Amen.
-
----
-*Previous: [../week-06/day-5](../week-06/day-5) | Next: [day-2](day-2)*

@@ -64,6 +64,3 @@ The chapter's devastating conclusion ties everything together: "These were all c
 ## Prayer
 
 God of Abel, Enoch, Noah, Abraham, Sarah, Moses, and Rahab -- God of all who have trusted your promises across the ages -- increase our faith. Where we have reduced faith to intellectual assent, expand it into obedient action. Where we have demanded immediate fulfillment, teach us the patience of those who greeted your promises from a distance. Give us the courage of Moses to choose suffering with your people over the fleeting pleasures of comfort, and the trust of Abraham to surrender even our dearest gifts back to you. May we, together with all who have gone before, be found faithful when the promises are finally and fully realized. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

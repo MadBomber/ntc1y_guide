@@ -57,6 +57,3 @@ The conclusion is one of the most quoted sentences in human literature: "So now 
 ## Prayer
 
 God of love, you who are love itself, we confess that we have pursued gifts without the giver, knowledge without kindness, power without patience. Forgive us for every time we have been a noisy gong -- impressive in volume but empty of love. Form in us the love that is patient when we want to react, kind when we want to withdraw, humble when we want to boast, and generous when we want to keep score. Teach us that faith will become sight, hope will become fulfillment, but love will never end -- for love is your own nature, and to love is to become like you. Until we see you face to face, let love be the way we walk. Through Jesus Christ, who loved us and gave himself for us. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

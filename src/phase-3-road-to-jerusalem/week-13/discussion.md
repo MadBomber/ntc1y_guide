@@ -51,6 +51,3 @@ Begin by reading John 10:27-30 aloud together. Let the promise of the Shepherd's
 - **For the expelled**: For those who have paid a social cost for following Christ -- who have lost community, family approval, or professional standing because of their faith. Ask the Good Shepherd to find them and give them a new flock.
 - **For the indifferent**: For the "rich man" in each of us -- the part that walks past suffering without stopping. Ask God to break through our insulation and make us see the Lazarus at our gate.
 - **For gratitude**: That we would be like the one leper who returned, not the nine who walked away healed but thankless.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 14](../week-14/overview)*

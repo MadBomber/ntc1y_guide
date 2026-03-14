@@ -61,6 +61,3 @@ The departure scene (20:36-38) is raw with emotion. Paul kneels and prays with a
 ## Prayer
 
 Lord Jesus, Good Shepherd who laid down your life for the sheep, we thank you for the example of Paul -- a man who counted his own life as nothing compared to the mission you gave him. Raise up in your church today leaders with his humility, his courage, and his tears. Guard your flock from the wolves without and the deceivers within. Teach us to pay attention to ourselves first, and then to the flock you have purchased with your own blood. When we must say goodbye to those we love in ministry, give us the grace to commend them to you and to the word of your grace, trusting that you are able to build them up and bring them safely to the inheritance. And until that day, may we work with our own hands, give generously, and remember your words: it is more blessed to give than to receive. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

@@ -55,6 +55,3 @@ The chapter ends with a portrait of pastoral joy. Titus himself was encouraged b
 
 ## Prayer
 Merciful Father, you are the God who comforts the downcast and who turns our grief into repentance and our repentance into joy. We confess that too often our sorrow over sin is worldly -- focused on consequences rather than offense against your holiness, driven inward toward despair rather than upward toward your mercy. Grant us the godly grief that produces true repentance without regret. Where relationships have been strained by truth-telling, bring the healing that only honest confrontation and genuine change can produce. Give us pastors who love us enough to weep over us, and give us hearts humble enough to receive correction. Through Jesus, who wept over Jerusalem and rejoices over every sinner who repents, Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

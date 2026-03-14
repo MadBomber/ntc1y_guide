@@ -51,6 +51,3 @@ Jesus closes the chapter with the gift of peace -- "Peace I leave with you; my p
 
 ## Prayer
 Father, we confess that like Philip we often seek to see you while overlooking the one who stands before us. Open our eyes to recognize that in Jesus we see your face, hear your voice, and know your heart. Send your Spirit to teach us, comfort us, and lead us into all truth. Let your peace -- not the fragile peace of the world but the unshakeable peace of Christ -- guard our hearts. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

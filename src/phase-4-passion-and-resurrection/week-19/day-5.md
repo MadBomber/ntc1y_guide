@@ -59,6 +59,3 @@ The burial by Joseph of Arimathea and Nicodemus brings the chapter to its close.
 
 ## Prayer
 Lord Jesus, it is finished. The debt is paid. The sacrifice is complete. The curtain is torn. We do not come to you to add to what you have done but to receive it with empty hands and grateful hearts. You are the Lamb of God who takes away the sin of the world, and your blood speaks a better word than the blood of Abel. We look on you whom we have pierced, and we worship. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

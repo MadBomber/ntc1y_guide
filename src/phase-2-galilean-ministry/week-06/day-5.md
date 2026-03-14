@@ -64,6 +64,3 @@ The chapter concludes with hard sayings about the cost of discipleship (10:34-39
 ## Prayer
 
 Father, you sent your Son into the world, and he sent the Twelve, and he sends us. We confess that we are often more like sheep pretending to be wolves than sheep trusting our Shepherd. We fear human opposition more than we fear you. We cling to our lives rather than losing them for your sake. Give us the wisdom of serpents and the purity of doves. Remind us that you number the hairs on our heads and see every sparrow that falls. Make us bold to confess your Son before others, trusting that he will confess us before you. In the name of Jesus, who lost his life that we might find ours. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

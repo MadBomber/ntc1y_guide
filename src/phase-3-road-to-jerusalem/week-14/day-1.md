@@ -59,6 +59,3 @@ Peter's final question -- "We have left everything and followed you. What then w
 ## Prayer
 
 Creator God, you made us male and female and called it very good. You designed marriage as a mystery of self-giving love that reflects your own faithfulness. Where we have treated your sacred gifts casually, forgive us. Where we have valued possessions over people, wealth over worship, security over surrender, expose the idol and give us the courage to walk away from it rather than from you. We confess that salvation is impossible for us -- that we cannot earn, achieve, or buy our way into your kingdom. We come as children, with nothing in our hands, trusting that with you all things are possible. Through Jesus, who had nowhere to lay his head and yet possessed everything. Amen.
-
----
-*Previous: [../week-13/day-5](../week-13/day-5) | Next: [day-2](day-2)*

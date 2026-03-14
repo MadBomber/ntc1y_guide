@@ -55,6 +55,3 @@ The Greek word exousia (authority) haunts this entire section, even when it is n
 
 ## Prayer
 Sovereign Lord, you have invited us to a feast we did not earn and cannot deserve. Clothe us in the garment of your grace, that we may enter with joy and not be found lacking. Silence in us the desire to test you or trap you with clever questions, and open our hearts to the truth your questions reveal: that you are Lord of all, and all of life hangs on love. Amen.
-
----
-*Previous: [../week-15/day-5](../week-15/day-5) | Next: [day-2](day-2)*

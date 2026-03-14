@@ -52,6 +52,3 @@ It is in Antioch that the disciples were first called "Christians" (Christianoi,
 
 ## Prayer
 Father, you are the God who breaks down walls we never intended to build. Thank you for the courage of Peter, the generosity of Barnabas, and the faithfulness of unnamed believers who carried your gospel across every boundary. Give us eyes to see where your Spirit is already at work among those we have overlooked, and grant us the humility to follow where you lead. Amen.
-
----
-*Previous: [../week-23/day-5](../week-23/day-5) | Next: [day-2](day-2)*

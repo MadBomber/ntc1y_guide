@@ -57,6 +57,3 @@ The chapter's second half shows the released apostles returning to their communi
 
 ## Prayer
 Sovereign Lord, who made the heaven and the earth and the sea and everything in them, you spoke through David about the rulers who conspire against your Anointed. Grant your servants boldness to speak your word, even when the cost is high. Stretch out your hand to heal and to perform signs in the name of Jesus. Build among us the kind of community where no one is in need and your generosity flows freely through your people. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

@@ -53,6 +53,3 @@ The chapter concludes with the death of Herod Agrippa I, which Josephus corrobor
 
 ## Prayer
 Sovereign Lord, you hold the keys to every prison door and every throne room. We grieve with the early church over the loss of James, and we marvel at Peter's deliverance. Teach us to pray with the urgency of those believers gathered at Mary's house, and give us the faith to open the door when your answer comes knocking. You are the God who topples the proud and lifts the humble. May your word increase and multiply in our day. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

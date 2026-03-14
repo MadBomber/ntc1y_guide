@@ -51,6 +51,3 @@ Yet this section is not defeatist. The hatred of the world is itself evidence th
 
 ## Prayer
 Lord Jesus, you are the true vine, and apart from you we can do nothing. Teach us what it means to abide -- not to strive or perform but to remain connected to you as the source of all life and fruitfulness. Give us courage when the world hates us for bearing your name, and remind us that the same Spirit who testifies about you empowers our witness. Prune whatever is fruitless in us, however painful the cut, that we might bear much fruit for your glory. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

@@ -60,6 +60,3 @@ Yet Paul must also account for Israel's refusal. Did they not hear? Yes, they he
 ## Prayer
 
 Lord God, we confess that our zeal for you is often misdirected -- aimed at establishing our own righteousness rather than receiving yours. Thank you that the word of faith is near us, in our mouths and in our hearts. Stir us to confess with our lips and believe in our hearts that Jesus is Lord. And because calling requires hearing, and hearing requires preaching, and preaching requires sending -- send us. Make our feet beautiful with good news. Give us the persistence of your outstretched hands toward those who have not yet believed. Through Christ, the goal and fulfillment of all your promises. Amen.
-
----
-*Previous: [../week-36/day-5](../week-36/day-5) | Next: [day-2](day-2)*

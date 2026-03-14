@@ -56,6 +56,3 @@ The chapter climaxes with one of the most beautiful christological confessions i
 ## Prayer
 
 Lord Jesus, you appeared in the flesh, were vindicated by the Spirit, were seen by angels, proclaimed among the nations, believed on in the world, and taken up in glory. You are the mystery of godliness revealed. Shape the leaders of your church into people who reflect your character — above reproach, faithful in their homes, hospitable to strangers, gentle with the broken, and steadfast in the truth. Guard your church from leaders who seek position without possessing integrity, and raise up servants whose lives adorn the gospel they proclaim. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

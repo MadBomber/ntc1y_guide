@@ -58,6 +58,3 @@ The reference to Timothy's "gift" (charisma) that was given through prophetic ut
 ## Prayer
 
 Creator God, everything you have made is good, and we receive it with thanksgiving. Forgive us when we have despised your gifts or treated the material world as an obstacle to holiness. Train us in godliness — not as a grim duty but as the joyful discipline of athletes pressing toward a worthy prize. We pray for young leaders in your church: give them courage to lead boldly and character to lead well. May they silence every critic not through argument but through the undeniable evidence of lives shaped by your Spirit. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

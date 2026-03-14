@@ -59,6 +59,3 @@ Paul closes with a question that expresses his own sense of awe: "Who is suffici
 ## Prayer
 
 Lord Christ, you lead us in your triumphal procession -- not as victorious generals but as captives of your grace, spreading the fragrance of your knowledge wherever we go. We confess that we have sometimes held grudges when we should have extended forgiveness, and we have sometimes been too cautious to restore those who have repented. Protect us from the schemes of the enemy, who exploits our unforgiveness. Give us the courage to formally reaffirm our love for those who have been disciplined and the humility to recognize that we are not sufficient for any of this in our own strength. Let the aroma of Christ rise from our brokenness, and may it bring life wherever it is received. Through you, the fragrant offering who gave yourself for us. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

@@ -61,6 +61,3 @@ Binding these readings together is the theme of authority. In Mark 3, Jesus demo
 ## [Memory Verse](memory-verse)
 
 > "But seek first the kingdom of God and his righteousness, and all these things will be added to you." -- Matthew 6:33 (ESV)
-
----
-*Previous: [Week 4 Discussion](../../phase-1-the-coming-of-christ/week-04/discussion) | [Day 1](day-1) | Next: [Week 6](../week-06/overview)*

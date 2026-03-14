@@ -63,6 +63,3 @@ The juxtaposition is deliberate. John shows us Jesus confronting religious hypoc
 ## [Memory Verse](memory-verse)
 
 > "Then Jesus again spoke to them, saying, 'I am the Light of the world; the one who follows Me will not walk in the darkness, but will have the Light of life.'" -- John 8:12 (NASB)
-
----
-*Previous: [Week 11 Discussion](../../phase-2-galilean-ministry/week-11/discussion) | [Day 1](day-1) | Next: [Week 13](../week-13/overview)*

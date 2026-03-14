@@ -55,6 +55,3 @@ The Gallio incident (verses 12-17) is one of the most historically significant p
 
 ## Prayer
 Lord God, you told Paul not to be afraid because you had many people in that pagan city. Give us the same courage to speak your truth in places that seem resistant to the gospel. Thank you for the gift of fellow workers -- friends who share our labor and strengthen our hands. When we are weary and afraid, remind us that you are already at work ahead of us, preparing hearts we cannot yet see. In Jesus' name, amen.
-
----
-*Previous: [../week-26/day-5](../week-26/day-5) | Next: [day-2](day-2)*

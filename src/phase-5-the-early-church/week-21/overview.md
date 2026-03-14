@@ -60,6 +60,3 @@ By the end of the week, we see the pattern that will define the early church's e
 
 > "But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth."
 > -- Acts 1:8
-
----
-*Previous: [Week 20 Discussion](../../phase-4-passion-and-resurrection/week-20/discussion) | [Day 1](day-1) | Next: [Week 22](../week-22/overview)*

@@ -62,6 +62,3 @@ The chapter concludes with the parable of new wine in new wineskins (5:36-39), p
 ## Prayer
 
 Holy God, we come to you as Simon Peter came -- aware of our sin, overwhelmed by your power, uncertain whether we dare remain in your presence. Yet you do not send us away. You calm our fears, forgive our failures, and call us to a mission beyond anything we could imagine. You touch what is unclean and make it whole. You sit at table with sinners and call it a feast. Pour your new wine into us, and make us vessels capable of holding it, even if it means breaking the old shapes we have grown comfortable in. In the name of Jesus, who catches us alive. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

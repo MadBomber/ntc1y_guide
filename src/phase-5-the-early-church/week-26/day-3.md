@@ -58,6 +58,3 @@ The morning brings a final twist. The magistrates send word to release Paul and 
 
 ## Prayer
 Lord Jesus, you are worthy of praise in the midnight hours as much as in the daylight. Forgive us for the worship we withhold when circumstances are hard. Give us the faith of Paul and Silas — faith that sings in chains and trusts your power to shake foundations. Open the doors that need opening in our lives and in our world. And when people ask us what they must do to be saved, give us the courage to offer the simple, sufficient answer: believe in the Lord Jesus. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

@@ -52,6 +52,3 @@ The chapter ends with Jesus' return to Nazareth, and the contrast with the prece
 
 ## Prayer
 Father, open our eyes to the surpassing worth of your kingdom. Give us the joy that makes surrender feel like gain and sacrifice feel like freedom. Protect us from the blindness of familiarity, and help us see Jesus with the astonishment he deserves -- not as the carpenter's son, but as the Lord of the kingdom who brings every old promise to its new and glorious fulfillment. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

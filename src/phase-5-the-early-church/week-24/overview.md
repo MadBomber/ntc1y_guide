@@ -64,6 +64,3 @@ The week concludes with the opening chapter of Galatians, likely written from An
 
 > "I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth."
 > -- Acts 13:47
-
----
-*Previous: [Week 23 Discussion](../week-23/discussion) | [Day 1](day-1) | Next: [Week 25](../week-25/overview)*

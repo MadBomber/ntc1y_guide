@@ -58,6 +58,3 @@ Chapters 12-14 then translate Paul's theology into a comprehensive ethic for the
 
 > "Therefore, I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God -- this is your true and proper worship. Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is -- his good, pleasing and perfect will."
 > -- Romans 12:1-2
-
----
-*Previous: [Week 36 Discussion](../week-36/discussion) | [Day 1](day-1) | Next: [Week 38](../week-38/overview)*

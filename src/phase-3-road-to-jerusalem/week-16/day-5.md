@@ -62,6 +62,3 @@ Second, Luke places greater emphasis on the practical posture of believers durin
 ## Prayer
 
 King Jesus, you have told us where to find you. You are in the homeless shelter and the hospital ward, the immigration office and the prison cell, the food pantry and the refugee camp. You have hidden yourself in the faces of those the world overlooks, and you have told us that what we do for the least of these, we do for you. Forgive our blindness. Forgive our indifference. Forgive the comfortable distance we maintain from the suffering that surrounds us. Open our eyes to see you in every hungry face, every shivering body, every lonely prisoner. And when you come in glory with all the angels and sit on your throne, may we hear those words that are worth more than all the world: "Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world." Until that day, give us the endurance to stand and the compassion to serve. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

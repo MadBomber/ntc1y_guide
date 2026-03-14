@@ -61,6 +61,3 @@ The passage closes with the approach of Passover and the gathering of pilgrims i
 ## Prayer
 
 Sovereign God, you take the cynical words of political operators and make them carry the weight of eternal truth. You turn the plots of your enemies into the instruments of salvation. We stand in awe of a wisdom that works through human hostility to accomplish divine love. We thank you that Jesus did not die for one nation alone but for the scattered children of God in every land and every age -- including us. Forgive us when we respond to your signs not with faith but with fear, not with worship but with schemes to maintain our own power and control. Open our eyes to see what Caiaphas could not: that the death of this one man is not a tragedy to be managed but a sacrifice to be received. Through Jesus, the Lamb of God, who takes away the sin of the world. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

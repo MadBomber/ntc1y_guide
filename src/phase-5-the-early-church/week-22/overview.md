@@ -58,6 +58,3 @@ The scattering that follows Stephen's death is one of the great ironies of redem
 
 > "But be doers of the word, and not hearers only, deceiving yourselves."
 > -- James 1:22
-
----
-*Previous: [Week 21 Discussion](../week-21/discussion) | [Day 1](day-1) | Next: [Week 23](../week-23/overview)*

@@ -56,6 +56,3 @@ Paul closes with a direct quotation from Deuteronomy: "Purge the evil person fro
 ## Prayer
 
 Father, you call your people to be holy as you are holy, yet you discipline us not to destroy but to redeem. Give us the courage to speak truth within our communities of faith, the humility to receive correction ourselves, and the wisdom to know the difference between self-righteous judgment and loving accountability. Protect us from the arrogance that tolerates what should grieve us and from the harshness that wounds when it should heal. Make us a people who reflect your holiness and your mercy in equal measure. Through Christ our Passover, who was sacrificed for us. Amen.
-
----
-*Previous: [../week-29/day-5](../week-29/day-5) | Next: [day-2](day-2)*

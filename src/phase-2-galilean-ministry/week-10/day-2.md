@@ -62,6 +62,3 @@ The cost of discipleship section (vv. 24-28) is largely parallel to Mark but inc
 ## Prayer
 
 Father in heaven, we thank you that knowledge of your Son does not depend on our cleverness or virtue but on your gracious revelation. Open our eyes as you opened Peter's. And where, like Peter, we resist the way of the cross, rebuke us with the same fierce love that Jesus showed his disciple. Build your church on the rock of true confession, and give us the authority to loose what you loose and bind what you bind. May we invest our lives in your kingdom -- the only kingdom that the gates of hell cannot destroy. Through Jesus Christ, the Son of the living God. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

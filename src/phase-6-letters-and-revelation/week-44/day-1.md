@@ -57,6 +57,3 @@ The closing charge to the wealthy (6:17-19) is pastoral rather than condemnatory
 ## Prayer
 
 God of all provision, you give life to all things and richly provide us with everything for our enjoyment. Forgive us for loving money more than you — for measuring our security by our accounts rather than by your faithfulness. Teach us the great gain of godliness with contentment. Free us from the tyranny of wanting more, and make us generous stewards who store up treasure that will endure into the coming age. Help us to guard the deposit of the gospel with the same vigilance Timothy was charged to exercise. Amen.
-
----
-*Previous: [../week-43/day-5](../week-43/day-5) | Next: [day-2](day-2)*

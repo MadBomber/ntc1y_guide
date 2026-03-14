@@ -53,6 +53,3 @@ Paul's response is not merely to refute the false teaching but to contrast it wi
 ## Prayer
 
 Lord of grace, you met Paul on the road of violence and transformed the chief persecutor into the chief apostle. We confess that we too have wandered from sound teaching into speculation, from the simplicity of the gospel into controversies that produce nothing. Renew our love for healthy doctrine — teaching that heals, restores, and builds up your church. Give us Paul's honest humility to name our own sin and his unshakeable confidence in your mercy. Amen.
-
----
-*Previous: [../week-42/day-5](../week-42/day-5) | Next: [day-2](day-2)*

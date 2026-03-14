@@ -45,6 +45,3 @@ Pray together for:
 - The courage to embrace "foolishness" in the eyes of the world for the sake of the gospel
 - Spiritual maturity that moves beyond milk to solid food -- from factionalism to genuine love
 - Leaders who embody the cross-shaped pattern of servanthood Paul describes: faithful stewards, not celebrity brands
-
----
-*Previous: [Day 5](day-5) | Next: [Week 30](../week-30/overview)*

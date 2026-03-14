@@ -59,6 +59,3 @@ The instruction to slaves (3:22-25) must be understood within its historical con
 ## Prayer
 
 Father, thank you that our true life is hidden with Christ in you. By your Spirit, help us to put to death what belongs to our earthly nature and to clothe ourselves with the character of Christ — compassion, kindness, humility, gentleness, and patience. Above all, help us to put on love, which binds everything together in perfect unity. May the peace of Christ rule in our hearts and his word dwell in us richly. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

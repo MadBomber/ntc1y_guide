@@ -55,6 +55,3 @@ The chapter also records the division (*schisma*, from which we get "schism") am
 ## Prayer
 
 Lord Jesus, you stood in the temple courts and offered living water to anyone who would come and drink. We confess that we often try to satisfy our deepest thirst with things that leave us empty. Draw us to yourself, the true source of life. Pour out your Spirit within us so that rivers of living water might flow from our hearts to a thirsty world. In your name we pray. Amen.
-
----
-*Previous: [../../phase-2-galilean-ministry/week-11/day-5](../../phase-2-galilean-ministry/week-11/day-5) | Next: [day-2](day-2)*

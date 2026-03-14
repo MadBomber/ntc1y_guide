@@ -56,6 +56,3 @@ The chapter concludes with a warning against presumptuous planning (4:13-17). Me
 
 ## Prayer
 Father, we confess that we have been adulterous in our loyalties, seeking the world's approval while claiming your name. Expose the disordered desires that fuel our conflicts. We submit to you; help us resist the devil. We draw near to you; draw near to us. Cleanse our hands, purify our hearts, and humble us before your throne of grace. Teach us to hold our plans loosely and to say in all things, "If the Lord wills." In Jesus' name. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

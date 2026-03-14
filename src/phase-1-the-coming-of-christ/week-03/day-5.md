@@ -80,7 +80,3 @@ The chapter concludes with Jesus' return to Cana and the healing of a royal offi
 ## Prayer Focus
 
 Thank God that the gospel breaks every human barrier -- ethnic, social, moral, religious. Ask the Holy Spirit to make you a spring of living water that overflows to those around you. Pray for the faith of the royal official -- the willingness to take Jesus at his word and walk forward in trust before seeing the outcome.
-
----
-
-*Previous: [day-4](day-4) | Next: [discussion](discussion) -- Weekly Discussion Guide*

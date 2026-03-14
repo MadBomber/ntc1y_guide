@@ -58,6 +58,3 @@ The chapter closes with an unexpected rupture. Paul and Barnabas disagree sharpl
 
 ## Prayer
 Sovereign God, you guided your early church through its most dangerous theological crisis by the wisdom of your Spirit and the clarity of your Word. Thank you that salvation rests not on our performance but on your grace. Give us the humility of Peter, the courage of Paul, and the wisdom of James as we navigate the questions of our own day. Teach us to hold firm to what is essential and to extend grace in what is not. Amen.
-
----
-*Previous: [../week-25/day-5](../week-25/day-5) | Next: [day-2](day-2)*

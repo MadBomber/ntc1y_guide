@@ -86,6 +86,3 @@ This week we followed Jesus from the harsh silence of the Judean wilderness to t
 ## Closing Prayer
 
 Close your time together by praying through John 3:16-17. Thank God for the depth of his love, for the gift of his Son, and for a mission of salvation rather than condemnation. Ask the Holy Spirit to give each person in the group the new birth that comes from above, the living water that never runs dry, and the courage to cross every barrier for the sake of the gospel.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 4](../week-04/overview)*

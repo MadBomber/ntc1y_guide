@@ -58,6 +58,3 @@ The chapter closes with one of Paul's greatest prayers (1:15-23). He prays that 
 ## Prayer
 
 Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places. You chose us before the foundation of the world, not because of anything in us but because of everything in you. You adopted us as your children, redeemed us by the blood of your Son, and sealed us with your Spirit as the guarantee of all that is still to come. Open the eyes of our hearts to see the hope of your calling, the riches of your inheritance, and the immeasurable greatness of your power -- the same power that raised Jesus from the dead and seated him at your right hand, far above every name that is named. Fill us with the Spirit of wisdom and revelation, that we might know you -- not just know about you, but know you. To the praise of your glorious grace. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

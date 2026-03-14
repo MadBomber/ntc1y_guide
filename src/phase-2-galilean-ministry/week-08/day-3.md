@@ -55,6 +55,3 @@ The chapter closes with a summary of healing activity at Gennesaret, a fertile p
 
 ## Prayer
 God of the wilderness and the sea, you fed your people with manna and stilled the waters of chaos. Open our hardened hearts to perceive what your works reveal about your identity. When we strain at the oars against the wind, come to us across the waves and speak the word that silences our fear: "It is I. Do not be afraid." Teach us that your provision is always more than enough. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

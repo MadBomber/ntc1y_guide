@@ -58,6 +58,3 @@ Verse 14 completes the theological summary: Christ "gave himself for us to redee
 ## Prayer
 
 God of grace, you have appeared in the person of your Son — not to leave us as we are, but to train us in the art of godly living. Teach us to say no to the ungodliness that once defined us, and yes to the self-controlled, upright, and godly life you have called us to live in this present age. Fill us with the blessed hope of Christ's glorious appearing, so that our waiting is not passive resignation but eager, expectant faithfulness. Make us your own people — redeemed, purified, and zealous for the good works that make your gospel beautiful to a watching world. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

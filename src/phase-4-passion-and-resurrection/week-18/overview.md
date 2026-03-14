@@ -59,6 +59,3 @@ The arrest, trials, and denials that follow expose the worst of human nature in 
 
 > "And this is eternal life, that they know you, the only true God, and Jesus Christ whom you have sent."
 > -- John 17:3
-
----
-*Previous: [Week 17 Discussion](../week-17/discussion) | [Day 1](day-1) | Next: [Week 19](../week-19/overview)*

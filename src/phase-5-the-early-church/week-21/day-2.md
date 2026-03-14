@@ -56,6 +56,3 @@ The chapter closes with a portrait of the newborn community that has shaped Chri
 
 ## Prayer
 Holy Spirit, you came with wind and fire to create a community of bold witnesses. Thank you for the gift of your presence -- the same power that raised Jesus from the dead now dwells in your people. Renew in us the devotion of the early church: hunger for the apostles' teaching, depth of fellowship, joy in the breaking of bread, and faithfulness in prayer. Add to your church daily those who are being saved. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

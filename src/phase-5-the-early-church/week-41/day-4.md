@@ -55,6 +55,3 @@ The chapter concludes with Paul's commendation of Timothy and Epaphroditus (2:19
 
 ## Prayer
 Lord Jesus Christ, who being in the form of God did not grasp at equality but emptied yourself for our sake -- we bow before the mystery of your descent. You who held the stars in your hands took the form of a slave. You who spoke the universe into being became obedient to the point of death, even death on a cross. And therefore God has given you the name above every name. We confess with every creature in heaven and on earth and under the earth: Jesus Christ is Lord, to the glory of God the Father. Give us your mind -- the mind that relinquishes privilege, embraces humility, and trusts the Father to exalt in his own time. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

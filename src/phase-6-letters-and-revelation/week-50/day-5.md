@@ -66,6 +66,3 @@ The juxtaposition of 2 John and 3 John reveals a delicate balance. Second John w
 ## Prayer
 
 Father, we thank you for the testimony of your apostle John, who heard, saw, and touched the Word of life and faithfully transmitted that testimony to us. Grant us the overcoming faith that conquers the world -- not through our strength but through the new birth you have given us in Christ. Thank you that we can know we have eternal life, grounded not in our feelings but in your faithful testimony. Give us the wisdom of 2 John -- to guard the truth against those who would corrupt it -- and the generosity of 3 John -- to welcome and support those who carry the truth to the nations. Deliver us from the spirit of Diotrephes who loves to be first, and fill us with the spirit of Gaius who loves to serve. We love because you first loved us. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

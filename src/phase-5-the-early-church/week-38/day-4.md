@@ -60,6 +60,3 @@ It is from these steps -- suspended between the Temple and the garrison, between
 ## Prayer
 
 Lord God, you called Paul to walk toward suffering with his eyes wide open, and he obeyed -- not because he was fearless but because he valued your mission more than his own safety. Give us that same courage when the path you set before us leads through difficulty. Teach us the wisdom to distinguish between what your Spirit reveals and what our fears project, and give us the grace to say with Paul's companions, "Let the will of the Lord be done." Where cultural barriers divide your people, make us bridge-builders who accommodate without compromising and who hold convictions without creating unnecessary offense. And when false accusations arise, when the mob shouts and the truth is lost in the noise, anchor us in the confidence that you are sovereign over every courtroom, every mob, and every chain. Through Jesus Christ, who set his face toward Jerusalem and did not turn back. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

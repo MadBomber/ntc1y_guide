@@ -68,6 +68,3 @@ Together, these readings form a bridge between the preparations of Weeks 1-2 and
 ## [Memory Verse](memory-verse)
 
 > "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him." -- John 3:16-17 (ESV)
-
----
-*Previous: [Week 2 Discussion](../week-02/discussion) | [Day 1](day-1) | Next: [Week 4](../week-04/overview)*

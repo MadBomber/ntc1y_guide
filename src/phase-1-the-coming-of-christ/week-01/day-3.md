@@ -62,6 +62,3 @@ The final verses of the Benedictus reach a crescendo of beauty: "the sunrise sha
 ## Prayer
 
 God of the Magnificat and the Benedictus, you scatter the proud and lift up the lowly. You fill the hungry and remember your mercy. Teach us to sing your praises even when we cannot yet see the fulfillment of your promises. Like Mary, may we trust your word even when it overturns our expectations. Like Zechariah, may seasons of silence lead us to deeper praise. We bless you, Lord God of Israel, for you have visited and redeemed your people. Through Christ, the sunrise from on high. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

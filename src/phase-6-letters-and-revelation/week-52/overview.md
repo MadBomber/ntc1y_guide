@@ -63,6 +63,3 @@ The book's final chapters (21-22) bring the entire biblical narrative to its bre
 *Or alternatively:*
 
 > "He who testifies to these things says, 'Yes, I am coming soon.' Amen. Come, Lord Jesus." -- Revelation 22:20
-
----
-*Previous: [Week 51 Discussion](../week-51/discussion) | [Day 1](day-1)*

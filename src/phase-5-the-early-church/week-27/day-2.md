@@ -55,6 +55,3 @@ The chapter closes with what many scholars consider a primitive Christian creeda
 
 ## Prayer
 Father, we thank you for the faith of those who came before us and who became models of your grace under pressure. Produce in us the same work of faith, labor of love, and steadfastness of hope that marked the Thessalonian church. When affliction comes, grant us the joy that only your Spirit can give -- a joy that does not deny the pain but transcends it. Turn our hearts fully to you, away from every idol that competes for our worship. We wait for your Son from heaven. Come, Lord Jesus. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

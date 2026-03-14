@@ -59,6 +59,3 @@ Jesus' closing words are the chapter's theological thesis: "For judgment I came 
 ## Prayer
 
 Lord Jesus, Light of the World, we confess that we are often more like the Pharisees than the blind man. We claim to see when we are stumbling in darkness. We defend our positions instead of opening our eyes. We fear the cost of confession more than we fear the darkness of denial. Open our eyes as you opened his. Give us the courage to say what we know to be true, even when the cost is high. And when opposition comes, use it not to silence our faith but to deepen it, until we too fall before you and say, "Lord, I believe." Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

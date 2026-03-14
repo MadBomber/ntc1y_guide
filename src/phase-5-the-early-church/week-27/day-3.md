@@ -57,6 +57,3 @@ The chapter closes with an outpouring of personal emotion. Paul describes his fo
 
 ## Prayer
 Father, we thank you for leaders who have loved us not for what they could get from us but for what they could give. Guard your church from flattery, greed, and selfish ambition in ministry. Make us people of integrity whose words match our lives. Let your Word be at work in us -- not as dead letters on a page but as living power that transforms us from the inside out. And give us the joy of investing in others so deeply that they become our crown of rejoicing when Jesus returns. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

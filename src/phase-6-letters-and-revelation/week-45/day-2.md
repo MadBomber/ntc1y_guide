@@ -52,6 +52,3 @@ The contrast Paul draws in this chapter is stark: evil people and imposters will
 
 ## Prayer
 Father, we confess that we live in difficult times and that the pressures of a godless culture press in on us from every side. Protect us from the form of godliness that denies its power. Root us deeply in Your God-breathed Scriptures so that we may be taught, rebuked, corrected, and trained in righteousness. Make us people who are thoroughly equipped not for our own comfort but for every good work You have prepared for us. Give us the courage to endure persecution and the wisdom to distinguish truth from counterfeit. In the name of Jesus, who is Himself the living Word. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

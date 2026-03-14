@@ -58,6 +58,3 @@ The religious leaders respond immediately. They challenge Jesus' authority, aski
 
 > "And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength. The second is this: You shall love your neighbor as yourself. There is no other commandment greater than these."
 > -- Mark 12:30-31
-
----
-*Previous: [Week 14 Discussion](../week-14/discussion) | [Day 1](day-1) | Next: [Week 16](../week-16/overview)*

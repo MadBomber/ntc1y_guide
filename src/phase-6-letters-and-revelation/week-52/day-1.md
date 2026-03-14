@@ -59,6 +59,3 @@ Second, John sees an innumerable multitude "from every nation, tribe, people and
 ## Prayer
 
 Sovereign Lord, holy and true, as we begin this final week of our year-long journey, we stand in awe before the unfolding of your purposes. When we see the horsemen riding -- when conquest, war, famine, and death seem to have the upper hand -- remind us that the Lamb who opens the seals is also the Shepherd who leads to living water. We add our voices to the martyrs' cry: "How long?" -- and we trust your answer that every act of faithfulness is measured and remembered. Thank you for the vision of the great multitude -- people from every nation, washed white in the Lamb's blood. Seal us, Lord. Mark us as your own. And bring us at last to the place where every tear is wiped away. Amen.
-
----
-*Previous: [../week-51/day-5](../week-51/day-5) | Next: [day-2](day-2)*

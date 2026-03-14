@@ -59,6 +59,3 @@ These five days take us from Paul's deathbed to the theological heights of Hebre
 > "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work." -- 2 Timothy 3:16-17
 
 > "I have fought the good fight, I have finished the race, I have kept the faith." -- 2 Timothy 4:7
-
----
-*Previous: [Week 44 Discussion](../week-44/discussion) | [Day 1](day-1) | Next: [Week 46](../week-46/overview)*

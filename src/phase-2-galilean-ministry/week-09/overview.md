@@ -61,6 +61,3 @@ The week's narratives extend this boundary-crossing logic into practice. Jesus h
 
 > "Simon Peter answered him, 'Lord, to whom shall we go? You have the words of eternal life.'"
 > -- John 6:68
-
----
-*Previous: [Week 8 Discussion](../week-08/discussion) | [Day 1](day-1) | Next: [Week 10](../week-10/overview)*

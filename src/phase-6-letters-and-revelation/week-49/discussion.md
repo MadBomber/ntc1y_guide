@@ -89,6 +89,3 @@ These two passages form a beautiful pair: we cast our anxieties on God because h
 ## Closing Prayer
 
 God of all grace, who called us to your eternal glory in Christ -- we thank you for the rich feast of this week's readings. Through Peter, you have shown us what faithful shepherding looks like: willing, eager, exemplary, humble. Through Peter again, you have warned us of the false teachers who twist your grace into license and the scoffers who mock your patience. Through Jude, you have called us to contend earnestly for the faith once delivered. We cast all our anxiety on you, because you care for us. We resist the roaring lion, standing firm in the faith we share with believers around the world. We look forward to the new heavens and the new earth, where righteousness dwells. And we rest in the confidence that you are able to keep us from stumbling and to present us before your glorious presence without fault and with great joy. To you, our only God and Savior, through Jesus Christ our Lord, be glory, majesty, power, and authority, before all ages, now, and forevermore. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 50](../week-50/overview)*

@@ -54,6 +54,3 @@ Paul's prayer in verses 11-12 focuses on the present implications of this future
 
 ## Prayer
 Righteous Judge, we confess that the injustice of this world sometimes overwhelms us. We see the wicked prosper and the faithful suffer, and our hearts cry out, "How long, O Lord?" Thank you for the promise that you will repay, that you will grant rest to the afflicted, and that your Son will be revealed in blazing glory. Until that day, make us worthy of your calling. Fulfill every good intention we have by your power, so that the name of Jesus may be glorified in us, and we in him. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

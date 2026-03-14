@@ -59,6 +59,3 @@ The thread connecting these diverse chapters is hope -- the certain hope of bodi
 
 > "Where, O death, is your victory? Where, O death, is your sting? The sting of death is sin, and the power of sin is the law. But thanks be to God! He gives us the victory through our Lord Jesus Christ."
 > -- 1 Corinthians 15:55-57
-
----
-*Previous: [Week 31 Discussion](../week-31/discussion) | [Day 1](day-1) | Next: [Week 33](../week-33/overview)*

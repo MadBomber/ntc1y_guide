@@ -59,6 +59,3 @@ The chapter closes by contrasting Levitical priests with Jesus. The former were 
 ## Prayer
 
 Lord Jesus, priest forever after the order of Melchizedek, we marvel at the argument of Scripture that reveals your priesthood as older than Aaron's, greater than Levi's, and permanent beyond all succession. You did not take this honor upon yourself; the Father appointed you with an oath that can never be revoked. And now you live forever to intercede for us -- not as a distant advocate filing reports on our behalf, but as the risen Son whose very presence before the Father guarantees our acceptance. Save us completely. Save us to the uttermost. Save us forever. Let the reality of your unending intercession give us boldness to approach the throne of grace today, knowing that we come not on the strength of our own worthiness but on the power of your indestructible life. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

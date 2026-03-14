@@ -58,6 +58,3 @@ The closing section (3:19-24) addresses the problem of a condemning heart. In a 
 ## Prayer
 
 Father, we stand in awe at the love you have lavished on us -- love so extraordinary it must come from another world entirely. Thank you for calling us your children and for the promise that one day we will see Christ as he truly is and be transformed into his likeness. Forgive us when our love remains in words and speech rather than in action and truth. Open our hands and our resources to brothers and sisters in need, that the self-giving love of the cross might become visible in the way we share our lives. And when our hearts condemn us, remind us that you are greater than our hearts. You know everything -- including the atoning work of your Son that covers all our failures. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

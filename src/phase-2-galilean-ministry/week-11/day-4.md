@@ -58,6 +58,3 @@ The chapter's final section (vv. 37-54) contains six woes -- three directed at t
 ## Prayer
 
 Father -- simply Father -- we come to you not because we have earned access but because you have invited us. Teach us to pray with the shamelessness of the friend at midnight, not because you are reluctant but because persistence teaches us how much we need you. By your finger, break the power of every stronghold in our lives. Fill the empty spaces we have swept clean so that no returning evil finds a welcome. And save us from the religion of the Pharisees -- the polished exterior that hides a hollow interior. May our cups be as clean inside as out. Through Jesus, who is greater than Jonah, greater than Solomon, and who speaks the word that sets the captives free. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

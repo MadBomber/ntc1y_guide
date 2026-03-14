@@ -59,6 +59,3 @@ The chapter concludes with a second feeding miracle -- four thousand men, plus w
 ## Prayer
 
 Father, search our hearts and expose the impurity that no ritual washing can remove -- the evil thoughts, the envy, the slander, the pride that defile us from within. Cleanse us not with water but with the truth of your Word. And give us the faith of the Canaanite woman, who would not be turned away but trusted that your mercy is vast enough even for those who seem to have no claim on it. Expand our vision of your table until it matches the scope of your love -- wide enough for every tribe and tongue and nation. Through Christ our Lord. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

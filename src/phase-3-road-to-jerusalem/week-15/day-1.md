@@ -52,6 +52,3 @@ The theological architecture of this passage is remarkable. Three prophetic acti
 
 ## Prayer
 Lord Jesus, you entered Jerusalem not with the power of armies but with the authority of humble truth. Search our hearts as you searched the Temple: expose what is corrupt, uproot what is fruitless, and plant in us a faith that moves mountains. Teach us to worship you in spirit and in truth, not merely in the outward forms of religion. Amen.
-
----
-*Previous: [../week-14/day-5](../week-14/day-5) | Next: [day-2](day-2)*

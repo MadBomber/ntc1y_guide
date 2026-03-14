@@ -59,6 +59,3 @@ By the end of the week, we encounter the full spectrum of responses to Jesus: th
 
 > "Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light."
 > -- Matthew 11:28-30
-
----
-*Previous: [Week 6 Discussion](../week-06/discussion) | [Day 1](day-1) | Next: [Week 8](../week-08/overview)*

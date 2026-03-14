@@ -57,6 +57,3 @@ It is during this Corinthian stay, around 50-51 AD, that Paul writes his two let
 
 > "For the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And the dead in Christ will rise first. Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord."
 > -- 1 Thessalonians 4:16-17
-
----
-*Previous: [Week 26 Discussion](../week-26/discussion) | [Day 1](day-1) | Next: [Week 28](../week-28/overview)*

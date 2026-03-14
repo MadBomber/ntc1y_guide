@@ -57,6 +57,3 @@ This reaches its apex in verse 58: "Before Abraham was, I am" (*prin Abraam gene
 ## Prayer
 
 Lord Jesus, Light of the World, we come to you out of our darkness. We confess that we are often more like the accusers than the accused -- quick to judge, slow to examine our own hearts. Thank you that you do not condemn us but call us to leave our sin behind and walk in your light. Give us the courage to believe that you are who you claim to be -- the eternal I AM, full of grace and truth. Shine in our darkness today. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

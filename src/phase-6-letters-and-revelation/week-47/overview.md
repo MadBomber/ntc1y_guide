@@ -61,6 +61,3 @@ Chapter 12 then draws the practical conclusion. With such a "great cloud of witn
 *Or alternatively:*
 
 > "Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith." -- Hebrews 12:1-2
-
----
-*Previous: [Week 46 Discussion](../week-46/discussion) | [Day 1](day-1) | Next: [Week 48](../week-48/overview)*

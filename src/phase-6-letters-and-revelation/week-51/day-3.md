@@ -61,6 +61,3 @@ The chapter's most beloved verse follows: "Behold, I stand at the door and knock
 
 ## Prayer
 Lord Jesus, faithful and true witness, who holds the key of David and whose eyes are like a flame of fire — we ask you to search us as you searched your churches in Asia Minor. Where we are living on reputation rather than reality, wake us up. Where we are faithful with little power, open doors that no one can shut. Where we are rich and in need of nothing, show us our poverty and blindness. We hear you knocking. We open the door. Come in, sit at our table, and restore to us the fellowship we have lost through our complacency and self-sufficiency. To the one who conquers, you promise a seat on your throne. Make us overcomers — not by our own strength but by your relentless, pursuing grace. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

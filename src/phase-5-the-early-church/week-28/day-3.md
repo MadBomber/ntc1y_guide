@@ -54,6 +54,3 @@ The chapter pivots sharply in verses 13-17 from terrifying apocalyptic imagery t
 
 ## Prayer
 Sovereign Lord, you hold all things in your hand -- even the forces of darkness operate only within the boundaries you set. Protect us from the deceptions of the evil one and from the seductive power of counterfeit signs. Give us a love for the truth so deep that no lie can dislodge it. When confusion swirls around us, anchor us to the apostolic gospel that has been handed down through the centuries. And hasten the day when the breath of your mouth will destroy every pretender and the brightness of your coming will illuminate the whole earth. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

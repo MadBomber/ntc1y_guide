@@ -64,6 +64,3 @@ The week concludes in two of the great intellectual centers of the ancient world
 
 > "For in him we live and move and have our being."
 > -- Acts 17:28
-
----
-*Previous: [Week 25 Discussion](../week-25/discussion) | [Day 1](day-1) | Next: [Week 27](../week-27/overview)*

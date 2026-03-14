@@ -1161,6 +1161,90 @@ tr:hover td {
   margin-left: auto;
 }
 
+/* --- Week Navigation Bar --- */
+
+.week-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 2.5rem 0 1.5rem;
+  padding: 1rem 0;
+  border-top: 1px solid var(--border-color);
+}
+
+.week-nav-arrow {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--purple-mid);
+  white-space: nowrap;
+  min-width: 5.5rem;
+  transition: color 0.15s;
+}
+
+.week-nav-arrow:first-child {
+  text-align: right;
+}
+
+.week-nav-arrow:last-child {
+  text-align: left;
+}
+
+.week-nav-arrow:hover {
+  color: var(--purple-deep);
+}
+
+.week-nav-pages {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  background: var(--bg-surface-alt);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  padding: 0.25rem;
+}
+
+.week-nav-page {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--text-secondary);
+  padding: 0.35rem 0.6rem;
+  border-radius: calc(var(--radius) - 2px);
+  transition: background 0.15s, color 0.15s;
+}
+
+.week-nav-page:hover {
+  background: var(--purple-faint);
+  color: var(--purple-mid);
+}
+
+.week-nav-page.current {
+  background: var(--purple-mid);
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  .week-nav {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .week-nav-arrow {
+    min-width: auto;
+    font-size: 0.8rem;
+  }
+
+  .week-nav-pages {
+    order: -1;
+    width: 100%;
+    justify-content: center;
+  }
+}
+
 @media (max-width: 600px) {
   .mv-verse-row {
     flex-direction: column;
@@ -1701,7 +1785,8 @@ button.toolbar-icon {
   .page-discussions,
   .site-footer,
   .day-complete-container,
-  .page-nav {
+  .page-nav,
+  .week-nav {
     display: none !important;
   }
 

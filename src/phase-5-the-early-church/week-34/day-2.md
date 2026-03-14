@@ -56,6 +56,3 @@ The closing verses (12-18) introduce a theme that will dominate chapters 11-12: 
 ## Prayer
 
 Almighty God, you have given us weapons that are not of this world -- weapons with divine power to demolish strongholds, tear down arguments, and take captive every thought for obedience to Christ. Forgive us for reaching instead for the world's weapons: impressive speech, social status, clever strategies, and self-promotion. Teach us that true authority is for building up, not tearing down; that true confidence is found in what you have done, not in what we can claim. Deliver us from the foolishness of comparing ourselves with one another, and fix our eyes on the only commendation that matters -- yours. May we boast in you alone, and may your power flow through our weakness to demolish every wall that stands against the knowledge of your Son. Through Christ our Commander, Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

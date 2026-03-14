@@ -59,6 +59,3 @@ The chapter closes with the healing of two blind men near Jericho (vv. 29-34), a
 ## Prayer
 
 Generous God, your grace offends our accounting. We want to be paid by the hour, to receive in proportion to our effort, to earn what we get. Forgive the evil eye that envies your goodness to others. Teach us to rejoice when the last receive the same as the first, because your generosity diminishes no one. Transform our understanding of greatness -- from thrones to towels, from authority to service, from being served to serving. We stand in awe of your Son, who came not to be ministered to but to minister, and to give his life as a ransom for many -- including us. May his self-giving love become the pattern for our own. Through Jesus Christ, the servant King. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

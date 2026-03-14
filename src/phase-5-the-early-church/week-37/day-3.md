@@ -60,6 +60,3 @@ For the Roman house churches, divided along ethnic lines and vulnerable to imper
 ## Prayer
 
 Merciful God, in view of all you have done for us, we offer our bodies -- our hands, our feet, our mouths, our minds -- as living sacrifices on the altar of your grace. Transform us from the inside out. Renew our minds so that we see the world the way you see it. Give us sober judgment about ourselves and generous admiration for others. Where evil presses in, give us the courage to respond with good -- not because we are strong, but because you have overcome the world. May our love be sincere, our devotion mutual, and our hope unshakable. Through Christ, who gave himself as the ultimate sacrifice. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

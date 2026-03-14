@@ -58,6 +58,3 @@ The chapter closes with Jesus' lament over Jerusalem (13:34-35), one of the most
 ## Prayer
 
 Father, we hear the urgency in Jesus' voice as he calls us to repentance, and we feel the tenderness in his lament over those who refuse. We do not want to be like the barren fig tree, receiving grace year after year without bearing fruit. Search our hearts today. Show us where we need to turn, and give us the courage to do it. We thank you for your patience, and we ask that it lead us not to complacency but to genuine transformation. Through Christ our Lord. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

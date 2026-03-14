@@ -50,6 +50,3 @@ The chapter's final movement is Peter's denial foretold. Jesus' words are remark
 
 ## Prayer
 Lord Jesus, you broke bread on the night you were betrayed and turned the oldest feast of deliverance into the newest covenant of grace. Forgive us for the times we argue about our own greatness while you pour out your life for us. Thank you that even when we fail, you intercede for us and commission us to strengthen others. Teach us to be servants. Amen.
-
----
-*Previous: [../../phase-3-road-to-jerusalem/week-16/day-5](../../phase-3-road-to-jerusalem/week-16/day-5) | Next: [day-2](day-2)*

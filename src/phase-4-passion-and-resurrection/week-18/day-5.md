@@ -55,6 +55,3 @@ Mark's spare, relentless prose drives the narrative forward without commentary o
 
 ## Prayer
 Lord Jesus, you stood before the power of empire and the fury of the crowd, and you did not open your mouth in your own defense. You accepted the scourge, the thorns, the spit, and the mockery -- not because you were powerless but because your love was stronger than their cruelty. Open our eyes to see in your suffering not weakness but the most radical exercise of power the world has ever known: the power to save by absorbing the worst that humanity could inflict. You are the King they crowned in contempt and the Savior who set Barabbas free. You are our Barabbas substitute. We worship you. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

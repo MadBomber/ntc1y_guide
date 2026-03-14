@@ -57,6 +57,3 @@ This week we encounter Paul at his most direct and his most pastoral. In chapter
 
 > "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies."
 > -- 1 Corinthians 6:19-20
-
----
-*Previous: [Week 29 Discussion](../week-29/discussion) | [Day 1](day-1) | Next: [Week 31](../week-31/overview)*

@@ -52,6 +52,3 @@ Felix's response is one of the most tragic sentences in Scripture: "Go away for 
 
 ## Prayer
 Righteous Judge, you spoke through Paul about righteousness, self-control, and the judgment to come, and even a corrupt governor trembled. Save us from the tragedy of Felix -- from hearing your truth and dismissing it, from recognizing your kairos and letting it pass. Give us the courage to respond immediately to your word, not with the procrastination that hardens the heart, but with the repentance that leads to life. Let your gospel confront us at the very points of our deepest compromise. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

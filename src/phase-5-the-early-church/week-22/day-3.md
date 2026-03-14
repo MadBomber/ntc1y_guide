@@ -58,6 +58,3 @@ After the baptism, the Spirit snatches Philip away, and the eunuch "went on his 
 
 ## Prayer
 God of the scattered and the searching, you turned persecution into proclamation and used violence against your church to advance your kingdom. Forgive us when we cling to comfort rather than obedience, when we hoard the gospel rather than carry it across every barrier of race, culture, and social exclusion. Send us, like Philip, to the unexpected places where searching hearts are reading your word and waiting for someone to explain it. And give us the joy of the Ethiopian, who went on his way rejoicing because he had found the Lamb in the pages of Scripture. In Christ's name. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

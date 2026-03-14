@@ -57,6 +57,3 @@ The atonement theology of 2:24 draws directly on Isaiah 53: "He himself bore our
 
 ## Prayer
 Lord Jesus Christ, the living stone rejected by the builders but chosen and precious in God's sight — build us into your spiritual house. Make us living stones, firmly set in the foundation of your grace. You are our cornerstone; without you, our lives are rubble. Thank you for bearing our sins in your body on the tree, that we might die to sin and live to righteousness. By your wounds we have been healed. Teach us to follow your example when we suffer — not retaliating, not threatening, but entrusting ourselves to the Father who judges justly. And may our good conduct among those who do not yet know you silence every slander and point every observer toward the one who called us out of darkness into his wonderful light. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

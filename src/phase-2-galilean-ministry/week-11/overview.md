@@ -59,6 +59,3 @@ What emerges across these readings is a portrait of a community utterly unlike t
 
 > "He answered, 'Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind'; and, 'Love your neighbor as yourself.'"
 > -- Luke 10:27
-
----
-*Previous: [Week 10 Discussion](../week-10/discussion) | [Day 1](day-1) | Next: [Week 12](../../phase-3-road-to-jerusalem/week-12/overview)*

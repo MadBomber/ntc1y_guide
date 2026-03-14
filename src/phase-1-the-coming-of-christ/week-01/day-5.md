@@ -59,6 +59,3 @@ Then the heavens open and a multitude of the heavenly host appears, praising God
 ## Prayer
 
 Lord Jesus, you who spoke the stars into existence were laid in a feeding trough. You who are worshiped by angels were announced to shepherds on a hillside. You who hold all authority in heaven and earth entered the world in weakness and poverty. Forgive us for seeking you in places of power and prestige when you have always made yourself known among the humble and the hungry. Open our ears to hear the angels' song: glory to God in the highest, and on earth peace. May we, like the shepherds, go and tell what we have seen and heard. In your holy name. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion) -- Weekly Discussion Guide*

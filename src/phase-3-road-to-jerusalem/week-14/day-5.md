@@ -64,6 +64,3 @@ The mina is taken from the fearful servant and given to the one who has ten, pro
 ## Prayer
 
 Lord Jesus, you looked up into a sycamore tree and called a thief by name. You invited yourself to the table of a man everyone else had written off. We thank you that your mission is to seek and save the lost -- not the respectable, not the qualified, not the deserving, but the lost. Find us in our own trees of desperation and dignity, and call us down to receive you. Transform our greed into generosity, our exploitation into restitution, our fear into faithful risk. And in the time between your departure and your return, give us the courage to invest what you have entrusted to us rather than burying it in the cloth of our own anxiety. Through Jesus, who came to seek and save the lost. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

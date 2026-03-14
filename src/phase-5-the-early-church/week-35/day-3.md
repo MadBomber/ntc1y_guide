@@ -60,6 +60,3 @@ Paul's argument in chapter 2 serves a crucial structural function in the letter.
 ## Prayer
 
 Righteous Judge, you show no partiality. You do not look at the outward appearance but at the heart. We confess that we have relied on our religious identities, our theological knowledge, and our moral superiority to shield us from your searching gaze. Forgive us for judging others while practicing the very things we condemn. Forgive us for bearing your name in ways that bring reproach rather than glory. Circumcise our hearts by your Spirit. Make us doers of your word and not hearers only. And let your name be honored, not blasphemed, because of how we live. Through Jesus Christ, who fulfilled the law in love. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

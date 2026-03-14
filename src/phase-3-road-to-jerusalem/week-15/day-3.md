@@ -54,6 +54,3 @@ Mark's literary artistry in this chapter serves a profound theological purpose. 
 
 ## Prayer
 Lord God, you see through every outward display to the reality beneath. We confess that we too can be fig trees in full leaf -- busy with religious activity but lacking the fruit of genuine love, justice, and mercy. Uproot in us whatever is barren and false. Teach us to pray with faith and to forgive as we have been forgiven, so that our worship may be authentic from root to branch. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

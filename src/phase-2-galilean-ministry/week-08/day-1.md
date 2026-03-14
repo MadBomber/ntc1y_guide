@@ -59,6 +59,3 @@ The delay costs Jairus everything, or so it seems. Word arrives that his daughte
 
 ## Prayer
 Lord Jesus, you crossed the sea into hostile territory, touched the untouchable, and spoke life into death. No chain can hold what you have freed, no disease can withstand your healing, and no grave can contain what you have raised. Strengthen our faith where fear threatens to overwhelm us, and remind us that your holiness is more powerful than any impurity we carry. Amen.
-
----
-*Previous: [../week-07/day-5](../week-07/day-5) | Next: [day-2](day-2)*

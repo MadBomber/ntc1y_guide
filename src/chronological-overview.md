@@ -72,7 +72,3 @@ This study divides the New Testament story into six phases that follow its natur
 4. **Passion and Resurrection** (Weeks 17-20) — The climax: Last Supper, cross, and empty tomb
 5. **The Early Church** (Weeks 21-41) — Pentecost through Paul's imprisonment, with letters integrated
 6. **Letters & Revelation** (Weeks 42-52) — Pastoral guidance, general epistles, and the hope of Christ's return
-
----
-
-*Back to [Master Index](index) | Begin: [Week 1](phase-1-the-coming-of-christ/week-01/overview)*

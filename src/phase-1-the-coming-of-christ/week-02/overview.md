@@ -64,6 +64,3 @@ From the quiet reverence of the temple, we are thrust into political danger. Mat
 ## [Memory Verse](memory-verse)
 
 > "For my eyes have seen your salvation that you have prepared in the presence of all peoples, a light for revelation to the Gentiles, and for glory to your people Israel." -- Luke 2:30-32 (ESV)
-
----
-*Previous: [Week 1 Discussion](../week-01/discussion) | [Day 1](day-1) | Next: [Week 3](../week-03/overview)*

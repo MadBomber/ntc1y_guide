@@ -60,6 +60,3 @@ The chapter closes with a jarring declaration: "Do you think that I have come to
 ## Prayer
 
 Father, you see every sparrow, you count every hair, and you know every anxious thought before it forms. Forgive us for the leaven of hypocrisy -- the gap between who we appear to be and who we actually are. Deliver us from the rich fool's delusion that bigger barns mean bigger lives. Teach us the freedom of open hands and the peace that comes from seeking your kingdom first. Keep us awake and watchful, dressed for service, ready for the master who may come at any hour. And when following you costs us comfort, reputation, or even the peace of our own households, give us the courage to confess your name without flinching. Through Jesus, who valued transparency over pretense, generosity over hoarding, and faithfulness over safety. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

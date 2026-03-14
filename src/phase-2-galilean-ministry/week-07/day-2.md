@@ -51,6 +51,3 @@ The chapter closes with the sign of Jonah and a redefinition of family. Jesus wi
 
 ## Prayer
 Lord of the Sabbath, you created rest not as a burden but as a gift. Free us from the tyranny of empty religion and open our eyes to the work of your Spirit in our midst. Guard our hearts from the hardness that calls your good work evil, and teach us that mercy is always your deepest desire. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

@@ -57,6 +57,3 @@ The conversion itself is described with remarkable theological precision: "The L
 
 ## Prayer
 Sovereign Spirit, you direct the mission of your church through closed doors and open visions, through quiet heart-openings and dramatic redirections. Give us Timothy's willingness to be prepared, Paul's sensitivity to your guidance, and Lydia's immediate hospitality when you open our hearts. Lead us where you will — even across boundaries we never expected to cross — and use us to bring your gospel to those who are waiting by the river. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

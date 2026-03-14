@@ -59,6 +59,3 @@ The chapter's final verse is among the most beloved in the New Testament: "Let u
 ## Prayer
 
 Lord Jesus, great High Priest who has passed through the heavens, we are laid bare before Your living word -- every thought exposed, every motive uncovered, every pretense stripped away. Yet we do not shrink back in fear, because You know our weakness from the inside. You were tempted in every way as we are, yet without sin. And so we draw near to Your throne -- not a throne of condemnation but of grace. Give us mercy for our failures. Give us grace for our struggles. Give us the rest that remains for Your people -- the deep Sabbath rest of trusting in Your finished work rather than our own frantic striving. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

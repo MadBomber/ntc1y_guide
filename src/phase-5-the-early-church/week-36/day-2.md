@@ -57,6 +57,3 @@ The chapter closes with one of Paul's most memorable epigrams: "For the wages of
 
 ## Prayer
 Lord Jesus, you died to sin once for all, and in your death our old self was crucified. Teach us to reckon as true what you have accomplished -- that sin's reign is broken, that death no longer has dominion, that we are alive to God in you. When temptation whispers that we must obey, remind us that we have changed masters. May we offer every part of our bodies as weapons of righteousness in your service, knowing that the wages of sin lead only to death, but your gift is eternal life. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

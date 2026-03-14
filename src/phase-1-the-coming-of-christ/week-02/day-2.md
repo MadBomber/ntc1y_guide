@@ -71,7 +71,3 @@ After Herod's death in 4 BC, fear of his son Archelaus (eventually deposed by Ro
 - **Jeremiah 31:15** -- Rachel weeping for her children.
 - **Isaiah 11:1** -- The "Branch" (netser) from Jesse's stump, likely behind the Nazarene fulfillment.
 - **Exodus 1:15-22** -- Pharaoh's order to kill Hebrew male infants, a typological parallel to Herod's massacre.
-
----
-
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

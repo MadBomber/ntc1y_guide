@@ -57,6 +57,3 @@ The sermon climaxes with a declaration that stands as a summary of Pauline theol
 
 ## Prayer
 Holy Spirit, you are the initiator of every true mission. Just as you spoke to the worshipping church at Antioch, speak to us. Give us the boldness of Paul to declare that through Jesus there is a freedom the law could never provide, and give us the faith to follow where you lead -- even through the mountain passes and the opposition. Make us a light to the nations. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

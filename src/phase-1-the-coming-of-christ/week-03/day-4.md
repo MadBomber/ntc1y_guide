@@ -80,7 +80,3 @@ The chapter's second half features John the Baptist's last major testimony. His 
 ## Prayer Focus
 
 Praise God for the radical, initiative-taking love described in John 3:16-17. Ask the Holy Spirit to give you the new birth that comes "from above" -- not through your effort but through his sovereign work. Pray for the humility of John the Baptist, who found his greatest joy in pointing others to Jesus.
-
----
-
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

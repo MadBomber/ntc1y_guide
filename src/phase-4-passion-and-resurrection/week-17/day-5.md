@@ -53,6 +53,3 @@ The chapter closes with one of the most quoted and most needed declarations in a
 
 ## Prayer
 Lord Jesus, you told us plainly that in this world we would have tribulation, and you have not been proven wrong. But you also told us to take heart, because you have overcome the world. Send your Spirit to convict us of the truth we are slow to believe, to guide us into depths of understanding we cannot reach on our own, and to transform our grief into the unshakeable joy of the resurrection. We anchor our hope not in our circumstances but in your completed victory. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

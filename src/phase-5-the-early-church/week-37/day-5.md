@@ -62,6 +62,3 @@ The chapter concludes with a principle that has far-reaching implications: "Ever
 ## Prayer
 
 Lord Jesus, you are the Master of every servant, and to you alone each of us will give account. Deliver us from the arrogance of despising those whose convictions differ from ours, and from the self-righteousness of judging those whose freedom exceeds ours. Teach us that your kingdom is not a matter of eating and drinking but of righteousness, peace, and joy in the Holy Spirit. Give us the grace to limit our freedom for the sake of love, and the wisdom to know when conscience must be followed even at the cost of comfort. Build among us the kind of community where the strong bear with the weak and no one is destroyed for whom you died. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

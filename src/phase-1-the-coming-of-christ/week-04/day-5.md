@@ -68,6 +68,3 @@ The Sabbath controversy (2:23-28) concludes the chapter with Jesus' most provoca
 ## Prayer
 
 Lord Jesus, Son of Man, you possess authority that shakes the foundations of every human system -- authority to forgive sins, to redefine who belongs at God's table, to declare sovereignty over the most sacred institutions. We confess that we are often more like the scribes than like the friends on the roof: cautious, scandalized, protecting our theological categories rather than bringing broken people to your feet. Forgive us. Give us the audacious faith that tears through every obstacle to reach you. Make us physicians' assistants, carrying the sick to the one who heals. And pour your new wine into us -- even if it means letting the old wineskins of our comfort and tradition burst open. For you are the bridegroom, and while you are with us, the feast must go on. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion) -- Weekly Discussion Guide*

@@ -95,6 +95,3 @@ This week has moved from the certainty of resurrection to the reality of sufferi
 ## Closing Prayer
 
 God who raises the dead, we stand this week on the ground of resurrection hope. You raised Jesus from the grave and made him the firstfruits of a harvest that will include us all. You comforted Paul in his darkest hour and turned his suffering into a ministry of consolation. You wrote your new covenant on our hearts and are transforming us from glory to glory by your Spirit. Thank you that death has lost its sting, that suffering has a purpose, and that glory is our destiny. Forgive us for living as though the resurrection made no difference -- for fearing death, hoarding comfort, and resisting transformation. Make us a resurrection people: unafraid of death, generous with comfort, and eagerly surrendered to the Spirit's transforming work. Until the last enemy is destroyed, until we see you face to face, until the partial gives way to the perfect. Through Christ the risen Lord, who is alive forevermore. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 33](../week-33/overview)*

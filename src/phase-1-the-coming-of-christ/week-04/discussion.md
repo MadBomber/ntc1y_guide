@@ -91,6 +91,3 @@ Next week we move into Phase 2: The Galilean Ministry. The public ministry that 
 ## Closing Prayer
 
 Father, this week we have watched your Son step onto the stage of history with a message that shook the foundations of the world: the Kingdom of God is here. We have seen him call the unlikely, touch the untouchable, forgive the unforgivable, and feast with the outcast. We have seen the religious experts miss what the demons and the desperate grasped instinctively: that something utterly new has broken into the old order of things. As we close this week, we pray for eyes to see your Kingdom arriving in our own day -- in the places and people we least expect. Give us the faith of the friends who tore through the roof, the humility of Peter falling to his knees, and the courage of Levi walking away from everything familiar to follow Jesus into the unknown. Pour your new wine into us, Lord, and make us vessels worthy of holding it. In the name of the Bridegroom who came for the sick, the sinful, and the lost. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 5](../../phase-2-galilean-ministry/week-05/overview)*

@@ -62,6 +62,3 @@ These six verses, often skimmed as transitional material, are essential for unde
 ## Prayer
 
 Sovereign God, you guided Paul through plots and detours, through anxiety and relief, through the routine logistics of travel and the extraordinary act of writing to Rome. We confess that we often skim over the ordinary moments of life, not recognizing the significant work you are doing beneath the surface. Give us eyes to see your hand in the mundane -- in our travels, our relationships, our financial decisions, and our daily routines. Protect us when enemies scheme against us. Give us companions who share the journey and share the burden. And when the moment comes for us to speak the truth that matters most, give us the clarity and courage Paul had when he sat down in Corinth and began: "Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God." Through that same gospel, and for your glory. Amen.
-
----
-*Previous: [../week-34/day-5](../week-34/day-5) | Next: [day-2](day-2)*

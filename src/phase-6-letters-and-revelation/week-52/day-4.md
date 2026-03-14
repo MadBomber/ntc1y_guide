@@ -63,6 +63,3 @@ Chapter 14 provides the counter-vision. The Lamb stands on Mount Zion with the 1
 ## Prayer
 
 Almighty God, who has revealed to us the cosmic battle behind all human history, give us eyes to see reality as you see it. We thank you that the decisive victory has already been won -- the dragon is defeated, the accuser is cast down, and the kingdom belongs to the Lamb who was slain. In a world where the beast demands our worship and the false prophet deceives with counterfeit signs, keep us faithful. May we overcome as the saints overcome: by the blood of the Lamb, by the word of our testimony, and by refusing to love our lives more than we love our Lord. Fix our gaze on the Lamb standing on Mount Zion, and let the new song of the redeemed be the anthem of our hearts. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

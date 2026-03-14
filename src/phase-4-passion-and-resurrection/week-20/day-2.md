@@ -57,6 +57,3 @@ And then the promise -- the final words of Matthew's Gospel: "And behold, I am w
 
 ## Prayer
 Risen Lord, you have all authority in heaven and on earth, and you have chosen to use that authority not to dominate but to send, not to coerce but to commission. You have told us to go, and you have promised to go with us. Forgive us for the smallness of our obedience and the timidity of our witness. Enlarge our vision to match the scope of your command -- all nations, all things, always. You are Emmanuel, God with us, and we will go wherever you send because you have promised never to leave. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

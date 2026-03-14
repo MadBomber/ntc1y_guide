@@ -56,6 +56,3 @@ The chapter also includes two miracle narratives involving Peter — the healing
 
 ## Prayer
 Risen Lord Jesus, you stopped the persecutor in his tracks and turned him into your chosen instrument. We praise you for a grace that is stronger than our resistance and a purpose that transforms our worst into your best. Give us the courage of Ananias, who obeyed despite his fear, and the generosity of Barnabas, who opened the door when others kept it shut. Show us how much we must bear for your name, and make us willing. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

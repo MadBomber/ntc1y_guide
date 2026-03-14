@@ -59,6 +59,3 @@ The chapter's conclusion captures Paul's vision for Christian worship with elega
 ## Prayer
 
 God of peace and not confusion, you pour out your Spirit on all your people -- sons and daughters, young and old -- not for spectacle but for service, not for self-exaltation but for mutual edification. Forgive us when we have turned worship into performance, when we have prized the impressive over the intelligible, when we have sought our own experience at the expense of the body's health. Give us the gift of prophecy -- Spirit-inspired speech that builds up, encourages, and consoles. Give us the discipline to test what is spoken and the humility to submit our gifts to the community's evaluation. And may everything in our worship be done so decently and in such good order that outsiders, entering among us, fall on their faces and declare: God is truly here. Through Jesus Christ, in whom all the fullness of God was pleased to dwell. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

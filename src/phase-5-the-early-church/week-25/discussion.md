@@ -52,6 +52,3 @@ Pray this week for the freedom that Paul describes — not freedom from responsi
 
 > "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law."
 > — Galatians 5:22-23
-
----
-*Previous: [Day 5](day-5) | Next: [Week 26](../week-26/overview)*

@@ -52,6 +52,3 @@ It is essential to read this passage within its full context. Paul is not endors
 
 ## Prayer
 Father, you have loved your people with a love that gave everything -- a fragrant offering poured out on the cross. Teach us to walk in that same love, not as a burden to bear but as a life to live. Fill us with your Spirit continually, so that our words become songs, our attitudes become thanksgiving, and our relationships become icons of the gospel. Where our marriages and households fall short of your design, redeem them by the same grace that makes the church beautiful. Let our lives together tell the story of Christ and his Bride. Amen.
-
----
-*Previous: [../week-40/day-5](../week-40/day-5) | Next: [day-2](day-2)*

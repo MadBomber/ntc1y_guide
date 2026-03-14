@@ -52,6 +52,3 @@ Read the four Gospel accounts of the arrest and trial side by side: Matthew 26:4
 ## Prayer Focus
 
 Begin by reading John 17:20-23 aloud as a group. Then spend time praying for the unity of your faith community -- not superficial harmony but the deep, Trinitarian unity that Jesus describes. Confess the ways you have contributed to division, criticism, or suspicion among fellow believers. Pray for anyone in the group who is in a "Gethsemane" season -- facing a situation that requires costly obedience. Ask God to give each person the grace to say, "Not my will, but yours." Close by reading Matthew 26:39 together, slowly, and sit in silence for one minute, allowing the weight of Jesus' submission to settle over the group.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 19](../week-19/overview)*

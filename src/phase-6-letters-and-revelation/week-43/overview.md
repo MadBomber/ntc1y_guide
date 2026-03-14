@@ -47,6 +47,3 @@ The Pastoral Epistles occupy a unique place in the Pauline corpus. While letters
 ## [Memory Verse](memory-verse)
 
 > "Don't let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity." — 1 Timothy 4:12
-
----
-*Previous: [Week 42 Discussion](../week-42/discussion) | [Day 1](day-1) | Next: [Week 44](../week-44/overview)*

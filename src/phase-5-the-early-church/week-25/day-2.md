@@ -55,6 +55,3 @@ The chapter closes with the logical conclusion: "If you are Christ's, then you a
 
 ## Prayer
 God of Abraham, you have always justified the nations by faith, and your promise has never been limited to one people or one place. Thank you for sending Christ to redeem us from the curse we could never escape by our own obedience. Free us from every guardian we cling to — every performance, every credential, every identity marker that we trust more than your promise. Make us truly one in Christ, and help us live as heirs of the blessing that was always meant for all. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

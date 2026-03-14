@@ -101,6 +101,3 @@ We thank you for the manger and the cross and the empty tomb. We thank you for P
 Now send us out. Not as those who have merely completed a reading plan but as those who have encountered the living God in his living Word. May the Spirit and the Bride's cry be our cry. May the Lamb's victory be our confidence. May the new creation's promise be our hope. And may our lives -- every day, every choice, every relationship -- be a small but real anticipation of the world where righteousness dwells and God wipes away every tear.
 
 Amen. Come, Lord Jesus.
-
----
-*Previous: [Day 5](day-5)*

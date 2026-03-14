@@ -58,6 +58,3 @@ This body theology stands in sharp contrast to the prevailing Greek philosophica
 ## Prayer
 
 Holy Spirit, you have made your home not in buildings of stone but in bodies of flesh. We confess that we have treated our bodies carelessly, as though they were our own to use as we please. Remind us that we were bought at an unimaginable price -- the blood of Christ -- and that our bodies are sacred ground where you dwell. Give us the grace to honor you in what we eat, in how we rest, in whom we touch, and in every choice we make with these temples you have entrusted to us. Transform us from the inside out, that our lives may reflect the holiness of your presence. In the name of Jesus, who was raised bodily from the grave. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

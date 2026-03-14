@@ -73,6 +73,3 @@ Together, these two accounts form a breathtaking composite. We see the full huma
 > "And Jesus said, 'Father, forgive them, for they do not know what they are doing.'" -- Luke 23:34 (NASB)
 
 > "Therefore when Jesus had received the sour wine, He said, 'It is finished!' And He bowed His head and gave up His spirit." -- John 19:30 (NASB)
-
----
-*Previous: [Week 18 Discussion](../week-18/discussion) | [Day 1](day-1) | Next: [Week 20](../week-20/overview)*

@@ -93,6 +93,3 @@ Paul's journey through 2 Corinthians ends where it began -- at the cross, where 
 ## Closing Prayer
 
 Father, Son, and Holy Spirit -- you have walked with us this week through the depths of Paul's most personal letter, and we emerge changed. We have seen that generosity flows from your own overflowing heart. We have learned that the weapons that truly demolish strongholds are not worldly but divine. We have watched Paul lay out his scars as credentials and heard your voice speaking into his pain: "My grace is sufficient." We have examined ourselves and found that the same Christ who was crucified in weakness and raised in power lives in us. Now send us out under the shelter of your trinitarian blessing -- sustained by grace, rooted in love, bound together in fellowship. May we boast in nothing but the cross, find strength in nothing but our weakness, and trust in nothing but the God whose power is perfected where human power fails. Through Christ, in the Spirit, to the glory of the Father. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 35](../week-35/overview)*

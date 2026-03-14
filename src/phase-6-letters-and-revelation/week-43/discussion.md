@@ -70,6 +70,3 @@ This week's readings through 1 Timothy 1-5 challenge us in three practical areas
 1. **Doctrinal health** — Evaluate the teaching you consume. Is it "sound" — producing love, good conscience, and sincere faith (1:5)? Or is it speculative, divisive, and fruitless? Make one change this week in the sources of teaching that shape your thinking.
 2. **Training in godliness** — Identify one spiritual discipline you have neglected and commit to practicing it daily this week, treating it with the same intentionality you would bring to a physical fitness goal.
 3. **Church as family** — Choose one person in your faith community who is vulnerable, overlooked, or underserved. Take a specific action this week to care for them as you would a family member.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 44](../week-44/overview)*

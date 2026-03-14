@@ -58,6 +58,3 @@ The chapter's literary structure reveals Paul as a sophisticated pastoral thinke
 ## Prayer
 
 Lord, you who instituted marriage in the garden and who yourself walked the earth as a single man, we thank you that both marriage and singleness are gifts from your hand. Give those who are married the grace to love sacrificially and mutually. Give those who are single the freedom of undivided devotion. Give those who are suffering in broken relationships the wisdom to know when to persevere and the courage to seek help. Above all, center our lives on you, the one true love that will never fail. Whether married or single, free or bound, may we live as those who belong entirely to you. In Jesus' name. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

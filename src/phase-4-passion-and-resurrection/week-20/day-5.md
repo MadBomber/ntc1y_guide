@@ -67,6 +67,3 @@ The Gospel ends with the beloved disciple's testimony and a staggering final ver
 
 ## Prayer
 Lord Jesus, you called Mary by name in a garden. You offered Thomas your wounds. You cooked breakfast for Peter and restored him with a question that matched every denial with a commission. You meet us where we are -- in our grief, in our doubt, in our failure -- and you speak our names, show your scars, and say "Follow me." We have not seen you with our eyes, but we have heard your voice in the word, and we believe. You are our Lord and our God. Breathe on us as you breathed on your first disciples. Make us new. Send us out. We will follow. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion) -- Weekly Discussion Guide*

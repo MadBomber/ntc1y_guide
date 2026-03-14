@@ -57,6 +57,3 @@ The Farewell Discourse also introduces the Paraclete -- the Holy Spirit whom the
 
 > "I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."
 > -- John 15:5
-
----
-*Previous: [Week 16 Discussion](../../phase-3-road-to-jerusalem/week-16/discussion) | [Day 1](day-1) | Next: [Week 18](../week-18/overview)*

@@ -58,6 +58,3 @@ The chapter closes with the visit to Mary and Martha (vv. 38-42). Martha is "dis
 ## Prayer
 
 Father, you sent your Son not for one tribe but for every nation under heaven. Expand our vision of your harvest and our willingness to be sent into it -- vulnerable, dependent, and urgent. Forgive us for the times we have walked past the wounded because our schedules, our purity, or our prejudice told us it was someone else's problem. Make us Samaritans -- people who see, who stop, who bind wounds, who pay the cost. And when the work overwhelms us, draw us back to sit at Jesus' feet, to listen before we labor, to receive before we give. Through Christ, who welcomed the outsider, praised the foreigner, and made room at his feet for everyone. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

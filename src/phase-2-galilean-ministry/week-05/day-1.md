@@ -57,6 +57,3 @@ It is in this context that Jesus speaks the sobering words about the "unforgivab
 ## Prayer
 
 Lord Jesus, you chose twelve ordinary, flawed men and entrusted them with your authority and your mission. You still call imperfect people into your service today. Give us the humility to be with you before we try to work for you. Guard our hearts from the hardness that refuses to see your hand at work, and make us part of the new community you are building -- one that crosses every boundary the world erects. In your powerful name. Amen.
-
----
-*Previous: [../../phase-1-the-coming-of-christ/week-04/day-5](../../phase-1-the-coming-of-christ/week-04/day-5) | Next: [day-2](day-2)*

@@ -59,6 +59,3 @@ Paul closes the chapter by identifying the specific cause of Israel's stumbling:
 
 ## Prayer
 Sovereign Lord, we stand before the mystery of your purposes and confess that our understanding is small. Like Paul, we grieve for those who have not embraced your Messiah -- our own family members, friends, and communities. Give us his anguish, his tears, his willingness to sacrifice for the sake of others. Help us to trust your sovereign mercy even when we cannot trace the pattern of your plan. You are the Potter; we are the clay. Shape us as you will, and may the riches of your glory be displayed in us -- vessels of mercy prepared in advance for glory. Through Christ our stumbling stone and cornerstone, amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

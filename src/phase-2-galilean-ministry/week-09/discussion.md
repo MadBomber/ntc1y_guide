@@ -48,6 +48,3 @@ Consider also the different responses to Jesus in this week's readings: the crow
 ## Prayer Focus
 
 Pray for the faith to remain when the teaching is hard -- when following Jesus costs more than you expected, when his words confuse rather than comfort, when the crowd walks away and staying feels lonely. Pray also for eyes to see clearly. Ask God to complete the healing of your spiritual sight, moving you from blurred vision to full clarity about who Jesus is and what he calls you to do.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 10](../week-10/overview)*

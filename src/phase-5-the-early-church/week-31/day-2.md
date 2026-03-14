@@ -61,6 +61,3 @@ Paul then issues a solemn warning: "Whoever eats the bread or drinks the cup of 
 ## Prayer
 
 Lord Jesus, on the night you were betrayed you took bread, gave thanks, broke it, and said, "This is my body, which is for you." You poured out the cup of the new covenant in your blood for the forgiveness of sins. Forgive us when we come to your table without discerning your body -- when we fail to see you in the faces of the poor, the marginalized, and those we consider beneath us. Break down the walls we build around your table. Teach us to wait for one another, to share with one another, and to recognize in one another the members of your own body. Until you come again, may every time we eat this bread and drink this cup proclaim your death and your love. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

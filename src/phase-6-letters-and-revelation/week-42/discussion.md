@@ -72,6 +72,3 @@ This week's readings present us with three interconnected challenges:
 1. **Philippians 4** — Identify one area of anxiety or discontentment. Practice bringing it to God daily with thanksgiving and observe whether the "peace of God" begins to guard your heart.
 2. **Colossians 1-3** — Examine whether you have added anything to Christ as necessary for spiritual completeness — a system, a practice, a standard. Return to the simplicity and sufficiency of Christ alone.
 3. **Philemon** — Consider one relationship where social categories (status, background, past failures) have defined how you treat someone. Take a concrete step to treat them "as a dear brother or sister."
-
----
-*Previous: [Day 5](day-5) | Next: [Week 43](../week-43/overview)*

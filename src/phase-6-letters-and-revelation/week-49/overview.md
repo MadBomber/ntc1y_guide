@@ -61,6 +61,3 @@ Yet these letters do not end in despair. Second Peter closes with the breathtaki
 *Or alternatively:*
 
 > "To him who is able to keep you from stumbling and to present you before his glorious presence without fault and with great joy -- to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen." -- Jude 24-25
-
----
-*Previous: [Week 48 Discussion](../week-48/discussion) | [Day 1](day-1) | Next: [Week 50](../week-50/overview)*

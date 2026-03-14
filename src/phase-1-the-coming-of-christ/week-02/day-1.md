@@ -67,7 +67,3 @@ Jesus' response -- "Did you not know that I must be in my Father's house?" -- is
 - **1 Samuel 1:24-28** -- Hannah presenting the young Samuel at the tabernacle; a direct literary parallel to this passage.
 - **Isaiah 42:6; 49:6** -- The Servant as a light to the nations, quoted by Simeon.
 - **Malachi 3:1** -- "The Lord whom you seek will suddenly come to his temple" -- fulfilled in this passage.
-
----
-
-*Previous: [../week-01/day-5](../week-01/day-5) | Next: [day-2](day-2)*

@@ -51,6 +51,3 @@ The Parable of the Mustard Seed completes this section with an image of astonish
 
 ## Prayer
 Generous Sower, you scatter your word lavishly, holding nothing back. Break up the hard paths of our indifference, deepen the shallow soil of our enthusiasm, and uproot the thorns of our distraction. Give us ears to hear and hearts that bear fruit -- thirtyfold, sixtyfold, a hundredfold -- for your kingdom's glory. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

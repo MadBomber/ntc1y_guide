@@ -57,6 +57,3 @@ The chapter closes with three architectural metaphors for this new community: it
 ## Prayer
 
 But God -- those two words contain the entire gospel. We were dead, but you made us alive. We were far off, but you brought us near. We were strangers, but you made us family. We were divided, but you created one new humanity in Christ. Forgive us for ever imagining that we contributed to our own salvation. Forgive us for rebuilding the walls you demolished on the cross. Teach us to live as your poem -- your workmanship -- walking in the good works you prepared before we were born. Make your church a living temple where your Spirit dwells, a community so visibly united across every human division that the watching world can see that the gospel is real. By grace, through faith, to the praise of your glory. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

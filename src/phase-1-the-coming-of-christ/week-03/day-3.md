@@ -81,7 +81,3 @@ John 2:23-25 forms a bridge to the Nicodemus encounter. Many believed "when they
 ## Prayer Focus
 
 Ask God to transform the "water" of your routine faith into the "wine" of deep, joyful relationship with him. Pray that your worship would be authentic and uncorrupted, centered on the living presence of Christ rather than on religious performance.
-
----
-
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

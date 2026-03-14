@@ -59,6 +59,3 @@ Kenneth Bailey, who spent decades studying Middle Eastern culture, called this "
 ## Prayer
 
 Father, we are overwhelmed by the picture of your love in these parables. You are the shepherd who searches, the woman who sweeps, the father who runs. We confess that we are sometimes the younger child, squandering your gifts in a far country, and sometimes the older child, serving you out of duty while missing the joy of your presence. Meet us wherever we are. Run to us while we are still a long way off. And teach us to celebrate with you when the lost are found, for this is your heart, and we want it to be ours. Through Jesus Christ, the Good Shepherd. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

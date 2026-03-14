@@ -59,6 +59,3 @@ Chapter 7 brings emotional resolution. The godly sorrow that Paul's tearful lett
 
 > "But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us."
 > -- 2 Corinthians 4:7
-
----
-*Previous: [Week 32 Discussion](../week-32/discussion) | [Day 1](day-1) | Next: [Week 34](../week-34/overview)*

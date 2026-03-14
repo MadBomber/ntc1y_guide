@@ -63,6 +63,3 @@ The cleansing of the leper (1:40-45) concludes this section with one of Mark's m
 ## Prayer
 
 Lord Jesus, you came proclaiming the Kingdom -- not someday, not somewhere else, but now, here, at hand. You called ordinary workers to an extraordinary mission and they followed immediately. You spoke with authority that needed no credentials, healed with compassion that overcame every barrier, and prayed in the darkness before dawn when the crowds would have kept you busy forever. Teach us your rhythm of engagement and withdrawal, of power and prayer. Give us the courage to touch what the world calls unclean, knowing that your holiness is stronger than any contamination. And when the cost of following you means trading our comfort for someone else's healing, give us the grace to make the exchange willingly. For yours is the Kingdom, the power, and the glory. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

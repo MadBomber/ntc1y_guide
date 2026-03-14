@@ -71,6 +71,3 @@ Think about a time when you felt like an outsider — in a workplace, a social g
 ## Closing Prayer
 
 God of peace, who raised our Lord Jesus from the dead and who calls us out of darkness into your wonderful light — we praise you for the living hope that sustains us and the tested faith that refines us. Make us living stones in your spiritual house, a royal priesthood that declares your praises in word and deed. When the fiery ordeal comes, help us not to be surprised but to rejoice in sharing Christ's sufferings. Give us the imperishable beauty of a gentle and quiet spirit, the courage to go outside the camp, and the trust to entrust our souls to you, our faithful Creator, while doing good. Through Jesus Christ, to whom be glory and dominion forever and ever. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 49](../week-49/overview)*

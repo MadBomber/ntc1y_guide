@@ -60,6 +60,3 @@ The closing warning is vivid: "Be alert and of sober mind. Your enemy the devil 
 ## Prayer
 
 Lord Jesus, Chief Shepherd of our souls, we thank you for Peter's closing words of tender pastoral wisdom. Raise up elders in your church who lead willingly, serve eagerly, and model faithfully the life you have called us to. Clothe us all in the humility of the servant's apron, that we might resist the pride that provokes your opposition and receive the grace you give to the lowly. We cast our anxieties on you now -- every worry, every fragmenting fear -- because you care for us. Make us alert and sober-minded against the enemy who prowls and roars. And after we have suffered a little while, do what only you can do: restore, confirm, strengthen, and establish us in your eternal glory. To you be the power forever and ever. Amen.
-
----
-*Previous: [../week-48/day-5](../week-48/day-5) | Next: [day-2](day-2)*

@@ -57,6 +57,3 @@ The Thessalonica-Berea narrative raises enduring questions about the relationshi
 
 ## Prayer
 Lord Jesus, you are the King whose kingdom turns the world upside down — not with violence but with truth, not with political power but with self-giving love. Give us the courage of Paul, who reasoned boldly from the Scriptures in hostile synagogues, and the discernment of the Bereans, who tested every claim against your Word. In a world of competing loyalties and rival authorities, anchor us firmly in the conviction that you alone are Lord. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

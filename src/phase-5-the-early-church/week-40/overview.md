@@ -58,6 +58,3 @@ Chapter 4 then pivots with a single word: "therefore." Everything that follows -
 
 > "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast."
 > -- Ephesians 2:8-9
-
----
-*Previous: [Week 39 Discussion](../week-39/discussion) | [Day 1](day-1) | Next: [Week 41](../week-41/overview)*

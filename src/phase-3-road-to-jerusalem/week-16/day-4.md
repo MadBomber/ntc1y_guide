@@ -62,6 +62,3 @@ The two parables together present a complete picture. The Ten Virgins warns agai
 ## Prayer
 
 Lord Jesus, you are the bridegroom who comes at midnight, and you are the master who entrusts us with more than we deserve. Forgive us for the times we have assumed we could prepare at the last minute -- borrowing oil that cannot be borrowed, cramming for a test that requires a lifetime of preparation. Forgive us for the times we have buried your gifts in the ground, too afraid of failure to risk faithfulness. Correct our distorted images of your character. You are not a harsh master who reaps where you did not sow; you are the generous God who entrusts a fortune to servants and then rewards them with deeper joy. Make us wise in our waiting and faithful in our investing, so that when the cry goes up at midnight, our lamps are burning and our talents have multiplied. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

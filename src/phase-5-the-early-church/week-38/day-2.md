@@ -56,6 +56,3 @@ The letter closes with one of the most magnificent doxologies in Scripture (16:2
 ## Prayer
 
 God of peace, we thank you for the faces behind the faith -- Phoebe who carried the gospel, Priscilla and Aquila who risked their lives, Junia who was outstanding among the apostles, and all the named and unnamed saints who built your church with their bodies and their resources. Forgive us when we reduce the gospel to abstraction and forget that it lives in the relationships between real people with real names and real stories. Give us the generosity of Phoebe, the courage of Priscilla and Aquila, and the faithfulness of those who labor quietly and never make the headlines. Guard our communities against those who would divide us for their own gain, and hasten the day when you crush the serpent under our feet. To you, the only wise God, be glory forevermore through Jesus Christ. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

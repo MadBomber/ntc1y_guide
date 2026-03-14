@@ -54,6 +54,3 @@ The chapter closes with a stunning reversal: "Do not think that I will accuse yo
 
 ## Prayer
 Father, you have given all authority to your Son -- the power to heal, to judge, to raise the dead, and to give eternal life. Forgive us when we search your word diligently yet refuse to come to the one your word reveals. Heal our long infirmities, even the ones we have grown comfortable with. Open our eyes to see that your Sabbath rest is not inactivity but the ceaseless work of mercy, and that the Son who works as the Father works is worthy of the same honor we give to you. Through Jesus Christ, who gives life to whom he will. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

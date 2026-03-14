@@ -60,6 +60,3 @@ Matthew's editorial conclusion (7:28-29) confirms what the entire Sermon has bee
 ## Prayer
 
 Lord Jesus, you end your greatest sermon with a call to decision, and we cannot remain neutral. We confess that we are often quicker to judge others than to examine ourselves, quicker to admire your words than to obey them. Give us the courage to enter by the narrow gate, the honesty to test our lives by their fruit, and the wisdom to build on the rock of your teaching rather than the shifting sand of our own preferences. May we not merely call you "Lord, Lord" but truly know you and do your will. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

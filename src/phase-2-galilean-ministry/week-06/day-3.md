@@ -62,6 +62,3 @@ The chapter concludes with a scene that provides the theological lens for everyt
 ## Prayer
 
 Lord Jesus, Son of Man, you have authority to forgive sins, to heal the sick, to raise the dead, and to call the most unlikely people into your service. We confess that we often focus on our outward circumstances while neglecting the deeper healing our souls need. Forgive us for drawing boundaries where you draw none. Open our eyes to see the harvest around us, and make us willing laborers in your fields. You are the Lord of the harvest, and we are yours to send. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

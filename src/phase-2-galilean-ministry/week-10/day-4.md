@@ -53,6 +53,3 @@ This episode carries profound implications for Christian ethics. Jesus establish
 
 ## Prayer
 God of the mountain and the valley, you revealed the glory of your Son in dazzling light and then sent him back into the mess and misery of a world convulsed by evil. Forgive us for our little faith -- for the ways we rely on our own competence rather than on your limitless power. Grant us faith like a mustard seed -- small, perhaps, but genuine, rooted not in our ability but in your character. And teach us the freedom of your Son, who owed nothing yet paid willingly, who had every right to assert his dignity yet chose the path of humble love. Transform us on the mountain and send us into the valley with power and compassion. Through Jesus Christ, whose face shines like the sun. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

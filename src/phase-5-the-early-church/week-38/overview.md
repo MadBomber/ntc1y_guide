@@ -61,6 +61,3 @@ Acts 21-22 then plunges us into crisis. Despite repeated prophetic warnings -- A
 
 > "But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God."
 > -- Acts 20:24
-
----
-*Previous: [Week 37 Discussion](../week-37/discussion) | [Day 1](day-1) | Next: [Week 39](../week-39/overview)*

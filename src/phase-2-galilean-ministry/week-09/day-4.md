@@ -59,6 +59,3 @@ The healing of the deaf man carries deep symbolic resonance. Isaiah 35:5-6 proph
 ## Prayer
 
 God of all nations, you have declared all things clean through the work of your Son. Forgive us for the boundaries we construct -- the lines we draw between insiders and outsiders, the traditions we elevate above your commandments, the purity we locate in ritual rather than in the heart. Open our ears as you opened the deaf man's ears. Loosen our tongues to speak your praise. And give us the faith of the Syrophoenician woman, who knew that your mercy is so vast that even the crumbs from your table are enough to heal. Through Jesus Christ, who has done all things well. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

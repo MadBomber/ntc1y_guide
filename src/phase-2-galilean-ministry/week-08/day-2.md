@@ -57,6 +57,3 @@ John's execution is narrated with stark economy: the executioner (spekoulator --
 
 ## Prayer
 Faithful God, you sent John as a voice crying in the wilderness, and he paid for his faithfulness with his life. Give us the courage to speak truth even when it costs us, the willingness to go out in vulnerability trusting your provision, and the wisdom to know the difference between genuine faith and mere fascination with spiritual things. May we follow you not only when the crowds applaud but also when the powerful oppose. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

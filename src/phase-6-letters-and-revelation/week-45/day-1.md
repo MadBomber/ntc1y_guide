@@ -54,6 +54,3 @@ Throughout this chapter, Paul weaves a golden thread: the gospel itself is uncha
 
 ## Prayer
 Lord Jesus, our commanding officer, help us to endure hardship as good soldiers of Your gospel. Give us the discipline of an athlete, the patience of a farmer, and the precision of a skilled workman. When we are tempted to become entangled in lesser things, remind us that the gospel is unchained even when we feel bound. Teach us to flee what is foolish and to pursue what is eternal -- righteousness, faith, love, and peace -- with all who call on Your name from a pure heart. Amen.
-
----
-*Previous: [../week-44/day-5](../week-44/day-5) | Next: [day-2](day-2)*

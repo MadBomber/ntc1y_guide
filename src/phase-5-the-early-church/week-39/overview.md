@@ -60,6 +60,3 @@ Then comes the sea. Luke's account of the voyage to Rome in Acts 27 is the most 
 
 > "Then Agrippa said to Paul, 'In a short time would you persuade me to be a Christian?' And Paul said, 'Whether short or long, I would to God that not only you but also all who hear me this day might become such as I am -- except for these chains.'"
 > -- Acts 26:28-29
-
----
-*Previous: [Week 38 Discussion](../week-38/discussion) | [Day 1](day-1) | Next: [Week 40](../week-40/overview)*

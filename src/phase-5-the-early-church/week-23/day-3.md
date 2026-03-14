@@ -56,6 +56,3 @@ The letter closes with one of its most beautiful and understated exhortations: "
 
 ## Prayer
 Lord of hosts, you hear the cries of the oppressed and you will bring justice in your time. Give us the patience of the farmer and the endurance of the prophets as we wait for your vindication. Teach us to pray with the faith of Elijah, knowing that you hear and answer. And make us a community that pursues the wanderer, covers sin with love, and refuses to let anyone drift away unchallenged. In Jesus' name. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

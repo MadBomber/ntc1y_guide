@@ -58,6 +58,3 @@ In every case, Jesus is not raising the bar of external compliance but revealing
 ## Prayer
 
 Father in heaven, your Son taught with an authority that astonished the crowds and still astonishes us today. We confess that we are often more comfortable with external compliance than with the heart-level transformation you desire. Teach us what it means to be poor in spirit, to hunger for righteousness, to love our enemies, and to be the salt and light you have already declared us to be. Write your law on our hearts by the power of your Spirit, that we might reflect the wholeness of your love to a fractured world. Through Christ our Lord. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

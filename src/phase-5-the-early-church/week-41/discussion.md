@@ -60,6 +60,3 @@ Read Philippians 2:5-11 aloud together. Allow a moment of silence before beginni
 
 ## Prayer Focus
 Pray for one another in the areas where this week's readings have spoken most directly: marriages and family relationships that need the pattern of Christ's self-giving love; spiritual battles that require the full armor of God; circumstances of suffering or limitation where joy seems impossible; areas of life where past credentials or past failures are preventing a forward-leaning faith. Close by reading Philippians 2:9-11 together as a declaration of worship: "Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father."
-
----
-*Previous: [Day 5](day-5) | Next: [Week 42](../../phase-6-letters-and-revelation/week-42/overview)*

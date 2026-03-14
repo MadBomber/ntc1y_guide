@@ -57,6 +57,3 @@ These chapters are among the most debated in Pauline scholarship, touching on qu
 
 > "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres."
 > -- 1 Corinthians 13:4-7
-
----
-*Previous: [Week 30 Discussion](../week-30/discussion) | [Day 1](day-1) | Next: [Week 32](../week-32/overview)*

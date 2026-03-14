@@ -52,6 +52,3 @@ Matthew notes that the leaders wanted to arrest Jesus but feared the crowds, who
 
 ## Prayer
 Father, forgive us when we give lip service to your will but fail to act, when we claim authority in your name but refuse to produce the fruit of justice and mercy. Give us the humility to recognize Jesus as the cornerstone of our lives, even when building on him means dismantling structures we have labored to construct. Break our hardness before the stone falls. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

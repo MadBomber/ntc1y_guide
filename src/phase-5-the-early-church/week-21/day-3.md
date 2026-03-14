@@ -56,6 +56,3 @@ Peter concludes by connecting Jesus to the prophet like Moses foretold in Deuter
 
 ## Prayer
 God of Abraham, Isaac, and Jacob, you glorified your servant Jesus by raising him from the dead. Thank you that the power of his name brings healing, restoration, and hope. Give us Peter's boldness to point beyond ourselves to the risen Christ, and give us hearts quick to offer what we have received -- not silver or gold, but the life-giving name of Jesus. Open our eyes to those at the threshold who long to enter your presence. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

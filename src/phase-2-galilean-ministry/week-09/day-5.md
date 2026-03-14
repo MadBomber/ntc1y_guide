@@ -60,6 +60,3 @@ The placement of this story is Mark's masterstroke. Immediately after the discip
 ## Prayer
 
 Lord Jesus, forgive us for our hardened hearts and blurred vision. You have fed us, provided for us, walked through storms for us, and still we fail to understand. Open our eyes as you opened the blind man's eyes -- not all at once if that is not your way, but progressively, patiently, until we see everything clearly. Guard us from the leaven of the Pharisees, who demand proof rather than trusting in grace, and from the leaven of Herod, who compromises truth for comfort. Teach us to count the baskets, to remember your faithfulness, and to trust that there is always more than enough. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

@@ -53,6 +53,3 @@ The 120 believers gathered in the upper room represent the nucleus of the church
 
 ## Prayer
 Risen Lord, you ascended in glory and promised your Spirit to empower your people as witnesses. Teach us the discipline of waiting on you in prayer. When we are tempted to act in our own strength or demand to know your timetable, remind us that your power is sufficient and your timing is perfect. Make us faithful witnesses to your resurrection in every sphere of our lives. Amen.
-
----
-*Previous: [../../phase-4-passion-and-resurrection/week-20/day-5](../../phase-4-passion-and-resurrection/week-20/day-5) | Next: [day-2](day-2)*

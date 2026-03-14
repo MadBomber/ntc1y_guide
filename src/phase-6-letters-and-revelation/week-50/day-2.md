@@ -56,6 +56,3 @@ The antichrist section (2:18-27) is the first explicit use of this term in the N
 ## Prayer
 
 Lord Jesus, our righteous advocate, thank you that when we sin we do not face the Father alone. You stand before him on our behalf, presenting not our righteousness but yours, not our sacrifice but the one you offered once for all. Teach us to keep your commands -- not to earn your love but because we have been transformed by it. Guard us from the seductions of a world system built on lust and pride, and give us the discernment that comes from your anointing Spirit, that we might recognize truth and cling to it. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

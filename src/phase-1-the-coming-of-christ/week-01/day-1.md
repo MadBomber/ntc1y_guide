@@ -55,6 +55,3 @@ The climax comes in verse 14, perhaps the most important single verse in the New
 ## Prayer
 
 Father, we stand before the mystery of the incarnation with wonder. The Word who spoke the universe into existence chose to enter it, to take on our flesh, to dwell among us. Open our eyes to see his glory -- glory full of grace and truth. As we begin this journey through the New Testament, give us hearts that receive what your own people once rejected: the light that shines in the darkness and cannot be overcome. In the name of the incarnate Word, Jesus Christ. Amen.
-
----
-*Next: [day-2](day-2)*

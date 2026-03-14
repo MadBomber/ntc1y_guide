@@ -59,6 +59,3 @@ Paul's climactic declaration draws on Isaiah 25:8 and Hosea 13:14: "Death is swa
 ## Prayer
 
 Almighty God, you raised Jesus Christ from the dead and made him the firstfruits of all who sleep. We confess that we often live as though death has the last word -- paralyzed by fear, burdened by grief, and tempted to believe that our labor is in vain. Renew in us the certain hope of resurrection. Remind us that because Christ lives, we too shall live; that what is sown in weakness will be raised in power; and that the last enemy has already been defeated. Where, O death, is your victory? Where, O death, is your sting? Thanks be to you, Father, for you give us the victory through our Lord Jesus Christ. Make us steadfast, immovable, always abounding in your work, knowing that nothing done in the Lord is ever wasted. Through the risen Christ, who is alive forevermore. Amen.
-
----
-*Previous: [../week-31/day-5](../week-31/day-5) | Next: [day-2](day-2)*

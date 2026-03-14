@@ -56,6 +56,3 @@ The allegory culminates in the command drawn from Genesis 21:10: "Cast out the s
 
 ## Prayer
 Abba, Father, we thank you that you sent your Son, born of woman, born under the law, to redeem us from every form of bondage and adopt us into your family. Forgive us for turning back to the weak and worthless principles we have already been freed from. Let the Spirit's cry of sonship drown out the voice of performance and fear. We are your children. We are heirs through you. Help us live in the freedom for which Christ has set us free. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

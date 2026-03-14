@@ -84,7 +84,3 @@ John structures this section with a series of "the next day" markers (1:29, 35, 
 ## Prayer Focus
 
 Ask God to give you the bold humility of John the Baptist -- pointing others to Jesus rather than drawing attention to yourself. Pray for the courage of Andrew and Philip, who invited others before they themselves fully understood who Jesus was.
-
----
-
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

@@ -56,6 +56,3 @@ Paul's vision of economic equilibrium in verses 13-15 is striking: "I do not mea
 
 ## Prayer
 Generous God, everything we have comes from your open hand. You gave us the ultimate gift in your Son, who laid aside the riches of heaven and embraced the poverty of the cross so that we might be eternally enriched. Forgive us for clinging to what is already yours. Teach us the grace of giving -- joyful, voluntary, sacrificial, and accountable. Stir in us the same eagerness the Macedonians felt, who counted it a privilege to share in the relief of their brothers and sisters. May your church be a community where abundance flows to need, where no one has too much and no one has too little, and where the manna principle of daily provision governs our life together. Through Christ, who became poor for our sake, Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

@@ -60,6 +60,3 @@ The milk/solid food contrast (5:12-14) draws on a common ancient educational met
 ## Prayer
 
 Father, you appointed your Son as our great High Priest -- not from Aaron's line but from the eternal order of Melchizedek. We stand in awe that the Son of God learned obedience through suffering, that He cried out with tears and was heard, that His anguish in Gethsemane qualified Him to be the source of our eternal salvation. Forgive us for our spiritual laziness, for remaining on milk when you have prepared solid food for us. Train us through constant practice to distinguish good from evil. Move us beyond the elementary truths into the deep things of your word, so that we may not only know your truth but teach it to others. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

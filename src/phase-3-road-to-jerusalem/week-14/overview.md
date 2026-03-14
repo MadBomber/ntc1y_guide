@@ -65,6 +65,3 @@ The week closes in Jericho with Zacchaeus, the chief tax collector who climbed a
 
 > "Jesus said to her, 'I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?'"
 > -- John 11:25-26
-
----
-*Previous: [Week 13 Discussion](../week-13/discussion) | [Day 1](day-1) | Next: [Week 15](../week-15/overview)*

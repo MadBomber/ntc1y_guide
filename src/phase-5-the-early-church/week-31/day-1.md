@@ -57,6 +57,3 @@ Paul closes the chapter with a supremely practical principle that has guided Chr
 ## Prayer
 
 Lord God, you led your people through the wilderness with cloud and fire, fed them with bread from heaven and water from the rock, and still they turned aside. We confess that we, too, are prone to presumption -- trusting in our spiritual privileges while flirting with the idolatries of our own culture. Open our eyes to the warnings written for our instruction. Guard us from the table of demons in whatever form it takes, and draw us deeper into communion with the body and blood of your Son. Teach us to do all things -- the mundane and the magnificent -- to your glory alone. Through Jesus Christ, our Rock and our Passover. Amen.
-
----
-*Previous: [../week-30/day-5](../week-30/day-5) | Next: [day-2](day-2)*

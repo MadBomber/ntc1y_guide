@@ -48,6 +48,3 @@ The early church in Acts 2:42-47 is often idealized as a golden age of Christian
 ## Prayer Focus
 
 Pray for boldness -- not for comfort, not for safety, but for the courage to speak and live as witnesses to the risen Christ. Pray for the Holy Spirit to produce in your community the kind of generosity, integrity, and joy that characterized the earliest church. Pray for those who face persecution for their faith today, that they would experience the same supernatural joy the apostles knew when they were counted worthy to suffer for the name.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 22](../week-22/overview)*

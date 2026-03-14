@@ -59,6 +59,3 @@ Joseph of Arimathea, a rich man and secret disciple, requested the body and laid
 
 ## Prayer
 Almighty God, we have read of the darkest afternoon in the history of your creation -- the hour when your Son bore our sin in his body on the tree and cried out in abandonment so that we would never have to. We stand before the torn curtain and the open tomb with trembling and with gratitude beyond words. Forgive us for treating the cross as familiar. Forgive us for the remorse of Judas when you call us to the repentance of Peter. We look upon him whom we have pierced, and we mourn, and we worship. Amen.
-
----
-*Previous: [../week-19/day-5](../week-19/day-5) | Next: [day-2](day-2)*

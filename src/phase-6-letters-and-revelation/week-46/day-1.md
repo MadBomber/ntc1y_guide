@@ -54,6 +54,3 @@ The exhortation to "encourage one another daily" (3:13) reveals that the author 
 ## Prayer
 
 Lord Jesus, faithful Son over God's house, we confess that we are prone to the same unbelief that felled the wilderness generation. Even after experiencing Your deliverance, we are tempted to shrink back when the way ahead looks threatening. Soften our hearts to hear Your voice today. Keep us from the deceitfulness of sin that hardens us gradually against Your truth. Give us communities where daily encouragement is practiced, where brothers and sisters spur one another toward faith and faithfulness. May we not fall short of the rest You have promised. Amen.
-
----
-*Previous: [../week-45/day-5](../week-45/day-5) | Next: [day-2](day-2)*

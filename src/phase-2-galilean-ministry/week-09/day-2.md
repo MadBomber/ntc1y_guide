@@ -58,6 +58,3 @@ Matthew alone records Peter's attempt to walk on the water. Peter's request -- "
 ## Prayer
 
 Lord Jesus, you walked on the very waters that terrified your disciples. You fed thousands from almost nothing and turned a night of storm into a moment of revelation. We confess that, like Peter, our faith is real but small -- that we step out boldly only to be overwhelmed by the wind and waves around us. Catch us when we sink. Strengthen our faith until it can weather the storm. And help us to see in you not merely a teacher or a miracle-worker but the Son of God who commands the sea, the one to whom we owe our worship and our lives. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

@@ -53,6 +53,3 @@ The chapter reaches its emotional and theological summit in verse 20, one of the
 
 ## Prayer
 Lord Jesus, who loved us and gave yourself for us, we confess that we are tempted to add to your finished work — to supplement grace with performance, to earn what can only be received. Crucify our old selves with all their striving, and live in us through faith. Give us the courage Paul showed at Antioch, to stand for the gospel even when it costs us the approval of people we respect. May we never nullify your grace. Amen.
-
----
-*Previous: [../week-24/day-5](../week-24/day-5) | Next: [day-2](day-2)*

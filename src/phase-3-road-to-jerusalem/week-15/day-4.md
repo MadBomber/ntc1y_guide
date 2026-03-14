@@ -52,6 +52,3 @@ Mark notes that the crowd was "amazed" (exeplessonto, literally "struck out of t
 
 ## Prayer
 God of Abraham, Isaac, and Jacob -- God of the living -- we confess that we too often treat your gifts as our possessions and your authority as an intrusion. Teach us to render to you what bears your image: our hearts, our minds, our very selves. Give us confidence in the resurrection, not as abstract doctrine, but as the living hope that shapes how we face each day. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

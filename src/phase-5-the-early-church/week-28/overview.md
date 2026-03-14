@@ -58,6 +58,3 @@ The week closes with Acts 18:18-28, which narrates Paul's departure from Corinth
 
 > "But the Lord is faithful. He will establish you and guard you against the evil one."
 > -- 2 Thessalonians 3:3
-
----
-*Previous: [Week 27 Discussion](../week-27/discussion) | [Day 1](day-1) | Next: [Week 29](../week-29/overview)*

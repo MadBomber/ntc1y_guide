@@ -56,6 +56,3 @@ The passage closes with three enigmatic sayings about salt (9:49-50). "For every
 
 ## Prayer
 Lord Jesus, you spoke of your death while your disciples argued about their greatness. We see ourselves in their confusion. Forgive us for the ambition that poisons our service, for the competitiveness that fractures our community, and for the indifference that harms the vulnerable. Teach us to be last, to embrace the child, to welcome the outsider, and to cut off whatever leads us away from you. Give us salt -- the preserving, purifying quality of kingdom character that brings peace rather than rivalry. May we spend our lives serving the insignificant, for in receiving them we receive you, and in receiving you we receive the Father who sent you. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion) -- Weekly Discussion Guide*

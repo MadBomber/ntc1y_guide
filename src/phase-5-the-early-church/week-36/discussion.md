@@ -51,6 +51,3 @@ Read Romans 8:31-39 aloud together. Allow a moment of silence before beginning d
 
 ## Prayer Focus
 Pray for one another in the areas where Romans 5-9 has spoken most directly: assurance of peace with God, victory over habitual sin, clarity about the law's role, confidence in the Spirit's work, and trust in God's sovereign purposes. Close by praying together the words of Romans 8:38-39.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 37](../week-37/overview)*

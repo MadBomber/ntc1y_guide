@@ -60,6 +60,3 @@ The vice list in verses 29-31 catalogs the social consequences of idolatry: unri
 ## Prayer
 
 Holy God, you have not left yourself without witness. The heavens declare your glory and the earth is full of your handiwork. Yet we confess that we too have suppressed the truth, exchanging your glory for lesser things, worshipping the created rather than the Creator. Have mercy on us. We thank you that the same gospel that reveals your wrath also reveals your righteousness -- a righteousness that is received by faith, not earned by works. Guard us from the arrogance of judging others while ignoring our own idolatries. Rescue us from the downward spiral of exchanging your truth for lies. And let us never be ashamed of the gospel, for it is your power unto salvation for everyone who believes. Through Jesus Christ, your Son, who was descended from David and declared to be the Son of God by his resurrection from the dead. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

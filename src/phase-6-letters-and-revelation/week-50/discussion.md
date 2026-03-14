@@ -82,6 +82,3 @@ This week's readings present three interconnected challenges:
 1. **Walk in the light** -- Identify one area of your life where you are "walking in darkness" -- hiding something, avoiding confession, maintaining a pretense. Bring it into the light this week through honest confession to God and, if appropriate, to a trusted friend.
 2. **Love in deed** -- Choose one person in your community toward whom you have felt indifferent or even hostile. Take one concrete action of love toward them this week -- not merely verbal but enacted, costly, and real.
 3. **Test and discern** -- Evaluate one teaching, practice, or spiritual influence in your life against John's threefold test: Does it confess Christ incarnate? Does it produce obedience? Does it generate love? If it fails any of these tests, reconsider its place in your life.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 51](../week-51/overview)*

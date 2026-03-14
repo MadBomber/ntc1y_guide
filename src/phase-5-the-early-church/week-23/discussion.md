@@ -53,6 +53,3 @@ Pray this week for the transformation of speech — that the words spoken in you
 
 > "Draw near to God, and he will draw near to you."
 > — James 4:8
-
----
-*Previous: [Day 5](day-5) | Next: [Week 24](../week-24/overview)*

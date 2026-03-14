@@ -56,6 +56,3 @@ The chapter concludes with an athletic metaphor drawn from the Isthmian Games, w
 ## Prayer
 
 Lord Jesus, you who were in the form of God did not count equality with God a thing to be grasped but emptied yourself, taking the form of a servant. Teach us through Paul's example what it means to surrender our rights for the sake of others. Give us the flexibility to meet people where they are, the discipline to train ourselves for godliness, and the single-minded focus to run the race you have set before us. Free us from the tyranny of entitlement and the comfort of privilege. Make us servants of all, that by all possible means we might bring some to know the surpassing worth of knowing you. For the sake of the gospel, and for your glory alone. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

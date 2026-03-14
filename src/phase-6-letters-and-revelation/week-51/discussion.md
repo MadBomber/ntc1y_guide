@@ -75,6 +75,3 @@ When you hear the word "Revelation," what is your first reaction — fascination
 Alpha and Omega, First and Last, Living One who was dead and is alive forevermore — we worship you. You walk among the lampstands, knowing each church more intimately than it knows itself. Speak to us through your Spirit. Where we have lost our first love, restore it. Where we are suffering, sustain us with the crown of life. Where we have tolerated compromise, convict us. Where we are living on reputation, wake us up. Where we have little power, open doors. Where we are lukewarm, make us hot.
 
 And lift our eyes to the throne room, where you reign in holiness and splendor. You are the Lion who conquered as the Lamb. You are worthy — worthy because you were slain, worthy because your blood ransomed the world. We join the song of every creature in heaven and on earth: to you who sit on the throne and to the Lamb be blessing and honor and glory and might forever and ever. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 52](../week-52/overview)*

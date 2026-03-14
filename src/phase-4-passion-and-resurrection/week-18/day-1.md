@@ -50,6 +50,3 @@ Jesus closes with a declaration of love that spans eternity: "Father, I desire t
 
 ## Prayer
 Father, we are awed to overhear your Son praying for us -- not just for the Twelve in that upper room but for all who believe through their testimony. Thank you that eternal life is not a distant reward but a present relationship, the gift of knowing you. Protect us from the evil one. Sanctify us in your truth. Make us one, as you and your Son are one, so that the world might see and believe. May we one day behold the glory you gave your Son before the world began. Amen.
-
----
-*Previous: [../week-17/day-5](../week-17/day-5) | Next: [day-2](day-2)*

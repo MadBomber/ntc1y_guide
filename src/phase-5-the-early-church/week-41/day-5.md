@@ -56,6 +56,3 @@ The chapter concludes with one of its most politically charged statements: "Our 
 
 ## Prayer
 Lord Jesus, you made Paul your own on the Damascus road, and everything he once counted as profit turned to ash in the blinding light of your glory. Give us the same revolution of values. Strip away our confidence in credentials, our trust in performance, our addiction to the approval of others. Replace it all with the surpassing worth of knowing you -- not knowing about you, but knowing you in the power of your resurrection and the fellowship of your sufferings. Set our feet on the race course and our eyes on the prize. Remind us that our citizenship is not in any earthly empire but in heaven, from which we await you, our true Lord and Savior. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

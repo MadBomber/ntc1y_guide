@@ -76,6 +76,3 @@ This is the culmination of four weeks in the Passion narrative. Take extended ti
 - **Confession**: Confess the ways you have lived as though Friday were the end of the story -- in despair, in fear, in silence, in failure that you have refused to bring to the risen Christ.
 - **Petition**: Ask the risen Christ to meet you as he met Mary (by name), Thomas (with evidence), Peter (with restoration), and the Emmaus disciples (with opened Scripture). Ask him to show you where he is alive and at work in your life right now.
 - **Commission**: Close by praying the Great Commission over your group. "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age." Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 21](../../phase-5-the-early-church/week-21/overview)*

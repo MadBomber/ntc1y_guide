@@ -60,6 +60,3 @@ The chapter ends with a pastoral counsel of extraordinary simplicity and depth: 
 
 ## Prayer
 Faithful Creator, to whom we entrust our souls — we confess that we are often surprised by suffering, as though something strange were happening to us. Forgive our short memories and shallow expectations. You told us the road would be narrow and the gate would be small. Give us the mindset of Christ, who suffered in the flesh and broke the power of sin. When we are maligned for your name, help us not to be ashamed but to glorify you. Refine us through the fire, and when your glory is revealed, may we be found rejoicing. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

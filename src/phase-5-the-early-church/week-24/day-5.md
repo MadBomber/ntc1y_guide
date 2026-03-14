@@ -56,6 +56,3 @@ The theological implications are profound. If Paul's gospel came by revelation, 
 
 ## Prayer
 God of revelation, you seized Paul on the Damascus road and turned the persecutor into the preacher. Guard us from the seductive error of adding to your grace. Forgive us for the ways we have burdened ourselves and others with requirements you never imposed. Anchor us in the gospel that is no human invention but your own self-disclosure in Christ. Let us never desert the one who called us in grace. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

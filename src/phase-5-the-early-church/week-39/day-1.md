@@ -53,6 +53,3 @@ The transfer to Caesarea Maritima moves Paul from the jurisdiction of the Jewish
 
 ## Prayer
 Lord God, you stood beside Paul in the night and spoke courage into his fear. Stand beside us when we face opposition for your name's sake. Remind us that no scheme of the enemy can override your sovereign purposes. Give us the wisdom of serpents and the innocence of doves -- the shrewdness to use every legitimate means at our disposal and the faith to rest in your unfailing promise. When conspiracies form and threats multiply, anchor our hearts in the unshakable certainty that your word cannot fail. Amen.
-
----
-*Previous: [../week-38/day-5](../week-38/day-5) | Next: [day-2](day-2)*

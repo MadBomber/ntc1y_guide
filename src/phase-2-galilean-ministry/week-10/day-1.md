@@ -59,6 +59,3 @@ The passage then opens outward from the disciples to the crowd (v. 34), and Jesu
 ## Prayer
 
 Lord Jesus Christ, Son of the living God, we confess with Peter that you are the Messiah. But we confess also that we, like Peter, want a Messiah on our own terms -- powerful without suffering, glorious without the cross. Rebuke in us whatever resists your way. Teach us the paradox of your kingdom, where losing is finding and dying is living. Give us the courage to deny ourselves, take up our crosses, and follow you -- not as we wish you were, but as you truly are: the suffering, dying, rising Lord of all. Amen.
-
----
-*Previous: [../week-09/day-5](../week-09/day-5) | Next: [day-2](day-2)*

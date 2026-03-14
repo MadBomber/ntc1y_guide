@@ -94,6 +94,3 @@ Consider also the trajectory from the Seven Woes (Matthew 23) through the eschat
 ## Closing Prayer
 
 Lord Jesus, this week you have silenced every questioner, exposed every hypocrite, predicted the destruction of every human monument, and revealed that the final question is not what we believed but whom we loved. You are the bridegroom who comes at midnight. You are the master who entrusts us with more than we deserve. You are the king who hides himself in the faces of the forgotten. Forgive us for our gnat-straining, our oil-borrowing, our talent-burying, and our blindness to the hungry, naked, and imprisoned in whom you dwell. Make us wise, faithful, and compassionate -- ready when you come, invested while you are away, and broken open by love for the least of these. Come, Lord Jesus. Until you do, help us stand. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 17](../../phase-4-passion-and-resurrection/week-17/overview)*

@@ -61,6 +61,3 @@ Early church tradition suggests Onesimus was indeed freed and eventually became 
 ## Prayer
 
 Father, thank you for the power of the gospel to transform not only individual hearts but entire relationships and social structures. Give us wisdom in how we relate to those outside the faith, that our words might always be full of grace and seasoned with salt. Where there are broken relationships in our lives, help us — like Philemon — to receive others not according to their past but according to their new identity in Christ. Teach us the costly grace of reconciliation. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

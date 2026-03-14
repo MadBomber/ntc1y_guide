@@ -61,6 +61,3 @@ The chapter closes with a question that reveals the apostolic authority Paul has
 
 ## Prayer
 Lord Jesus, you made yourself a servant, and your apostles followed in your footsteps -- hungry, homeless, reviled, and slandered for the sake of the gospel. Forgive us for wanting a Christianity that makes us comfortable, respected, and admired. Strip away our pretensions of having "already arrived" and show us the long road of faithfulness that lies ahead. Remind us daily that everything we have is a gift. Guard us from passing premature judgment on one another's ministry. And when we need correction, send us spiritual fathers and mothers who love us enough to speak the truth -- with a rod if necessary, with gentleness if possible. For your kingdom does not consist in talk but in power. Amen.
-
----
-*Previous: [day-4](day-4) | Next: [discussion](discussion)*

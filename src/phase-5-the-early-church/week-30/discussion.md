@@ -86,6 +86,3 @@ Paul models in chapter 9 the very principle he teaches in chapter 8: he surrende
 ## Closing Prayer
 
 Father, this week we have seen ourselves in the mirror of the Corinthian church -- spiritually gifted yet spiritually immature, knowledgeable yet lacking in love, free yet failing to use our freedom for the good of others. Forgive us for our arrogance, our selfishness, and our failure to take seriously the holiness to which you have called us. Teach us that our bodies are temples, that our rights are tools, and that our knowledge means nothing without love. Make us a community that disciplines with mercy, worships with our whole bodies, honors both marriage and singleness, and gladly surrenders every privilege for the sake of the gospel. In the name of Christ, who surrendered everything for us. Amen.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 31](../week-31/overview)*

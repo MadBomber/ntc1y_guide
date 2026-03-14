@@ -58,6 +58,3 @@ The transfer to Pilate introduces one of the most theologically rich dialogues i
 
 ## Prayer
 Lord Jesus, you stepped forward to meet your captors when you could have called legions of angels. You drank the cup the Father gave you when you could have refused it. You stood before Pilate and spoke of a kingdom he could not see. Give us eyes to see it. Give us the courage you gave Peter after his failure -- not the absence of weakness, but the presence of grace that restores the fallen. You are the I AM, and we bow before you. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

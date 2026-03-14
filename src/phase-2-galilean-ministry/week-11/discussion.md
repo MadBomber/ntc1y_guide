@@ -52,6 +52,3 @@ Begin by reading Luke 12:6-7 aloud: "Are not five sparrows sold for two pennies?
 - **For generosity**: For the grace to be Good Samaritans, crossing boundaries of comfort and convention to show mercy to those the world considers unworthy.
 - **For freedom from anxiety**: For anyone in the group wrestling with financial fear, vocational uncertainty, or the tyranny of tomorrow -- that the image of the ravens fed and the lilies clothed would become more real than the spreadsheets and projections that dominate their thinking.
 - **For integrity**: Against the leaven of hypocrisy -- that the inside of the cup would match the outside, that private life would match public profession, and that religion would be a pathway to God rather than a barrier.
-
----
-*Previous: [Day 5](day-5) | Next: [Week 12](../../phase-3-road-to-jerusalem/week-12/overview)*

@@ -57,6 +57,3 @@ The parable's final exchange is perhaps its most penetrating element. The rich m
 ## Prayer
 
 Father, we confess that we are more like the rich man than we care to admit. We live surrounded by abundance while others suffer at our gates. Open our eyes to the Lazarus in our world. Free us from the grip of mammon and teach us to use what you have entrusted to us with eternal wisdom and generous hearts. May we listen to your word with ears ready to obey, not waiting for spectacular signs but trusting the testimony you have already given. Through Christ, who became poor that we might become rich. Amen.
-
----
-*Previous: [../week-12/day-5](../week-12/day-5) | Next: [day-2](day-2)*

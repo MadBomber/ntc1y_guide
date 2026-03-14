@@ -56,6 +56,3 @@ Agrippa's response -- "In a short time would you persuade me to be a Christian?"
 
 ## Prayer
 Lord Jesus, you appeared to Paul on the Damascus road and turned a persecutor into a preacher, a destroyer into a builder, a man breathing threats into a man breathing grace. You are still in the business of dramatic transformation. Open our eyes to see the beauty of the gospel so clearly that we, like Paul, would wish it upon kings and governors, prisoners and free alike. Give us the courage to speak of righteousness and resurrection in every setting -- not softening the message for the powerful or embellishing it for the skeptical, but declaring the simple, shattering truth that Jesus is alive and that in him there is light for every darkness. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

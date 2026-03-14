@@ -60,6 +60,3 @@ Jesus then shifts to the future aspect of the Kingdom -- the coming of the Son o
 ## Prayer
 
 Lord Jesus, we confess that we are often among the nine who receive your blessings without returning to give thanks. Forgive our ingratitude. Teach us that even small faith, placed in your infinite power, can accomplish what we think impossible. Keep us from causing others to stumble, and make us quick to forgive those who stumble against us. As we live between your Kingdom already present and your Kingdom yet to come, keep our eyes fixed forward, our hearts undivided, and our lips full of praise. Amen.
-
----
-*Previous: [day-1](day-1) | Next: [day-3](day-3)*

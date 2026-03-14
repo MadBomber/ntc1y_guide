@@ -57,6 +57,3 @@ The pastoral urgency behind this theology cannot be overstated. The original aud
 ## Prayer
 
 Lord God, who spoke through Jeremiah in the darkest hour and promised a new covenant, we thank you that in Christ your promise has been fulfilled. Write your law on our hearts so that obedience flows from love rather than duty. Grant us the direct knowledge of you that the new covenant promises -- not secondhand religion but firsthand relationship. We praise you for the complete forgiveness that remembers our sins no more. Help us to live in the freedom of this new covenant rather than retreating to the shadows of what has passed away. Amen.
-
----
-*Previous: [../week-46/day-5](../week-46/day-5) | Next: [day-2](day-2)*

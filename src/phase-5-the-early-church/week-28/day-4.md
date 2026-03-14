@@ -58,6 +58,3 @@ The closing of the letter (verses 16-18) includes a personal authenticating note
 
 ## Prayer
 Faithful God, you established work as a gift before the fall and as a calling after it. Forgive us when we use spiritual enthusiasm as an excuse for neglecting our responsibilities. Give us the discipline to work honestly, the generosity to share freely, and the wisdom to know the difference between genuine need and lazy presumption. Where our communities need correction, give us the courage to speak the truth and the love to always treat one another as brothers and sisters, not enemies. Guard us against the evil one, and establish us in every good work. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

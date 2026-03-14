@@ -58,6 +58,3 @@ James closes with a definition of "pure and undefiled religion" (1:27) that cuts
 
 ## Prayer
 Father of lights, from whom every good and perfect gift descends, we confess that we are often double-souled -- asking for wisdom in one breath and relying on ourselves in the next. Teach us to count our trials as joy, not because suffering is pleasant but because you are refining us into maturity and wholeness. Make us doers of your word, not just hearers who glance in the mirror and walk away unchanged. Move us to care for the orphan and the widow, the displaced and the vulnerable, because that is the religion you accept. Through Jesus Christ, who endured the ultimate trial and emerged victorious. Amen.
-
----
-*Previous: [day-3](day-3) | Next: [day-5](day-5)*

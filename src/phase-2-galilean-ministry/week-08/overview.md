@@ -64,6 +64,3 @@ John's Gospel adds theological depth to the miraculous events, recording Jesus' 
 
 > "Jesus said to them, 'I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst.'"
 > -- John 6:35
-
----
-*Previous: [Week 7 Discussion](../week-07/discussion) | [Day 1](day-1) | Next: [Week 9](../week-09/overview)*

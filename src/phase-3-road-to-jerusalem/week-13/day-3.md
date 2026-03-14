@@ -59,6 +59,3 @@ Jesus' commentary is sobering: "How hard it is for the rich to enter the kingdom
 ## Prayer
 
 God, be merciful to me, a sinner. I come to you not with a resume of accomplishments but with empty hands and an honest heart. I have nothing to offer that could earn your acceptance. Like the tax collector, I throw myself on your mercy. Like the persistent widow, I will keep coming to you, trusting that you hear. Like the children, I come without credentials, knowing that your Kingdom belongs to those who simply receive. Free me from everything that keeps me from you -- my pride, my possessions, my self-sufficiency. What is impossible with me is possible with you. Through Jesus Christ, who gave up everything to give us everything. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*

@@ -61,6 +61,3 @@ The final metaphors are devastating: these teachers are "springs without water a
 ## Prayer
 
 Holy God, who judged the angels, the ancient world, and the cities of the plain, and who rescued Noah and Lot from the destruction of the ungodly -- we come before you with sober hearts. Give us discernment to recognize the false teachers who smuggle destructive heresies into your church under the guise of freedom and enlightenment. Protect us from the springs without water and the mists driven by storms that promise much and deliver nothing. Guard our hearts from the greed, sensuality, and arrogance that mark those who deny the Lord who bought them. And where we ourselves have been deceived or have returned to what we were rescued from, call us back with your patient, persistent grace. We trust that you know how to rescue the godly from trials and to hold the unrighteous for the day of judgment. Keep us faithful. Amen.
-
----
-*Previous: [day-2](day-2) | Next: [day-4](day-4)*
