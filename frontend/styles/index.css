@@ -327,6 +327,81 @@
   }
 }
 
+/* --- RefTagger Tooltip Overrides --- */
+
+.rtBibleRef {
+  color: var(--purple-mid);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  cursor: pointer;
+}
+
+.rtBibleRef:hover {
+  color: var(--purple-deep);
+  text-decoration-style: solid;
+}
+
+.rtTooltip {
+  background: var(--bg-surface);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+  font-family: var(--font-serif);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  max-width: 360px;
+  padding: 0;
+}
+
+.rtTooltip .rtTooltipHeader {
+  background: var(--purple-mid);
+  color: #fff;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius) var(--radius) 0 0;
+}
+
+.rtTooltip .rtTooltipBody {
+  padding: 0.75rem;
+  color: var(--text-primary);
+  background: var(--bg-surface);
+  border-radius: 0 0 var(--radius) var(--radius);
+}
+
+.rtTooltip .rtTooltipFooter {
+  background: var(--bg-surface-alt);
+  border-top: 1px solid var(--border-color);
+  padding: 0.4rem 0.75rem;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  border-radius: 0 0 var(--radius) var(--radius);
+}
+
+.rtTooltip .rtTooltipFooter a {
+  color: var(--purple-mid);
+}
+
+.rtTooltip .rtTooltipReference {
+  color: var(--gold);
+  font-weight: 600;
+}
+
+[data-theme="dark"] .rtTooltip .rtTooltipHeader {
+  background: #2d1b4e;
+}
+
+@media (prefers-color-scheme: dark) {
+  [data-theme="auto"] .rtTooltip .rtTooltipHeader {
+    background: #2d1b4e;
+  }
+}
+
 /* --- Reset & Base --- */
 
 *, *::before, *::after {

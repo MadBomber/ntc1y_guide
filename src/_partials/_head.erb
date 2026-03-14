@@ -33,4 +33,19 @@
 })();
 </script>
 <script src="<%= asset_path :js %>" defer></script>
+<script>
+  var refTagger = {
+    settings: {
+      bibleVersion: "ESV",
+      tagChapters: true,
+      cssOverride: true,
+      socialSharing: [],
+      linksOpenNewWindow: true,
+      roundCorners: true,
+      noSearchTagNames: ["h1", "h2", "h3"],
+      observeAutomatically: true
+    }
+  };
+</script>
+<script src="https://api.reftagger.com/v2/RefTagger.js" defer></script>
 <%= live_reload_dev_js %>
