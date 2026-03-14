@@ -368,7 +368,9 @@ a:hover {
 
 .site-logo {
   width: 140px;
-  height: auto;
+  height: 160px;
+  object-fit: cover;
+  object-position: top center;
 }
 
 .site-top-right {
