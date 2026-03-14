@@ -11,13 +11,14 @@ layout: default
   <%
     week = data.week.to_i
     week_fmt = "%02d" % week
-    phase_dir = site.data.week_phases[week]
+    week_phases = site.data.week_phases.transform_keys(&:to_i)
+    phase_dir = week_phases[week]
     week_base = "/#{phase_dir}/week-#{week_fmt}"
     current_path = resource.relative_url.to_s.chomp("/")
     prev_week = week > 1 ? week - 1 : nil
     next_week = week < 52 ? week + 1 : nil
-    prev_phase = prev_week ? site.data.week_phases[prev_week] : nil
-    next_phase = next_week ? site.data.week_phases[next_week] : nil
+    prev_phase = prev_week ? week_phases[prev_week] : nil
+    next_phase = next_week ? week_phases[next_week] : nil
   %>
   <nav class="week-nav">
     <% if prev_week %>

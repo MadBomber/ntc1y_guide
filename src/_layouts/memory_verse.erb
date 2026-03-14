@@ -50,12 +50,6 @@ layout: default
     </ul>
   </section>
 
-  <section class="page-discussions" data-feature="discussions">
-    <h2>Discussion</h2>
-    <p class="discussions-note">Comments are powered by GitHub Discussions. To post, sign in with your GitHub account using the link below the reaction icons.</p>
-    <div class="giscus"></div>
-  </section>
-
   <footer class="mv-footer">
     <div class="mv-footer-actions">
       <!-- Mark Complete button inserted here by JS -->
@@ -65,15 +59,58 @@ layout: default
       Check Your Progress — All 52 Verses
     </a>
 
-    <nav class="mv-nav">
-      <% if data.prev_week_path %>
-        <a href="<%= relative_url data.prev_week_path %>" class="mv-nav-link">&larr; Week <%= data.week - 1 %></a>
+    <%
+      week = data.week.to_i
+      week_phases = site.data.week_phases.transform_keys(&:to_i)
+      current_phase_dir = week_phases[week]
+
+      # Find all weeks in the current phase
+      phase_weeks = week_phases.select { |_w, dir| dir == current_phase_dir }.keys.sort
+
+      # Find previous and next phase names for the arrows
+      first_week = phase_weeks.first
+      last_week = phase_weeks.last
+      prev_phase_dir = first_week > 1 ? week_phases[first_week - 1] : nil
+      next_phase_dir = last_week < 52 ? week_phases[last_week + 1] : nil
+
+      # Phase display names
+      phase_names = {
+        "phase-1-the-coming-of-christ" => "Phase 1",
+        "phase-2-galilean-ministry" => "Phase 2",
+        "phase-3-road-to-jerusalem" => "Phase 3",
+        "phase-4-passion-and-resurrection" => "Phase 4",
+        "phase-5-the-early-church" => "Phase 5",
+        "phase-6-letters-and-revelation" => "Phase 6",
+      }
+
+      # Previous phase links to its last week's memory verse
+      prev_phase_last_week = prev_phase_dir ? week_phases.select { |_w, dir| dir == prev_phase_dir }.keys.max : nil
+      next_phase_first_week = next_phase_dir ? week_phases.select { |_w, dir| dir == next_phase_dir }.keys.min : nil
+    %>
+    <nav class="week-nav">
+      <% if prev_phase_dir %>
+        <a href="<%= relative_url "/#{prev_phase_dir}/week-#{'%02d' % prev_phase_last_week}/memory-verse/" %>" class="week-nav-arrow">&larr; <%= phase_names[prev_phase_dir] %></a>
+      <% else %>
+        <span class="week-nav-arrow"></span>
       <% end %>
-      <a href="javascript:history.back()" class="mv-nav-link">Back to the Study</a>
-      <% if data.next_week_path %>
-        <a href="<%= relative_url data.next_week_path %>" class="mv-nav-link">Week <%= data.week + 1 %> &rarr;</a>
+      <div class="week-nav-pages">
+        <% phase_weeks.each do |w| %>
+          <% is_current = w == week %>
+          <a href="<%= relative_url "/#{current_phase_dir}/week-#{'%02d' % w}/memory-verse/" %>" class="week-nav-page<%= ' current' if is_current %>"><%= w %></a>
+        <% end %>
+      </div>
+      <% if next_phase_dir %>
+        <a href="<%= relative_url "/#{next_phase_dir}/week-#{'%02d' % next_phase_first_week}/memory-verse/" %>" class="week-nav-arrow"><%= phase_names[next_phase_dir] %> &rarr;</a>
+      <% else %>
+        <span class="week-nav-arrow"></span>
       <% end %>
     </nav>
   </footer>
+
+  <section class="page-discussions" data-feature="discussions">
+    <h2>Discussion</h2>
+    <p class="discussions-note">Comments are powered by GitHub Discussions. To post, sign in with your GitHub account using the link below the reaction icons.</p>
+    <div class="giscus"></div>
+  </section>
 
 </article>
