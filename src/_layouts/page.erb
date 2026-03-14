@@ -14,7 +14,7 @@ layout: default
     week_phases = site.data.week_phases.transform_keys(&:to_i)
     phase_dir = week_phases[week]
     week_base = "/#{phase_dir}/week-#{week_fmt}"
-    current_path = resource.relative_url.to_s.chomp("/")
+    current_path = resource.relative_url.to_s.delete_prefix(site.base_path.to_s).chomp("/")
     prev_week = week > 1 ? week - 1 : nil
     next_week = week < 52 ? week + 1 : nil
     prev_phase = prev_week ? week_phases[prev_week] : nil
@@ -63,7 +63,7 @@ layout: default
       ["New",         "#{p7_base}/new-covenant/"],
       ["Consummation","#{p7_base}/consummation/"],
     ]
-    current_path = resource.relative_url.to_s.chomp("/")
+    current_path = resource.relative_url.to_s.delete_prefix(site.base_path.to_s).chomp("/")
   %>
   <nav class="week-nav">
     <span class="week-nav-arrow"></span>
