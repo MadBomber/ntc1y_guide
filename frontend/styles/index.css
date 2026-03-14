@@ -1684,3 +1684,57 @@ button.toolbar-icon {
   color: var(--text-muted);
   margin-bottom: 1.5rem;
 }
+
+/* --- Print --- */
+
+@page {
+  size: letter portrait;
+  margin: 12.7mm;
+}
+
+@media print {
+  .site-top,
+  .site-header,
+  .site-nav,
+  .site-logo-link,
+  .page-toolbar,
+  .page-discussions,
+  .site-footer,
+  .day-complete-container,
+  .page-nav {
+    display: none !important;
+  }
+
+  body {
+    background: #fff;
+    color: #000;
+    font-size: 11pt;
+  }
+
+  main {
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+    max-width: 100%;
+  }
+
+  h1, h2, h3, h4 {
+    color: #000;
+  }
+
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  th {
+    background: #eee;
+    color: #000;
+  }
+
+  blockquote {
+    border-left-color: #999;
+    background: #f5f5f5;
+    color: #333;
+  }
+}
