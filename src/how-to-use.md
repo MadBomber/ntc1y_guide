@@ -60,7 +60,7 @@ If studying alone, use the Discussion Guide as a weekly review. The "Going Deepe
 
 ## Optional Features
 
-This study includes several optional features you can enable or disable from the [Settings](/settings/) page. All settings are stored privately in your browser.
+This study includes several optional features you can enable or disable from the [Settings](<%= relative_url '/settings/' %>) page. All settings are stored privately in your browser.
 
 ### Progress Tracking
 
@@ -68,7 +68,7 @@ Your reading progress is tracked automatically. Each day page, week overview, an
 
 ### H.E.A.R. Journaling
 
-The [H.E.A.R. Method](/hear-method/) is a four-step journaling approach: Highlight, Explain, Apply, Respond. When enabled, a journal icon appears on each day page, opening a form where you can record your thoughts. Entries are stored in your browser and can be exported as JSON for safekeeping. If you prefer pen and paper, you can disable this feature in Settings and the icon will be hidden.
+The [H.E.A.R. Method](<%= relative_url '/hear-method/' %>) is a four-step journaling approach: Highlight, Explain, Apply, Respond. When enabled, a journal icon appears on each day page, opening a form where you can record your thoughts. Entries are stored in your browser and can be exported as JSON for safekeeping. If you prefer pen and paper, you can disable this feature in Settings and the icon will be hidden.
 
 ### Read Aloud
 
@@ -76,7 +76,7 @@ When enabled, a volume icon appears in the toolbar. Tapping it reads the current
 
 ### Group Sharing
 
-If you are studying with others, enable Group Sharing to add an email icon to the toolbar. First, add your group members' names and email addresses on the [Settings](/settings/#group-members) page. Then on any study page, tap the email icon to compose a message to your group with a link to the current page and any H.E.A.R. highlight you have recorded.
+If you are studying with others, enable Group Sharing to add an email icon to the toolbar. First, add your group members' names and email addresses on the [Settings](<%= relative_url '/settings/' %>#group-members) page. Then on any study page, tap the email icon to compose a message to your group with a link to the current page and any H.E.A.R. highlight you have recorded.
 
 ### Community Discussions
 

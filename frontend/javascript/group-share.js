@@ -69,7 +69,8 @@ function handleShareClick(e) {
   const members = getGroupMembers()
   if (members.length === 0) {
     e.preventDefault()
-    window.location.href = "/settings/#group-members"
+    const basePath = document.body?.dataset?.basePath || ""
+    window.location.href = `${basePath}/settings/#group-members`
     return
   }
 

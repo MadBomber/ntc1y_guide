@@ -141,7 +141,7 @@ Each week includes five daily readings and two grace days. Use the grace days fo
 
 The H.E.A.R. method works with whatever journaling tool suits you best. A physical notebook and pen is a time-tested approach -- many readers find that handwriting slows them down in a helpful way.
 
-This study also includes a built-in digital journal. When the journaling feature is enabled, each day page shows a journal icon in the toolbar that opens a H.E.A.R. entry form for that day's reading. Your entries are stored privately in your browser and can be reviewed by week or exported as a file. If you prefer pen and paper or already have a journaling practice that works for you, visit [Settings](/settings/) to turn off the digital journal. The toolbar icon and journal links will be hidden, but the H.E.A.R. method itself remains the same -- four steps, any medium.
+This study also includes a built-in digital journal. When the journaling feature is enabled, each day page shows a journal icon in the toolbar that opens a H.E.A.R. entry form for that day's reading. Your entries are stored privately in your browser and can be reviewed by week or exported as a file. If you prefer pen and paper or already have a journaling practice that works for you, visit [Settings](<%= relative_url '/settings/' %>) to turn off the digital journal. The toolbar icon and journal links will be hidden, but the H.E.A.R. method itself remains the same -- four steps, any medium.
 
 ---
 
