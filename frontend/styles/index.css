@@ -48,8 +48,20 @@
   background: #1e1235;
 }
 
-[data-theme="dark"] .site-nav {
-  background: #271845;
+[data-theme="dark"] .page-toolbar {
+  background: #1e1235;
+}
+
+[data-theme="dark"] .hamburger-menu {
+  background: #1e1235;
+}
+
+[data-theme="dark"] .hamburger-menu li a {
+  color: var(--gold-light);
+}
+
+[data-theme="dark"] .hamburger-menu li a:hover {
+  color: #fff;
 }
 
 [data-theme="dark"] a {
@@ -199,8 +211,20 @@
     background: #1e1235;
   }
 
-  [data-theme="auto"] .site-nav {
-    background: #271845;
+  [data-theme="auto"] .page-toolbar {
+    background: #1e1235;
+  }
+
+  [data-theme="auto"] .hamburger-menu {
+    background: #1e1235;
+  }
+
+  [data-theme="auto"] .hamburger-menu li a {
+    color: var(--gold-light);
+  }
+
+  [data-theme="auto"] .hamburger-menu li a:hover {
+    color: #fff;
   }
 
   [data-theme="auto"] a {
@@ -459,7 +483,6 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
 }
 
 .site-brand {
@@ -475,36 +498,6 @@ a:hover {
   color: var(--gold-light);
 }
 
-.site-nav {
-  background: var(--purple-mid);
-  padding: 0.4rem 1rem;
-}
-
-.site-nav ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-}
-
-.site-nav a {
-  color: rgba(255, 255, 255, 0.85);
-  text-decoration: none;
-  font-family: var(--font-sans);
-  font-size: 0.9rem;
-  font-weight: 500;
-  letter-spacing: 0.02em;
-  padding: 0.3rem 0;
-  border-bottom: 2px solid transparent;
-  transition: color 0.15s, border-color 0.15s;
-}
-
-.site-nav a:hover {
-  color: #fff;
-  border-bottom-color: var(--gold);
-}
 
 /* --- Main Content --- */
 
@@ -1302,18 +1295,20 @@ tr:hover td {
 /* --- Page Toolbar (in site header) --- */
 
 .page-toolbar {
-  position: absolute;
-  right: 1.5rem;
   display: flex;
+  justify-content: center;
   gap: 0.25rem;
+  background: var(--purple-deep);
+  padding: 0.25rem 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .toolbar-icon {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 4rem;
-  height: 4rem;
+  width: 3rem;
+  height: 3rem;
   border-radius: var(--radius);
   color: var(--gold-light);
   text-decoration: none;
@@ -1321,8 +1316,8 @@ tr:hover td {
 }
 
 .toolbar-icon svg {
-  width: 48px;
-  height: 48px;
+  width: 32px;
+  height: 32px;
 }
 
 .toolbar-icon:hover {
@@ -1365,6 +1360,53 @@ button.toolbar-icon {
 
 .toolbar-icon[data-tooltip]:hover::after {
   opacity: 1;
+}
+
+/* --- Hamburger Menu --- */
+
+.hamburger-wrapper {
+  position: relative;
+}
+
+.hamburger-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 0.4rem;
+  min-width: 200px;
+  background: var(--purple-deep);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: var(--radius);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  z-index: 1000;
+  padding: 0.5rem 0;
+}
+
+.hamburger-menu.open {
+  display: block;
+}
+
+.hamburger-menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.hamburger-menu li a {
+  display: block;
+  padding: 0.6rem 1.25rem;
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: background 0.15s, color 0.15s;
+}
+
+.hamburger-menu li a:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
 }
 
 /* --- Utility --- */
@@ -1779,7 +1821,6 @@ button.toolbar-icon {
 @media print {
   .site-top,
   .site-header,
-  .site-nav,
   .site-logo-link,
   .page-toolbar,
   .page-discussions,
