@@ -1506,39 +1506,60 @@ button.toolbar-icon {
   margin: 0 auto;
 }
 
-.hear-week-day {
-  margin-bottom: 2.5rem;
-  padding-bottom: 2rem;
-  border-bottom: none;
+/* Day tabs */
+
+.hear-tabs {
+  display: flex;
+  gap: 0.25rem;
+  border-bottom: 2px solid var(--purple-faint);
+  margin-bottom: 1.5rem;
 }
 
-.hear-week-day::after {
+.hear-tab {
+  flex: 1;
+  padding: 0.75rem 0.5rem;
+  border: none;
+  border-bottom: 3px solid transparent;
+  background: none;
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+  border-radius: var(--radius) var(--radius) 0 0;
+  position: relative;
+}
+
+.hear-tab:hover {
+  color: var(--text-primary);
+  background: var(--purple-faint);
+}
+
+.hear-tab.active {
+  color: var(--purple-deep);
+  border-bottom-color: var(--gold);
+}
+
+.hear-tab.has-entry::after {
   content: "";
-  display: block;
-  width: 400px;
-  height: 40px;
-  margin: 2rem auto 0;
-  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 280 24' fill='none'%3E%3Cpath d='M140 4 C125 4 120 12 105 12 C95 12 90 8 80 8 C70 8 60 14 45 14 C35 14 25 10 10 12' stroke='%239575cd' stroke-width='1.5' stroke-linecap='round' fill='none'/%3E%3Cpath d='M140 4 C155 4 160 12 175 12 C185 12 190 8 200 8 C210 8 220 14 235 14 C245 14 255 10 270 12' stroke='%239575cd' stroke-width='1.5' stroke-linecap='round' fill='none'/%3E%3Cpath d='M140 20 C125 20 120 12 105 12 C95 12 90 16 80 16 C70 16 60 10 45 10 C35 10 25 14 10 12' stroke='%239575cd' stroke-width='1.5' stroke-linecap='round' fill='none'/%3E%3Cpath d='M140 20 C155 20 160 12 175 12 C185 12 190 16 200 16 C210 16 220 10 235 10 C245 10 255 14 270 12' stroke='%239575cd' stroke-width='1.5' stroke-linecap='round' fill='none'/%3E%3Ccircle cx='140' cy='12' r='3' fill='%23c9a84c'/%3E%3Ccircle cx='10' cy='12' r='2' fill='%23c9a84c'/%3E%3Ccircle cx='270' cy='12' r='2' fill='%23c9a84c'/%3E%3C/svg%3E") center / contain no-repeat;
-  opacity: 0.7;
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--gold);
+  margin-left: 0.4rem;
+  vertical-align: middle;
 }
 
-.hear-week-day:last-child {
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-
-.hear-week-day:last-child::after {
-  display: none;
-}
-
-.hear-week-day h3 {
+.hear-tab-panel h3 {
   margin-bottom: 0.25rem;
 }
 
-.hear-week-reading {
+.hear-tab-panel .hear-week-reading {
   font-size: 0.9rem;
   color: var(--text-muted);
-  margin: 0 0 0.75rem;
+  margin: 0 0 1rem;
 }
 
 /* No-params landing */

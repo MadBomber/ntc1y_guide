@@ -171,27 +171,47 @@ function initWeekView(week) {
     { key: "r", label: "Respond", hint: "A specific action step and a written prayer.", rows: 4 },
   ]
 
+  // Tab bar
+  const tabBar = document.createElement("div")
+  tabBar.classList.add("hear-tabs")
+
+  const panels = []
+
   for (let d = 1; d <= 5; d++) {
     const entry = getEntry(week, d) || {}
-
-    const daySection = document.createElement("div")
-    daySection.classList.add("hear-week-day")
-
     const dTitle = dayTitle(week, d) || entry.title || `Day ${d}`
     const dReading = dayReading(week, d) || entry.reading || ""
+    const hasContent = !!(entry.h || entry.e || entry.a || entry.r)
+
+    // Tab button
+    const tab = document.createElement("button")
+    tab.classList.add("hear-tab")
+    tab.setAttribute("role", "tab")
+    tab.setAttribute("aria-selected", d === 1 ? "true" : "false")
+    tab.innerHTML = `<span class="hear-tab-num">Day ${d}</span>`
+    if (hasContent) {
+      tab.classList.add("has-entry")
+    }
+    tabBar.appendChild(tab)
+
+    // Panel
+    const panel = document.createElement("div")
+    panel.classList.add("hear-tab-panel")
+    panel.setAttribute("role", "tabpanel")
+    if (d !== 1) panel.style.display = "none"
 
     const dayHeader = document.createElement("h3")
     const dayLink = document.createElement("a")
     dayLink.href = `${weekPath(week)}/day-${d}`
-    dayLink.textContent = `Day ${d}: ${dTitle}`
+    dayLink.textContent = dTitle
     dayHeader.appendChild(dayLink)
-    daySection.appendChild(dayHeader)
+    panel.appendChild(dayHeader)
 
     if (dReading) {
       const readingEl = document.createElement("p")
       readingEl.classList.add("hear-week-reading")
       readingEl.textContent = dReading
-      daySection.appendChild(readingEl)
+      panel.appendChild(readingEl)
     }
 
     const statusEl = document.createElement("div")
@@ -213,10 +233,10 @@ function initWeekView(week) {
 
       fieldDiv.appendChild(label)
       fieldDiv.appendChild(textarea)
-      daySection.appendChild(fieldDiv)
+      panel.appendChild(fieldDiv)
     }
 
-    daySection.appendChild(statusEl)
+    panel.appendChild(statusEl)
 
     // Auto-save on input with debounce
     let saveTimeout = null
@@ -228,16 +248,35 @@ function initWeekView(week) {
           for (const fd of fieldDefs) {
             current[fd.key] = textareas[fd.key].value
           }
-          current.reading = entry.reading || ""
-          current.title = entry.title || ""
+          current.reading = dReading
+          current.title = dTitle
           saveEntry(week, d, current)
           showStatus(statusEl, "Saved")
+          tab.classList.add("has-entry")
         }, 800)
       })
     }
 
-    entriesEl.appendChild(daySection)
+    panels.push(panel)
+
+    // Tab click handler
+    tab.addEventListener("click", () => {
+      tabBar.querySelectorAll(".hear-tab").forEach(t => {
+        t.classList.remove("active")
+        t.setAttribute("aria-selected", "false")
+      })
+      tab.classList.add("active")
+      tab.setAttribute("aria-selected", "true")
+      panels.forEach(p => p.style.display = "none")
+      panel.style.display = "block"
+    })
   }
+
+  // Set first tab active
+  tabBar.querySelector(".hear-tab").classList.add("active")
+
+  entriesEl.appendChild(tabBar)
+  panels.forEach(p => entriesEl.appendChild(p))
 }
 
 // --- No params view ---
