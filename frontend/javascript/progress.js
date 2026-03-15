@@ -69,6 +69,14 @@ function completedItemCount() {
 
 const TOTAL_ITEMS = 6 + (52 * 7) // 6 phases + 52 weeks × 7 items = 370
 
+// --- Base path ---
+
+let BASE_PATH = ""
+
+function initBasePath() {
+  BASE_PATH = document.body?.dataset?.basePath || ""
+}
+
 // --- URL mapping ---
 
 const WEEK_PHASES = [
@@ -87,15 +95,15 @@ function phasePath(phaseNum) {
 function weekPath(week) {
   const phase = WEEK_PHASES.find(p => week >= p.start && week <= p.end)
   const wk = String(week).padStart(2, "0")
-  return `/${phase.path}/week-${wk}`
+  return `${BASE_PATH}/${phase.path}/week-${wk}`
 }
 
 function itemUrl(item) {
-  if (item.type === "phase") return `/${phasePath(item.phase)}/`
+  if (item.type === "phase") return `${BASE_PATH}/${phasePath(item.phase)}/`
   if (item.type === "overview") return `${weekPath(item.week)}/overview`
   if (item.type === "day") return `${weekPath(item.week)}/day-${item.day}`
   if (item.type === "discussion") return `${weekPath(item.week)}/discussion`
-  return "/"
+  return `${BASE_PATH}/`
 }
 
 // --- Next reading ---
@@ -276,10 +284,10 @@ function enhanceHomePage() {
       phaseNumTd.textContent = ""
 
       const phaseTitleTd = document.createElement("td")
-      phaseTitleTd.innerHTML = `<a href="/${phasePath(phaseNum)}/">Phase Overview</a>`
+      phaseTitleTd.innerHTML = `<a href="${BASE_PATH}/${phasePath(phaseNum)}/">Phase Overview</a>`
 
       const phaseLinkTd = document.createElement("td")
-      phaseLinkTd.innerHTML = `<a href="/${phasePath(phaseNum)}/">Read</a>`
+      phaseLinkTd.innerHTML = `<a href="${BASE_PATH}/${phasePath(phaseNum)}/">Read</a>`
 
       const phaseDateTd = document.createElement("td")
       phaseDateTd.classList.add("progress-date-cell")
@@ -536,6 +544,7 @@ function enhanceMemoryVersesIndex() {
 // --- Auto-detect and enhance ---
 
 document.addEventListener("DOMContentLoaded", () => {
+  initBasePath()
   const article = document.querySelector("article[data-phase], article[data-week]")
 
   // Memory verses index page
