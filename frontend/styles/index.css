@@ -1507,13 +1507,28 @@ button.toolbar-icon {
 }
 
 .hear-week-day {
-  margin-bottom: 2rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid var(--border-color);
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: none;
+}
+
+.hear-week-day::after {
+  content: "";
+  display: block;
+  width: 400px;
+  height: 40px;
+  margin: 2rem auto 0;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 280 24' fill='none'%3E%3Cpath d='M140 4 C125 4 120 12 105 12 C95 12 90 8 80 8 C70 8 60 14 45 14 C35 14 25 10 10 12' stroke='%239575cd' stroke-width='1.5' stroke-linecap='round' fill='none'/%3E%3Cpath d='M140 4 C155 4 160 12 175 12 C185 12 190 8 200 8 C210 8 220 14 235 14 C245 14 255 10 270 12' stroke='%239575cd' stroke-width='1.5' stroke-linecap='round' fill='none'/%3E%3Cpath d='M140 20 C125 20 120 12 105 12 C95 12 90 16 80 16 C70 16 60 10 45 10 C35 10 25 14 10 12' stroke='%239575cd' stroke-width='1.5' stroke-linecap='round' fill='none'/%3E%3Cpath d='M140 20 C155 20 160 12 175 12 C185 12 190 16 200 16 C210 16 220 10 235 10 C245 10 255 14 270 12' stroke='%239575cd' stroke-width='1.5' stroke-linecap='round' fill='none'/%3E%3Ccircle cx='140' cy='12' r='3' fill='%23c9a84c'/%3E%3Ccircle cx='10' cy='12' r='2' fill='%23c9a84c'/%3E%3Ccircle cx='270' cy='12' r='2' fill='%23c9a84c'/%3E%3C/svg%3E") center / contain no-repeat;
+  opacity: 0.7;
 }
 
 .hear-week-day:last-child {
-  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.hear-week-day:last-child::after {
+  display: none;
 }
 
 .hear-week-day h3 {
@@ -1524,38 +1539,6 @@ button.toolbar-icon {
   font-size: 0.9rem;
   color: var(--text-muted);
   margin: 0 0 0.75rem;
-}
-
-.hear-week-field {
-  margin-bottom: 0.75rem;
-}
-
-.hear-week-field strong {
-  color: var(--purple-mid);
-  font-size: 0.9rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.hear-week-field p {
-  margin: 0.25rem 0 0;
-  white-space: pre-wrap;
-}
-
-.hear-week-date {
-  font-size: 0.8rem;
-  color: var(--text-muted);
-  margin-top: 0.5rem;
-}
-
-.hear-week-empty {
-  color: var(--text-muted);
-  font-style: italic;
-}
-
-.hear-week-edit-link {
-  font-size: 0.9rem;
-  font-family: var(--font-sans);
 }
 
 /* No-params landing */

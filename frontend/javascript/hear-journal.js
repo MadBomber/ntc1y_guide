@@ -30,7 +30,37 @@ function saveEntry(week, day, entry) {
   saveJournal(journal)
 }
 
-// --- Day titles lookup (for week view when no title in storage) ---
+// --- Study titles lookup ---
+
+function getStudyTitles() {
+  const el = document.getElementById("study-titles-data")
+  if (!el) return {}
+  try { return JSON.parse(el.textContent) } catch { return {} }
+}
+
+function weekTitle(week) {
+  const titles = getStudyTitles()
+  const w = titles[String(week)]
+  return w ? w.title : ""
+}
+
+function dayTitle(week, day) {
+  const titles = getStudyTitles()
+  const w = titles[String(week)]
+  if (!w || !w.days) return ""
+  const d = w.days[String(day)]
+  return d ? d.title : ""
+}
+
+function dayReading(week, day) {
+  const titles = getStudyTitles()
+  const w = titles[String(week)]
+  if (!w || !w.days) return ""
+  const d = w.days[String(day)]
+  return d ? d.reading : ""
+}
+
+// --- URL mapping ---
 
 const WEEK_PHASES = [
   { start: 1,  end: 4,  path: "phase-1-the-coming-of-christ" },
@@ -44,7 +74,8 @@ const WEEK_PHASES = [
 function weekPath(week) {
   const phase = WEEK_PHASES.find(p => week >= p.start && week <= p.end)
   const wk = String(week).padStart(2, "0")
-  return `/${phase.path}/week-${wk}`
+  const basePath = document.body?.dataset?.basePath || ""
+  return `${basePath}/${phase.path}/week-${wk}`
 }
 
 // --- Query params ---
@@ -67,9 +98,11 @@ function initDayForm(week, day, reading, title) {
   const form = document.getElementById("hear-journal-day-form")
   const statusEl = document.getElementById("hear-status")
 
-  titleEl.textContent = `Week ${week}, Day ${day}: ${title || "Journal Entry"}`
-  if (reading) {
-    contextEl.textContent = `Reading: ${reading}`
+  const dTitle = title || dayTitle(week, day) || "Journal Entry"
+  const dReading = reading || dayReading(week, day)
+  titleEl.textContent = `Week ${week}, Day ${day}: ${dTitle}`
+  if (dReading) {
+    contextEl.textContent = `Reading: ${dReading}`
   }
   form.style.display = "block"
 
@@ -123,80 +156,87 @@ function initWeekView(week) {
   const weekView = document.getElementById("hear-journal-week-view")
   const entriesEl = document.getElementById("hear-week-entries")
 
-  titleEl.textContent = `Week ${week} Journal Review`
+  const wTitle = weekTitle(week)
+  titleEl.textContent = `Week ${week} Journal`
+  if (wTitle) {
+    const contextEl = document.getElementById("hear-journal-context")
+    contextEl.textContent = wTitle
+  }
   weekView.style.display = "block"
 
-  const journal = getJournal()
-  let hasAnyEntry = false
+  const fieldDefs = [
+    { key: "h", label: "Highlight", hint: "What verse or phrase stood out?", rows: 3 },
+    { key: "e", label: "Explain", hint: "What did this mean to its original audience?", rows: 4 },
+    { key: "a", label: "Apply", hint: "What does this mean for your life today?", rows: 4 },
+    { key: "r", label: "Respond", hint: "A specific action step and a written prayer.", rows: 4 },
+  ]
 
   for (let d = 1; d <= 5; d++) {
-    const entry = journal[entryKey(week, d)]
+    const entry = getEntry(week, d) || {}
 
     const daySection = document.createElement("div")
     daySection.classList.add("hear-week-day")
 
+    const dTitle = dayTitle(week, d) || entry.title || `Day ${d}`
+    const dReading = dayReading(week, d) || entry.reading || ""
+
     const dayHeader = document.createElement("h3")
     const dayLink = document.createElement("a")
     dayLink.href = `${weekPath(week)}/day-${d}`
-    const dayTitle = entry && entry.title ? entry.title : `Day ${d}`
-    dayLink.textContent = `Day ${d}: ${dayTitle}`
+    dayLink.textContent = `Day ${d}: ${dTitle}`
     dayHeader.appendChild(dayLink)
     daySection.appendChild(dayHeader)
 
-    if (entry && entry.reading) {
+    if (dReading) {
       const readingEl = document.createElement("p")
       readingEl.classList.add("hear-week-reading")
-      readingEl.textContent = entry.reading
+      readingEl.textContent = dReading
       daySection.appendChild(readingEl)
     }
 
-    if (entry && (entry.h || entry.e || entry.a || entry.r)) {
-      hasAnyEntry = true
-      const labels = { h: "Highlight", e: "Explain", a: "Apply", r: "Respond" }
-      for (const [key, label] of Object.entries(labels)) {
-        if (entry[key] && entry[key].trim()) {
-          const fieldDiv = document.createElement("div")
-          fieldDiv.classList.add("hear-week-field")
+    const statusEl = document.createElement("div")
+    statusEl.classList.add("hear-status")
 
-          const fieldLabel = document.createElement("strong")
-          fieldLabel.textContent = label
-          fieldDiv.appendChild(fieldLabel)
+    const textareas = {}
 
-          const fieldText = document.createElement("p")
-          fieldText.textContent = entry[key]
-          fieldDiv.appendChild(fieldText)
+    for (const def of fieldDefs) {
+      const fieldDiv = document.createElement("div")
+      fieldDiv.classList.add("hear-field")
 
-          daySection.appendChild(fieldDiv)
-        }
-      }
+      const label = document.createElement("label")
+      label.innerHTML = `<strong>${def.key.toUpperCase()}</strong> — ${def.label} <span class="hear-field-hint">${def.hint}</span>`
 
-      if (entry.updated) {
-        const dateEl = document.createElement("p")
-        dateEl.classList.add("hear-week-date")
-        const d2 = new Date(entry.updated)
-        dateEl.textContent = `Last edited: ${d2.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}`
-        daySection.appendChild(dateEl)
-      }
-    } else {
-      const emptyEl = document.createElement("p")
-      emptyEl.classList.add("hear-week-empty")
-      emptyEl.textContent = "No journal entry yet."
-      daySection.appendChild(emptyEl)
+      const textarea = document.createElement("textarea")
+      textarea.rows = def.rows
+      textarea.value = entry[def.key] || ""
+      textareas[def.key] = textarea
+
+      fieldDiv.appendChild(label)
+      fieldDiv.appendChild(textarea)
+      daySection.appendChild(fieldDiv)
     }
 
-    // Edit link
-    const editLink = document.createElement("a")
-    editLink.href = `?week=${week}&day=${d}`
-    editLink.classList.add("hear-week-edit-link")
-    editLink.textContent = entry && (entry.h || entry.e || entry.a || entry.r) ? "Edit entry" : "Write entry"
-    daySection.appendChild(editLink)
+    daySection.appendChild(statusEl)
+
+    // Auto-save on input with debounce
+    let saveTimeout = null
+    for (const def of fieldDefs) {
+      textareas[def.key].addEventListener("input", () => {
+        clearTimeout(saveTimeout)
+        saveTimeout = setTimeout(() => {
+          const current = getEntry(week, d) || {}
+          for (const fd of fieldDefs) {
+            current[fd.key] = textareas[fd.key].value
+          }
+          current.reading = entry.reading || ""
+          current.title = entry.title || ""
+          saveEntry(week, d, current)
+          showStatus(statusEl, "Saved")
+        }, 800)
+      })
+    }
 
     entriesEl.appendChild(daySection)
-  }
-
-  if (!hasAnyEntry) {
-    const contextEl = document.getElementById("hear-journal-context")
-    contextEl.textContent = "No journal entries for this week yet. Open a day page and use the journal icon to begin."
   }
 }
 
