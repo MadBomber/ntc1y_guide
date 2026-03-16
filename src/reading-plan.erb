@@ -1,0 +1,158 @@
+---
+layout: page
+title: Reading Plan Handout
+---
+
+<style>
+  .reading-plan {
+    margin: 0 auto;
+  }
+
+  .reading-plan-intro {
+    margin-bottom: 1rem;
+  }
+
+  .phase-section {
+    margin-top: 1.5rem;
+  }
+
+  .reading-plan .phase-header {
+    margin: 0 0 0.3rem 0;
+    padding-bottom: 0.2rem;
+    font-size: 1.2rem;
+    color: var(--primary-color, #6a4c93);
+    border-bottom: 2px solid var(--primary-color, #6a4c93);
+  }
+
+  .phase-weeks {
+    columns: 2;
+    column-gap: 2rem;
+  }
+
+  .week-block {
+    margin-bottom: 0.75rem;
+    break-inside: avoid;
+  }
+
+  .reading-plan .week-block h3 {
+    margin: 0 0 0.15rem 0;
+    font-size: 0.95rem;
+  }
+
+  .day-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+
+  .day-list li {
+    display: flex;
+    gap: 0.35rem;
+    padding: 0.05rem 0;
+    font-size: 0.85rem;
+    line-height: 1.3;
+  }
+
+  .day-label {
+    flex-shrink: 0;
+    font-weight: 600;
+    min-width: 2em;
+  }
+
+  .day-checkbox {
+    flex-shrink: 0;
+    width: 0.85em;
+    height: 0.85em;
+    margin-top: 0.2em;
+    border: 1.5px solid #999;
+    border-radius: 2px;
+  }
+
+  @media print {
+    .phase-weeks {
+      columns: 3;
+      column-gap: 1.5rem;
+    }
+
+    .reading-plan {
+      font-size: 8pt;
+    }
+
+    .phase-section {
+      margin-top: 1rem;
+    }
+
+    .phase-header {
+      margin-bottom: 0.2rem;
+      font-size: 1rem;
+    }
+
+    .week-block {
+      margin-bottom: 0.4rem;
+    }
+
+    .week-block h3 {
+      font-size: 0.85rem;
+      margin-bottom: 0.1rem;
+    }
+
+    .day-list li {
+      font-size: 0.75rem;
+    }
+
+    nav, footer, .site-header, .no-print {
+      display: none !important;
+    }
+  }
+</style>
+
+<%
+  titles = site.data.study_titles
+  phases = site.data.week_phases
+
+  phase_names = {
+    "phase-1-the-coming-of-christ"      => "Phase 1: The Coming of Christ",
+    "phase-2-galilean-ministry"          => "Phase 2: The Galilean Ministry",
+    "phase-3-road-to-jerusalem"          => "Phase 3: The Road to Jerusalem",
+    "phase-4-passion-and-resurrection"   => "Phase 4: Passion and Resurrection",
+    "phase-5-the-early-church"           => "Phase 5: The Early Church",
+    "phase-6-letters-and-revelation"     => "Phase 6: Letters and Revelation"
+  }
+
+  current_phase = nil
+%>
+
+<div class="reading-plan">
+  <p class="reading-plan-intro">A 52-week chronological journey through the New Testament &mdash; 5 days per week.</p>
+
+  <% (1..52).each do |week_num| %>
+    <%
+      week_key   = week_num.to_s
+      week_data  = titles[week_key]
+      phase_slug = phases[week_num]
+    %>
+
+    <% if phase_slug != current_phase %>
+      <% if current_phase %></div></div><% end %>
+      <% current_phase = phase_slug %>
+      <div class="phase-section">
+        <h2 class="phase-header"><%= phase_names[phase_slug] %></h2>
+        <div class="phase-weeks">
+    <% end %>
+
+    <div class="week-block">
+      <h3>Week <%= week_num %>: <%= week_data["title"] %></h3>
+      <ul class="day-list">
+        <% (1..5).each do |day_num| %>
+          <% day = week_data["days"][day_num.to_s] %>
+          <li>
+            <div class="day-checkbox"></div>
+            <span class="day-label"><%= day_num %>.</span>
+            <span><%= day["reading"] %></span>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+  </div></div>
+</div>
